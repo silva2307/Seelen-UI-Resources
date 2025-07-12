@@ -822,7 +822,7 @@ metadata:
       これは、オリジナルの滑らかなドックのリメイクです。今ではSmooth Dockbar V2として再考されました。 
       新鮮なビジョンで作られたV2は、より洗練された美学をテーブルにもたらします。このデザインは、温かくクールなトーンとシームレスな流動性を融合させ、ソフトモーションとデジタルの深さの幻想を生み出す夢のようなカラフルなグラデーションの背景を特徴としています。中央のきれいで大胆な白いテキストは、テーマに明確にラベル付けされており、プロモーションの使用やドックバールのリソースのカバーイメージとして理想的です。 
       最新のUI環境に完全に適したこの視覚は、エレガンス、シンプル、スムーズな移行を表しています。
-  portrait: null
+  portrait: https://github.com/silva2307/Seelen-UI-Resources/blob/main/Smooth%20DockBar%20v2/SmothDockPort.png
   banner: null
   screenshots: []
   tags:
