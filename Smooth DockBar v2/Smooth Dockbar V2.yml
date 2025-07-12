@@ -1,0 +1,851 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Seelen-Inc/slu-lib/refs/heads/master/gen/schemas/theme.schema.json
+id: '@kenshi9999/SmoothDockV2'
+metadata:
+  displayName:
+    en: Smooth Dock v2
+    af: Gladde beskuldigdebank V2
+    az: Hamar dok v2
+    bs: Glatki pristanište V2
+    ca: Smooth Dock V2
+    cs: Smooth Dock V2
+    cy: Doc llyfn v2
+    da: Glat dock v2
+    de: Glattes Dock v2
+    et: Sujuv dokk v2
+    es: Dock Smooth V2
+    eu: Dock v2 leuna
+    tl: Makinis na pantalan v2
+    fr: Dock lisse v2
+    hr: Glatka pristaništa v2
+    id: Dermaga V2 yang halus
+    zu: I-Smooth Dock v2
+    is: Slétt bryggju v2
+    it: Dock liscio v2
+    sw: Ngozi laini v2
+    ku: Dock-ê v2
+    lv: Gluds Dock V2
+    lb: Glat Dock v2
+    lt: Lygus dokas V2
+    hu: Sima dokk v2
+    ms: Smooth Dock v2
+    mt: Dock Smooth V2
+    nl: Smooth Dock V2
+    'no': Glatt dock v2
+    uz: Silliq dok v2
+    pl: Gładki dok v2
+    pt: Doca lisa v2
+    ro: Smooth Dock V2
+    sk: Hladký dok v2
+    so: Dock dock v2
+    fi: Sileä telakka V2
+    sv: Smooth Dock V2
+    vi: Bến mịn V2
+    tr: Pürüzsüz Dock V2
+    yo: Dack dock v2
+    el: Ομαλή αποβάθρα v2
+    bg: Гладък док V2
+    mk: Мазно пристаниште V2
+    mn: Гөлгөр док v2
+    ru: Гладкий док v2
+    sr: Глатки пристаниште В2
+    tg: Ҳамвор Dock v2
+    uk: Гладкий док V2
+    ka: გლუვი დოკ V2
+    hy: Հարթ նավահանգիստ v2
+    he: חלקה מזח V2
+    ur: ہموار گودی V2
+    ar: ناعم قفص الاتهام V2
+    ps: اسانه ډنډ V2
+    fa: حوض صاف V2
+    am: ለስላሳ dock v2
+    ne: चिल्लो डक v2
+    hi: चिकनी गोदी v2
+    bn: মসৃণ ডক ভি 2
+    pa: ਨਿਰਵਿਘਨ ਡੌਕ ਵੀ 2
+    gu: સરળ ગોદી વી 2
+    ta: மென்மையான கப்பல்துறை வி 2
+    te: మృదువైన డాక్ v2
+    si: සුමට ඩොක් වී 2
+    th: Dock Smooth Dock V2
+    lo: v2 dock ກ້ຽງ
+    km: ចតយ៉ាងរលូន v2
+    ko: 부드러운 도크 V2
+    zh: 光滑的码头V2
+    ja: スムーズなドックV2
+  description:
+    en: >-
+      This is the remake of the original Smooth Dock — now reimagined as Smooth
+      DockBar V2.  Crafted with a fresh vision, V2 brings a more refined
+      aesthetic to the table. The design features a dreamy, colorful gradient
+      background that blends warm and cool tones with seamless fluidity,
+      creating an illusion of soft motion and digital depth. The clean, bold
+      white text in the center clearly labels the theme, making it ideal for
+      promotional use or as a cover image for your dockbar resource.  Perfectly
+      suited for modern UI environments, this visual represents elegance,
+      simplicity, and smooth transitions — true to the name "Smooth DockBar"
+      (https://seelen.io/resources/bmw/SmoothDock)
+    af: >-
+      Dit is die remake van die oorspronklike gladde beskuldigdebank - nou
+      herontwerp as gladde Dockbar V2.  V2 is vervaardig met 'n vars visie en
+      bring 'n meer verfynde estetika na die tafel. Die ontwerp het 'n
+      dromerige, kleurryke gradiënt -agtergrond wat warm en koel kleure met
+      naatlose vloeibaarheid meng, wat 'n illusie van sagte beweging en digitale
+      diepte skep. Die skoon, gewaagde wit teks in die sentrum merk die tema
+      duidelik, wat dit ideaal maak vir promosie -gebruik of as 'n voorblad vir
+      u Dockbar -bron.  Hierdie visuele is perfek geskik vir moderne UI
+      -omgewings en verteenwoordig elegansie, eenvoud en gladde oorgange -
+      getrou aan die naam "Smooth Dockbar"
+      (https://seelen.io/resources/bmw/smoothdock)
+    az: >-
+      Bu, orijinal hamar dokun yenidən qurulmasıdır - indi hamar dokbar v2 kimi
+      yenidən qurulmuşdur.  Təzə bir görmə ilə hazırlanmış, V2, masaya daha
+      zərif estetik bir estetik gətirir. Dizayn, yumşaq və sərin tonları, yumşaq
+      və sərin tonları, yumşaq bir hərəkət və rəqəmsal dərinlik bir illüziya
+      yaradan xəyalpərəst, rəngarəng tonları qarışdıran xəyalpərəst, rəngarəng
+      gradient fon xüsusiyyətlərinə malikdir. Mərkəzdəki təmiz, cəsarətli ağ
+      mətn, bu mövzunu açıq şəkildə etiketləyir, tanıtım istifadə və ya Dockbar
+      resursunuz üçün örtük şəkli kimi ideal hala gətirir.  Müasir UI mühitləri
+      üçün mükəmməl uyğun olan bu vizual zərifliyi, sadəliyi və hamar keçidləri
+      təmsil edir - "Hamar Dockbar" adına doğrudur
+      (https://seelen.io/resources/bmw/smoothdock)
+    bs: >-
+      Ovo je remake originalnog glatkog pristaništa - sada se ponovo preispituje
+      kao glatka dockbar v2.  Izrađen sa svježom vidom, V2 donosi rafiniraniju
+      estetiku za stol. Dizajn sadrži sanjaru, šarenu gradijentnu pozadinu koja
+      spaja tople i hladne tonove besprijekornom fluidnošću, stvarajući iluziju
+      mekog pokreta i digitalne dubine. Čist, podebljani bijeli tekst u centru
+      jasno označava temu, čineći ga idealnim za promotivnu upotrebu ili kao
+      naslovnicu za vaš resurs docke.  Savršeno pogodan za moderna UI okruženja,
+      ovaj vizual predstavlja eleganciju, jednostavnost i glatke prijelaze -
+      vrijedne imenu "Glatka dockbar"
+      (https://seelen.io/resources/bmw/smoothdock)
+    ca: >-
+      Aquest és el remake del moll suau original, ara reimaginat com a Smooth
+      Dockbar V2.  Fabricat amb una visió fresca, V2 aporta una estètica més
+      refinada a la taula. El disseny presenta un fons de gradient oníric i
+      colorit que barreja tons càlids i frescos amb fluïdesa perfecta, creant
+      una il·lusió de moviment suau i profunditat digital. El text blanc net i
+      atrevit del centre etiqueta clarament el tema, cosa que el fa ideal per a
+      un ús promocional o com a imatge de portada per al recurs de Dockbar.  Per
+      perfectament adequat per a entorns d'interès moderns, aquesta visual
+      representa l'elegància, la simplicitat i les transicions suaus, fidels al
+      nom "Smooth Dockbar" (https://seelen.io/resources/bmw/smoothdock)
+    cs: >-
+      Toto je remake původního hladkého doku - nyní reimaginovaný jako Smooth
+      Dockbar V2.  V2, vytvořené s novou vizí, přináší ke stolu rafinovanější
+      estetiku. Design má zasněné, barevné gradientní pozadí, které mísí teplé a
+      chladné tóny s plynulou plynulostí a vytváří iluzi měkkého pohybu a
+      digitální hloubky. Čistý, odvážný bílý text ve středu jasně označí téma,
+      takže je ideální pro propagační použití nebo jako krycí obrázek pro váš
+      zdroj Dockbar.  Tento vizuální představuje eleganci, jednoduchost a hladké
+      přechody, které jsou dokonale vhodné pro moderní prostředí uživatelského
+      rozhraní, a věří názvu „Smooth Dockbar“
+      (https://seelen.io/resources/bmw/smoothdock)
+    cy: >-
+      Dyma ail -wneud y doc llyfn gwreiddiol - bellach wedi'i ail -lunio fel doc
+      llyfn Dockbar v2.  Wedi'i grefftio â gweledigaeth ffres, mae V2 yn dod ag
+      esthetig mwy mireinio i'r bwrdd. Mae'r dyluniad yn cynnwys cefndir
+      graddiant breuddwydiol, lliwgar sy'n asio arlliwiau cynnes ac oer â
+      hylifedd di -dor, gan greu rhith o symud meddal a dyfnder digidol. Mae'r
+      testun gwyn glân, beiddgar yn y ganolfan yn labelu'r thema yn glir, gan ei
+      gwneud yn ddelfrydol ar gyfer defnydd hyrwyddo neu fel delwedd clawr ar
+      gyfer eich adnodd docBar.  Yn berffaith addas ar gyfer amgylcheddau UI
+      modern, mae'r gweledol hwn yn cynrychioli ceinder, symlrwydd a
+      thrawsnewidiadau llyfn - yn wir i'r enw "Dockbar llyfn"
+      (https://seelen.io/resources/bmw/smoothdock)
+    da: >-
+      Dette er genindspilningen af den originale glatte dock - nu genindført som
+      glat dockbar v2.  Udformet med en frisk vision bringer V2 en mere
+      raffineret æstetik til bordet. Designet har en drømmende, farverig
+      gradientbaggrund, der blander varme og seje toner med problemfri
+      fluiditet, hvilket skaber en illusion af blød bevægelse og digital dybde.
+      Den rene, dristige hvide tekst i midten mærker tydeligt temaet, hvilket
+      gør det ideelt til salgsfremmende brug eller som et forsidebillede til din
+      dockbar -ressource.  Perfekt egnet til moderne UI -miljøer repræsenterer
+      denne visuelle elegance, enkelhed og glatte overgange - tro mod navnet
+      "Smooth Dockbar" (https://seelen.io/resources/bmw/smoothdock)
+    de: >-
+      Dies ist das Remake des ursprünglichen glatten Docks - jetzt als glattes
+      Dockbar V2 neu gestaltet.  V2 mit einer frischen Sicht gefertigt und
+      bringt eine raffiniertere Ästhetik auf den Tisch. Das Design verfügt über
+      einen verträumten, farbenfrohen Gradientenhintergrund, der warme und kühle
+      Töne mit nahtloser Fließfähigkeit kombiniert und eine Illusion von weicher
+      Bewegung und digitaler Tiefe erzeugt. Der saubere, kräftige weiße Text in
+      der Mitte beschreibt das Thema deutlich und macht es ideal für die
+      Verwendung von Werbezahlen oder als Titelbild für Ihre Dockbar
+      -Ressource.  Dieses Bild ist perfekt für moderne UI -Umgebungen geeignet
+      und repräsentiert Eleganz, Einfachheit und reibungslose Übergänge - treu
+      dem Namen "Smooth Dockbar" (https://seelen.io/resources/bmw/smoothdock)
+    et: >-
+      See on algse sujuva doki uusversioon - nüüd on ümber kujundatud kui sujuv
+      dokkbar V2.  Värske nägemisega valmistatud V2 toob lauale rafineerituma
+      esteetika. Kujundusel on unistav, värvikas gradiendi taust, mis ühendab
+      soojad ja jahedad toonid sujuva sujuvusega, luues pehme liikumise ja
+      digitaalse sügavuse illusiooni. Keskuses olev puhas, julge valge tekst
+      tähistab selle teema selgelt, muutes selle ideaalseks reklaamiks
+      kasutamiseks või teie dokkbaari ressursi kaanepiltina.  Täiuslikult sobiv
+      moodsate kasutajaliidese keskkondade jaoks, see visuaal tähistab
+      elegantsi, lihtsust ja siledaid üleminekuid - see on truu nimele "sujuv
+      dokkbar" (https://seelen.io/resources/bmw/smoothdock)
+    es: >-
+      Este es el remake del muelle suave original, ahora reinventado como
+      Dockbar V2 suave.  Hecho a mano con una visión fresca, V2 trae una
+      estética más refinada a la mesa. El diseño presenta un fondo de gradiente
+      soñador y colorido que combina tonos cálidos y fríos con fluidez perfecta,
+      creando una ilusión de movimiento suave y profundidad digital. El texto
+      blanco limpio y audaz en el centro etiqueta claramente el tema, lo que lo
+      hace ideal para el uso promocional o como una imagen de portada para su
+      recurso Dockbar.  Perfectamente adecuado para entornos de interfaz de
+      usuario modernos, este visual representa elegancia, simplicidad y
+      transiciones suaves, fiel al nombre "Smooth Dockbar"
+      (https://seelen.io/resources/bmw/Smoothdock)
+    eu: >-
+      Hau da jatorrizko kai leunaren remake - orain ickbar v2 leuna da. 
+      Ikuspegi freskoarekin artisauak, V2-k estetika finduagoa dakar mahaira.
+      Diseinuak gradiente ameslari eta koloretsu bat du, tonu epelak eta
+      freskoak nahasten dituena, jariagabetasunik gabekoa, higidura bigunaren
+      eta sakonera digitalaren ilusioa sortuz. Zentroan testu zuri lodia gaia
+      argi eta garbi etiketatzen da gaia, promoziorako erabilerarako egokia dela
+      eta zure Dockbar baliabidearentzako azaleko irudi gisa.  UI ingurune
+      modernoetarako ezin hobea da, ikusmen honek dotorezia, sinpletasuna eta
+      trantsizio leunak adierazten ditu. "Dockbar leuna" izenarekin
+      (https://seelen.io/resources/bmw/smoothdoocs)
+    tl: >-
+      Ito ang muling paggawa ng orihinal na makinis na pantalan - ngayon ay na
+      -reimagined bilang makinis na dockbar v2.  Ginawa ng isang sariwang
+      paningin, ang V2 ay nagdadala ng isang mas pino aesthetic sa talahanayan.
+      Nagtatampok ang disenyo ng isang mapangarapin, makulay na gradient na
+      background na pinaghalo ang mainit at cool na tono na may walang tahi na
+      likido, na lumilikha ng isang ilusyon ng malambot na paggalaw at lalim ng
+      digital. Ang malinis, naka -bold na puting teksto sa gitna ay malinaw na
+      may label ang tema, na ginagawang perpekto para sa paggamit ng promosyon o
+      bilang isang takip na imahe para sa iyong mapagkukunan ng Dockbar. 
+      Perpektong angkop para sa mga modernong kapaligiran ng UI, ang visual na
+      ito ay kumakatawan sa kagandahan, pagiging simple, at makinis na mga
+      paglilipat - totoo sa pangalang "Smooth Dockbar"
+      (https://seelen.io/resource/bmw/smoothdock)
+    fr: >-
+      Ceci est le remake du quai lisse original - maintenant repensé comme
+      Dockbar V2 lisse.  Fabriqué avec une nouvelle vision, V2 apporte une
+      esthétique plus raffinée à la table. Le design présente un fond de
+      gradient rêveur et coloré qui mélange des tons chauds et frais avec une
+      fluidité transparente, créant une illusion de mouvement doux et de
+      profondeur numérique. Le texte blanc propre et audacieux dans le centre
+      étiquette clairement le thème, ce qui le rend idéal pour une utilisation
+      promotionnelle ou comme image de couverture pour votre ressource Dockbar. 
+      Parfaitement adapté aux environnements d'interface utilisateur modernes,
+      ce visuel représente l'élégance, la simplicité et les transitions en
+      douceur - fidèle au nom "Smooth Dockbar"
+      (https://seelen.io/resources/bmw/smoothdock)
+    hr: >-
+      Ovo je remake originalnog glatkog pristaništa - koji je sada ponovno
+      zamišljen kao Smooth Dockbar V2.  Izrađen sa svježim vidom, V2 donosi
+      rafiniraniju estetiku na stol. Dizajn sadrži sanjivu, živopisnu pozadinu
+      gradijenta koja miješa tople i hladne tonove s bešavnom fluidnošću,
+      stvarajući iluziju mekog pokreta i digitalne dubine. Čisti, podebljani
+      bijeli tekst u središtu jasno označava temu, što je idealno za promotivnu
+      upotrebu ili kao naslovnu sliku za vaš resurs DockBar.  Savršeno prikladan
+      za moderna sučelja, ovaj vizualni predstavlja eleganciju, jednostavnost i
+      glatke prijelaze - istinito na naziv "Smooth Dockbar"
+      (https://seelen.io/resources/bmw/smoothdock)
+    id: >-
+      Ini adalah remake dari dermaga halus asli - sekarang ditata ulang sebagai
+      Dockbar V2 yang halus.  Dibuat dengan visi baru, V2 membawa estetika yang
+      lebih halus ke meja. Desain ini memiliki latar belakang gradien yang
+      melamun dan berwarna -warni yang memadukan nada hangat dan keren dengan
+      fluiditas yang mulus, menciptakan ilusi gerakan lembut dan kedalaman
+      digital. Teks putih yang bersih dan tebal di tengah dengan jelas memberi
+      label tema, menjadikannya ideal untuk penggunaan promosi atau sebagai
+      gambar sampul untuk sumber daya dockbar Anda.  Sangat cocok untuk
+      lingkungan UI modern, visual ini mewakili keanggunan, kesederhanaan, dan
+      transisi yang halus - sesuai dengan nama "Dockbar yang halus"
+      (https://seelen.io/resources/bmw/smoothdock)
+    zu: >-
+      Lokhu kubuyiselwa kabusha kwe-dock ebushelelezi yasekuqaleni - manje
+      kubuye kufakwe kabusha njenge-dockbar v2 ebushelelezi.  Yakhelwe ngombono
+      omusha, i-v2 iletha ubuhle obucwebezeli abaningi etafuleni. Umklamo ubeka
+      isizinda esiphuphayo, esimibalabala esinemibala ehlanganisa amathoni
+      afudumele futhi apholile ngo-fluidity ongenamthungo, adale inkohliso
+      yokunyakaza okuthambile nokujula kwedijithali. Umbhalo omhlophe
+      ohlanzekile, onesibindi esikhungweni ngokusobala ulebula ingqikithi,
+      uwenze ilungele ukusetshenziswa kokuphromotha noma njengesithombe sekhava
+      somthombo wakho we-dockbar.  Ilungele ngokuphelele izimo zanamuhla ze-UI,
+      lokhu okubukwayo kumelela ubuhle obuhle, okulula, kanye nezinguquko
+      ezibushelelezi - ngokweqiniso egameni elithi "Smooth Dockbar"
+      (https://seulen.io/resours/bmw/smookhoock)
+    is: >-
+      Þetta er endurgerð upprunalegu sléttu bryggjunnar - sem nú er endurmyndað
+      sem slétt bryggju v2.  V2 er smíðaður með ferskri sýn og færir fágaðri
+      fagurfræði á borðið. Hönnunin er með draumkenndum, litríkum halla
+      bakgrunni sem blandast hlýjum og köldum tónum við óaðfinnanlegan vökva og
+      skapar blekking af mjúkri hreyfingu og stafrænu dýpi. Hinn hreini, djarfur
+      hvíti texti í miðjunni merkir greinilega þemað, sem gerir það tilvalið til
+      kynningarnotkunar eða sem forsíðumynd fyrir Dockbar auðlindina þína. 
+      Hentar fullkomlega fyrir nútíma HÍ umhverfi, þetta sjón táknar glæsileika,
+      einfaldleika og sléttar umbreytingar - satt að nafninu „Slétt bryggju“
+      (https://seelen.io/resources/bmw/smoothdock)
+    it: >-
+      Questo è il remake del dock liscio originale - ora reinventato come
+      Dockbar V2 liscio.  Realizzato con una visione fresca, V2 porta al tavolo
+      un'estetica più raffinata. Il design presenta uno sfondo da sogno e
+      colorato che fonde toni caldi e freddi con fluidità senza soluzione di
+      continuità, creando un'illusione di movimento morbido e profondità
+      digitale. Il testo bianco pulito e audace al centro etichetta chiaramente
+      il tema, rendendolo ideale per l'uso promozionale o come immagine di
+      copertina per la risorsa DockBar.  Perfettamente adatto ai moderni
+      ambienti di utente, questo punto di vista visivo rappresenta eleganza,
+      semplicità e transizioni fluide - fedele al nome "Smooth Dockbar"
+      (https://seelen.io/resources/bmw/smoothdock)
+    sw: >-
+      Hii ndio kumbukumbu ya kizimbani cha asili - sasa imewekwa tena kama laini
+      ya dockbar v2.  Iliyoundwa na maono safi, V2 huleta uzuri zaidi
+      uliosafishwa kwenye meza. Ubunifu huo una asili ya kuota, yenye rangi ya
+      kupendeza ambayo inachanganya tani za joto na baridi na umiminika usio na
+      mshono, na kuunda udanganyifu wa mwendo laini na kina cha dijiti.
+      Maandishi safi na yenye ujasiri katikati huandika wazi mada hiyo, na
+      kuifanya iwe bora kwa matumizi ya uendelezaji au kama picha ya kifuniko
+      cha rasilimali yako ya Dockbar.  Inafaa kabisa kwa mazingira ya kisasa ya
+      UI, taswira hii inawakilisha umaridadi, unyenyekevu, na mabadiliko laini -
+      kweli kwa jina "laini dockbar" (https://seelen.io/resource/bmw/smoothdock)
+    ku: >-
+      Ev remake of the Dock Smooth Original - Naha ji nû ve wekî Dockbar Smooth
+      V2 Reachinged.  Bi vîzyonek nû ve hatî çêkirin, V2 estetîkî ya rafîner a
+      li ser maseyê vedike. Sêwiran ji xewnek xewnek xweşik, rengîn a ku bi
+      tonên germ û xweşik ên bi tezmînata bêserûber re têkildar dibe, afirandina
+      şewitandina tevgera nerm û dîjîtal. Nivîsa spî ya paqij, Bold di navendê
+      de bi zelalî mijar e, çêkirina wê ji bo karanîna reklamker an wekî wêneyek
+      cover ji bo çavkaniya Dockbar we îdeal e.  Ji bo hawîrdorên nû yên UI-yê
+      bêkêmasî, ev dîtbar, xweşikî, hêsantir û veguheztinên hêsantir - bi navê
+      "rastnivîsê rast" (https://seelen.io/besources/bm/smoothdock)
+    lv: >-
+      Tas ir oriģinālās gludās dokstacijas pārtaisījums - tagad tas tiek
+      pārveidots par gludu Dockbar V2.  Izgatavots ar svaigu redzi, V2 pie galda
+      atnes izsmalcinātāku estētiku. Dizainam ir sapņains, krāsains gradienta
+      fons, kas sajauc siltus un vēsus toņus ar bezšuvju plūstamību, radot
+      mīkstas kustības un digitālā dziļuma ilūziju. Tīrs, drosmīgs balts teksts
+      centrā skaidri apzīmē tēmu, padarot to ideālu reklāmas izmantošanai vai kā
+      jūsu Dockbar resursa vāka attēls.  Šis vizuālais attēlojums ir lieliski
+      piemērots modernai lietotāja saskarnes videi, kas atspoguļo eleganci,
+      vienkāršību un vienmērīgas pārejas - patiesas uz nosaukumu "Gludo DockBar"
+      (https://seelen.io/resources/bmw/smoothdock)
+    lb: >-
+      Dëst ass de Runk vun den originelle glatten Dock - elo als glat Dockbar v2
+      reimbar.  Huet mat enger frëscher Visioun mat enger frëscher Visioun mat
+      enger franséischer opgeruff asthetesch op den Dësch. Den Design EDITY E
+      DRAGY, faarweg gebattbar Hannergrond déi waarm a killt Spanneren mat
+      Saufwalter vu mëlleremt sinn. Sou propper, folscht wäiss Text am Zent ass
+      d'Thema kloer Etiketten, dat ass ideal fir Propositioun fir
+      Promotiounsbestell vun der Debarfress.  Perfekt passend fir modern Ui
+      Ëmfeld, dës Visual representéiert Eleganz, Einfachheet, a glat Iwwergängen
+      - richteg den Numm "glat Docks_sombar.
+    lt: >-
+      Tai yra originalaus sklandaus doko perdarymas - dabar permąstytas kaip
+      sklandus „Dockbar V2“.  Pagaminta nauja vizija, „V2“ pritraukia labiau
+      rafinuotą estetiką prie stalo. Dizainas pasižymi svajingu, spalvingu
+      gradiento fonu, kuris susimaišo su šiltais ir vėsiais tonais su vientisu
+      sklandumu, sukuriant minkšto judesio ir skaitmeninio gylio iliuziją.
+      Švarus, drąsus baltas tekstas centre aiškiai pažymi temą, todėl jis yra
+      idealus reklaminiam naudojimui arba kaip jūsų „DockBar“ šaltinio viršelio
+      vaizdas.  Puikiai tinka šiuolaikinei vartotojo sąsajoms, šis vaizdas
+      reiškia eleganciją, paprastumą ir sklandžius perėjimus - teisingas
+      pavadinimui „sklandus dokas“ (https://seelen.io/resources/bmw/smoothdock)
+    hu: >-
+      Ez az eredeti sima dokk átdolgozása - amelyet most sima Dockbar v2 -ként
+      ábrázolnak.  A friss látással készített V2 kifinomultabb esztétikát hoz az
+      asztalhoz. A formatervezés egy álmodozó, színes gradiens háttérrel
+      rendelkezik, amely meleg és hűvös hangokat kever a zökkenőmentes
+      folyékonysággal, így a lágy mozgás és a digitális mélység illúziója. A
+      tiszta, vastag fehér szöveg a központban egyértelműen címkézi a témát,
+      ideális ezáltal promóciós használatra vagy borítóképként a DockBar
+      erőforráshoz.  A modern felhasználói felület környezetekhez tökéletesen
+      alkalmas, ez a látvány az eleganciát, az egyszerűséget és a sima
+      átmeneteket képviseli - hű a "Smooth DockBar" névre
+      (https://seelen.io/resources/bmw/smoothdock)
+    ms: >-
+      Ini adalah pembuatan semula dok licin yang asal - kini ditimbulkan semula
+      sebagai Dockbar V2 yang lancar.  Dibuat dengan visi baru, V2 membawa
+      estetika yang lebih halus ke meja. Reka bentuk ini mempunyai latar
+      belakang kecerunan yang berwarna -warni dan berwarna -warni yang
+      menggabungkan nada hangat dan sejuk dengan ketidakstabilan lancar,
+      mewujudkan ilusi gerakan lembut dan kedalaman digital. Teks putih yang
+      bersih dan berani di tengah jelas melabelkan tema, menjadikannya sesuai
+      untuk kegunaan promosi atau sebagai imej penutup untuk sumber Dockbar
+      anda.  Sempurna sesuai untuk persekitaran UI moden, visual ini mewakili
+      keanggunan, kesederhanaan, dan peralihan yang lancar - benar dengan nama
+      "Smooth Dockbar" (https://seelen.io/resources/bmw/smoothdock)
+    mt: >-
+      Dan huwa r-remake tal-baċir lixx oriġinali - issa immaġina mill-ġdid bħala
+      Dockbar V2 bla xkiel.  Artiġjat b'viżjoni friska, V2 iġib estetika aktar
+      raffinata fuq il-mejda. Id-disinn għandu sfond ta 'gradjent tal-ħolm,
+      ikkulurit li jħallat toni sħan u friski ma' fluwidità bla xkiel, u joħloq
+      illużjoni ta 'moviment artab u fond diġitali. It-test abjad nadif u grassa
+      fiċ-ċentru jtikkettja b'mod ċar it-tema, u jagħmilha ideali għal użu
+      promozzjonali jew bħala immaġni ta 'kopertura għar-riżorsa tad-dockbar
+      tiegħek.  Adattat perfettament għal ambjenti moderni tal-UI, dan
+      il-viżwali jirrappreżenta eleganti, sempliċità, u transizzjonijiet bla
+      xkiel - veru għall-isem "dockbar bla xkiel"
+      (https://seelen.io/resources/bmw/smoothdock)
+    nl: >-
+      Dit is de remake van het originele gladde dok - nu opnieuw bedacht als
+      gladde dockbar v2.  V2 vervaardigd met een frisse visie en brengt een meer
+      verfijnde esthetiek naar de tafel. Het ontwerp heeft een dromerige,
+      kleurrijke gradiëntachtergrond die warme en koele tinten combineert met
+      naadloze vloeibaarheid, waardoor een illusie van zachte beweging en
+      digitale diepte ontstaat. De schone, gedurfde witte tekst in het midden
+      labelt duidelijk het thema, waardoor het ideaal is voor promotioneel
+      gebruik of als omslagafbeelding voor uw DockBar -bron.  Perfect geschikt
+      voor moderne UI -omgevingen, deze visuele vertegenwoordigt elegantie,
+      eenvoud en soepele overgangen - trouw aan de naam "Smooth Dockbar"
+      (https://selen.io/resources/bmw/smoothdock)
+    'no': >-
+      Dette er nyinnspilling av den originale Smooth Dock - nå reimagined som
+      glatt dockbar v2.  V2 er laget med en frisk visjon, og bringer en mer
+      raffinert estetikk til bordet. Designet har en drømmende, fargerik
+      gradientbakgrunn som blander varme og kule toner med sømløs fluiditet, og
+      skaper en illusjon av myk bevegelse og digital dybde. Den rene, dristige
+      hvite teksten i sentrum merker tydelig temaet, noe som gjør den ideell for
+      salgsfremmende bruk eller som et forsidebilde for Dockbar -ressursen din. 
+      Dette visuelle representerer eleganse, enkelhet og glatte overganger -
+      Sann til navnet "Smooth Dockbar" (https:
+    uz: >-
+      Bu asl silliq dokning qayta ishlashi - endi silliq dokarbar v2 kabi
+      qoplanadi.  Yangi ko'rish bilan tayyorlangan v2 stolga yanada toza
+      estetikani olib keladi. Dizayn xayolparast, rang-barang gradyan fonda,
+      iliq va salqin ohanglarni yumshoqlik bilan aralashtirib, yumshoq harakat
+      va raqamli chuqurlik illyuzozi yaratadi. Markazda toza, qalin oq matn
+      mavzuni aniq belgilab, uni reklama ishlatish uchun ideal qiladi yoki
+      sizning lockbar resursingiz uchun muqovali tasvir sifatida.  Zamonaviy UI
+      muhitiga juda mos keladi, bu vizual nafislik, soddalik va silliq o'tish -
+      "Silliq dokbar" nomiga to'g'ri keladi
+    pl: >-
+      To jest remake oryginalnej gładkiej dok - teraz ponownie wyobrażony jako
+      gładki doker v2.  Wykonany ze świeżą wizją, V2 wnosi do stołu bardziej
+      wyrafinowaną estetykę. Projekt ma marzycielskie, kolorowe tło gradientu,
+      które łączy ciepłe i chłodne odcienie z płynną płynnością, tworząc iluzję
+      miękkiego ruchu i głębokości cyfrowej. Czysty, odważny biały tekst w
+      centrum wyraźnie określa motyw, co czyni go idealnym do użytku
+      promocyjnego lub jako obraz okładki dla twojego zasobu Dockbar.  Ta
+      wizualna elegancja, idealnie nadaje się do nowoczesnych środowisk
+      interfejsu użytkownika, reprezentuje elegancję, prostotę i gładkie
+      przejścia - zgodnie z nazwą „Smooth Dockbar”
+      (https://seelen.io/resources/bmw/smoothdock)
+    pt: >-
+      Este é o remake da doca lisa original - agora reimaginada como DockBar V2
+      suave.  Criado com uma nova visão, a V2 traz uma estética mais refinada à
+      mesa. O design apresenta um fundo de gradiente colorido e sonhador que
+      combina tons quentes e frios com fluidez perfeita, criando uma ilusão de
+      movimento suave e profundidade digital. O texto branco limpo e ousado no
+      centro rotula claramente o tema, tornando -o ideal para uso promocional ou
+      como uma imagem de capa para o seu recurso DockBar.  Perfeitamente
+      adequado para ambientes modernos da interface do usuário, esse visual
+      representa elegância, simplicidade e transições suaves - fiel ao nome
+      "Smooth Dockbar" (https://seelen.io/resources/bmw/smoothdock)
+    ro: >-
+      Acesta este remake -ul Dock -ului original Smooth - acum reimaginat ca
+      Dockbar neted V2.  Confecționat cu o viziune proaspătă, V2 aduce o
+      estetică mai rafinată la masă. Designul prezintă un fundal de gradient de
+      vis, colorat, care îmbină tonurile calde și reci cu fluiditate perfectă,
+      creând o iluzie de mișcare moale și adâncime digitală. Textul alb curat,
+      îndrăzneț din centru, etichetează clar tema, ceea ce îl face ideal pentru
+      utilizarea promoțională sau ca imagine de copertă pentru resursa dvs.
+      Dockbar.  Perfect potrivită pentru mediile UI moderne, acest vizual
+      reprezintă eleganță, simplitate și tranziții netede - fidel numelui
+      „Smooth Dockbar” (https://seelen.io/resources/bmw/smoothdock)
+    sk: >-
+      Toto je remake pôvodného hladkého doku - teraz sa znovu predstavuje ako
+      hladký Dockbar V2.  V2, vytvorená s čerstvým videním, prináša k stolu
+      rafinovanejšiu estetiku. Dizajn je vybavený zasneným, farebným gradientným
+      pozadím, ktoré spája teplé a chladné tóny s plynulým plynulosťou, čím
+      vytvára ilúziu mäkkého pohybu a digitálnej hĺbky. Čistý, odvážny biely
+      text v centre jasne označuje tému, vďaka čomu je ideálny pre propagačné
+      použitie alebo ako obrazový obrázok pre váš zdroj Dockbar.  Tento vizuál
+      je dokonale vhodný pre moderné prostredie používateľského rozhrania,
+      predstavuje eleganciu, jednoduchosť a hladké prechody - pravda pre názov
+      „Smooth Dockbar“ (https://seelen.io/resources/bmw/smoothdock)
+    so: >-
+      Kani waa dib u soo kabashada meesha asalka ah ee toosan - hadda dib loo
+      soo sheegay inuu yahay mid rockbar ah v2.  Waxaa lagu sharraxay aragti
+      cusub, V2 waxay keentaa suule sare oo miiska ah. Qaab-dhismeedka waxaa
+      muujinaya riyo, asal ahaan midab leh oo isku-dhafan oo codad diiran oo
+      qabow oo dareerayaal aan kala go 'lahayn, oo abuuraya khayaali ah oo
+      dhaqdhaqaaq jilicsan iyo qoto dheer dijital ah. Qoraalka cadaanka ah ee
+      nadiifka ah, oo geesinimo leh oo ku yaal bartamaha si cad ayuu u sumoobay
+      mawduuca, taasoo ka dhigaysa mid ku habboon adeegsiga xayeysiinta ama sida
+      sawir daboolida kheyraadkaaga Dockbar.  Sifiican ugu habboon deegaannada
+      casriga ah ee UI, muuqaalku wuxuu matalaa xarrago, fududaan, iyo kala-guur
+      siman
+    fi: >-
+      Tämä on alkuperäisen sileän telakan uusinta - joka on nyt kuvattu sileäksi
+      Dockbar V2: ksi.  Tuoreella visiolla valmistettu V2 tuo pöydälle
+      hienostuneemman estetiikan. Suunnittelussa on unenomainen, värikäs
+      gradienttitausta, joka sekoittaa lämpimiä ja viileitä sävyjä saumattomalla
+      sujuvuudella, mikä luo illuusion pehmeästä liikkeestä ja digitaalisesta
+      syvyydestä. Keskustan puhdas, lihavoitu valkoinen teksti merkitsee teeman
+      selvästi, mikä tekee siitä ihanteellisen mainoskäyttöön tai kannen kuvana
+      Dockbar -resurssillesi.  Tämä visuaalinen sopii täydellisesti moderneihin
+      käyttöliittymäympäristöihin, mikä edustaa eleganssia, yksinkertaisuutta ja
+      sileitä siirtymiä - totta nimelle "Sileä Dockbar"
+      (https://seelen.io/resources/bmw/smoothdock)
+    sv: >-
+      Detta är remake av den ursprungliga smidiga bryggan - nu ombildad som
+      smidig bryggbar V2.  V2 är utformad med en ny vision och ger en mer
+      förfinad estetik till bordet. Designen har en drömmande, färgglad
+      gradientbakgrund som blandar varma och svala toner med sömlös fluiditet,
+      vilket skapar en illusion av mjuk rörelse och digitalt djup. Den rena,
+      djärva vita texten i mitten märker tydligt temat, vilket gör det idealiskt
+      för marknadsföring eller som en täckningsbild för din Dockbar -resurs. 
+      Denna visuella är perfekt lämpade för moderna UI -miljöer, och
+      representerar elegans, enkelhet och smidiga övergångar - trogen namnet
+      "Smooth Dockbar" (https://seelen.io/resources/bmw/smoothdock)
+    vi: >-
+      Đây là bản làm lại của Dock Smooth gốc - bây giờ được mô phỏng lại dưới
+      dạng Smooth Dockbar v2.  Được chế tạo với một tầm nhìn mới, V2 mang đến
+      một thẩm mỹ tinh tế hơn cho bàn. Thiết kế có nền gradient mơ mộng, đầy màu
+      sắc, pha trộn các tông màu ấm và mát với sự trôi chảy liền mạch, tạo ra ảo
+      tưởng về chuyển động mềm và độ sâu kỹ thuật số. Văn bản trắng sạch, táo
+      bạo ở trung tâm rõ ràng dán nhãn cho chủ đề, làm cho nó trở nên lý tưởng
+      cho việc sử dụng quảng cáo hoặc làm hình ảnh bìa cho tài nguyên Dockbar
+      của bạn.  Hoàn toàn phù hợp cho các môi trường UI hiện đại, hình ảnh này
+      thể hiện sự thanh lịch, đơn giản và chuyển tiếp trơn tru - đúng với tên
+      "Smooth Dockbar" (https://seelen.io/resource/bmw/smoothdock)
+    tr: >-
+      Bu, şimdi Smooth DockBar V2 olarak yeniden tasarlanan orijinal pürüzsüz
+      iskelenin yeniden yapımıdır.  Yeni bir vizyonla hazırlanmış V2, masaya
+      daha rafine bir estetik getiriyor. Tasarım, sıcak ve serin tonları
+      sorunsuz akışkanlık ile harmanlayan, yumuşak hareket ve dijital derinlik
+      yanılsaması yaratan rüya gibi, renkli bir gradyan arka planına sahiptir.
+      Merkezdeki temiz, cesur beyaz metin temayı açıkça etiketleyerek promosyon
+      kullanımı için ideal hale getirir veya dockbar kaynağınız için bir kapak
+      görüntüsü olarak.  Modern UI ortamları için mükemmel bir şekilde uygun
+      olan bu görsel zarafet, sadelik ve sorunsuz geçişleri temsil eder -
+      "Smooth DockBar" adına sadık kalır
+      (https://seelen.io/resources/bmw/smoothdock)
+    yo: >-
+      Eyi ni atunṣe ti ibi ibi iduro atilẹba kan - bayi fẹ bi dockbar v2.  Ti a
+      ṣe pẹlu iran tuntun kan, V2 mu darapupo fifẹ si tabili. Awọn apẹrẹ awọn
+      ẹya ala-ala, alagbẹgbẹ ti awọ ti o papọ gbona ati awọn ohun alumọni ti ko
+      ni omi, ṣiṣẹda iruju ti išipopada asọ ati ijinle oni-nọmba. Ọrọ funfun,
+      igboya ni aarin ni aarin awọn aami ọrọ, o jẹ ki o bojumu fun lilo igbega
+      tabi bi aworan ideri fun awọn orisun kekere rẹ.  Daradara baamu fun awọn
+      agbegbe UI ti ode oni, wiwo wa aṣoju didara, awọn ayedero, ati awọn
+      ilowosi dan - otitọ.
+    el: >-
+      Αυτό είναι το remake της αρχικής ομαλής αποβάθρας - τώρα
+      επαναπροσδιορίστηκε ως ομαλή Dockbar V2.  Κατασκευασμένο με ένα φρέσκο
+      όραμα, το V2 φέρνει μια πιο εκλεπτυσμένη αισθητική στο τραπέζι. Ο
+      σχεδιασμός διαθέτει ένα ονειρικό, πολύχρωμο φόντο κλίσης που συνδυάζει
+      ζεστούς και δροσερούς τόνους με απρόσκοπτη ρευστότητα, δημιουργώντας μια
+      ψευδαίσθηση μαλακής κίνησης και ψηφιακού βάθους. Το καθαρό, τολμηρό λευκό
+      κείμενο στο κέντρο επισημαίνει σαφώς το θέμα, καθιστώντας το ιδανικό για
+      διαφημιστική χρήση ή ως εικόνα κάλυψης για τον πόρο Dockbar σας.  Τέλεια
+      κατάλληλη για σύγχρονα περιβάλλοντα UI, αυτό το οπτικό αντιπροσωπεύει
+      κομψότητα, απλότητα και ομαλές μεταβάσεις - αληθές στο όνομα "Smooth
+      Dockbar" (https://seelen.io/resources/bmw/smoothdock)
+    bg: >-
+      Това е римейкът на оригиналния гладък док - сега преосмислен като Smooth
+      Dockbar V2.  Изработен със свежо зрение, V2 носи по -изискана естетика на
+      масата. Дизайнът разполага с мечтателен, цветен градиентен фон, който
+      съчетава топли и хладни тонове с безпроблемна плавност, създавайки илюзия
+      за меко движение и цифрова дълбочина. Чистият, смел бял текст в центъра
+      ясно обозначава темата, което го прави идеален за промоционално използване
+      или като обложка за вашия ресурс на Dockbar.  Перфектно подходящ за
+      съвременни UI среди, този визуален представлява елегантност, простота и
+      плавни преходи - вярно на името "Smooth Dockbar"
+      (https://seelen.io/resources/bmw/smoothdock)
+    mk: >-
+      Ова е римејк на оригиналното мазно пристаниште - сега се преименува како
+      мазен Dockbar V2.  Изработен со свеж вид, V2 носи повеќе рафинирана
+      естетика на масата. Дизајнот има сонувачка, шарена градиентна позадина што
+      меша топло и ладни тонови со беспрекорна флуидност, создавајќи илузија на
+      меко движење и дигитална длабочина. Чистиот, смел бел текст во центарот
+      јасно ја означува темата, што го прави идеален за промотивна употреба или
+      како корисна слика за вашиот ресурс Докбар.  Совршено одговара за
+      современи UI -околини, ова визуелно претставува елеганција, едноставност и
+      мазни транзиции - точно на името „Нежните докбар“
+      (https://seelen.io/resource/bmw/smoothdock)
+    mn: >-
+      Энэ бол анхны гөлгөр гөлгөр док-ыг сэргээх явдал юм.  Шинэ алсын хараатай
+      гар урлалаар дамжуулж, v2 нь илүү боловсронгуй гоо зүйн гоо зүйн аварга
+      шалгаруулалтад хүргэдэг. Дизайн нь загварлаг, сэрүүн, сэрүүн градиент,
+      зөөлөн хөдөлгөөнтэй, зөөлөн хөдөлгөөн, дижитал гүнзгийрүүлэлт үүсгэдэг.
+      Цэвэр, тод, тод цагаан текст нь Төв дэх Цагаан текстийг тодорхой шошго нь
+      сэдэвт ашиглахад тохиромжтой, эсвэл Dockbar Resource-ийн хувьд хамгийн
+      тохиромжтой юм.  Орчин үеийн UI орчинд тохиромжтой, энэ харааны орчинд
+      тохирсон, энэ харааны орчин, энгийн байдал, энгийн байдал, энгийн
+      шилжилтийг илэрхийлнэ.
+    ru: >-
+      Это римейк оригинального плавного дока - теперь переосмысливается как
+      гладкий докбар V2.  Созданный свежим зрением, V2 приносит более изысканный
+      эстетику на стол. Дизайн оснащен мечтательным, красочным градиентным
+      фоном, который сочетает в себе теплые и прохладные тона с бесшовной
+      плавностью, создавая иллюзию мягкого движения и цифровой глубины. Чистый,
+      смелый белый текст в центре четко обозначает тему, что делает ее идеальной
+      для рекламного использования или в виде обложки для вашего ресурса
+      докбара.  Идеально подходит для современных средам пользовательского
+      интерфейса, этот визуальный вид представляет элегантность, простоту и
+      гладкие переходы - верно для названия «Гладкий докбар»
+      (https://seelen.io/resources/bmw/smoothdock)
+    sr: >-
+      Ово је ремаке оригиналног глатког пристаништа - сада је поновљено као
+      глатка доцкбар в2.  СКРАДЕНО СРЕДНОМ ВИЗОМ, В2 доноси рафиниранији
+      естетски за сто. Дизајн има сан, шарену градијентну позадину која се меша
+      топле и хладне тонове са бешавном тешком флуитивном, стварајући илузију
+      меког кретања и дигиталне дубине. Чист, подебљани бели текст у центру
+      јасно означава тему, чинећи га идеалним за промотивну употребу или као
+      насловну слику за ваш доцкбар ресурс.  Савршено за модерне УИ окружења,
+      овај визуелни представља елеганција, једноставност и глатка прелаза -
+      Истини за име "Смоотх Доцкбар" (хттпс:
+      //сеелен.ио/ресоурцес/бмв/смоотхдоцк)
+    tg: >-
+      Ин қасди қасди аслӣ аст - ҳоло ҳамчун ҳамвор dockbar v2 дубора эҳё
+      мешавад.  Бо биниши тару тоза ҳунармандӣ карда мешавад, V2 як эстетикаи
+      тозашударо ба ҷадвал меорад. Тарҳрезӣ заминаи орзуи грелитсионӣ,
+      рангоранги рангорангро, ки тонҳои гарм ва хунукро бо омодагии бебаҳо
+      омехта мекунад, эҷод кардани хаёли ҳаракат ва чуқурии гарм. Матни сафед
+      сафед дар марказ мавзӯи хубе тамғагузашт ва онро барои истифодаи таблиғотӣ
+      ё ҳамчун тасвири сарпӯш барои манбаи Dockbar худ дар назар гузаронед. 
+      Комилан барои муҳити муосири UNIM-и муосир, ин визуалӣ зебо, содда ва
+      гузариши ҳамворро нишон медиҳад - ба номи "SUNDBAR" (https://seelen
+      "(https://seelen))
+    uk: >-
+      Це рімейк оригінальної гладкої док -станції - тепер перероблений як
+      гладкий Dockbar V2.  Створений свіжим зором, V2 приносить до столу більш
+      вишукану естетику. Дизайн має мрійливий, барвистий градієнтний фон, який
+      поєднує теплі та прохолодні тони з безшовною плинністю, створюючи ілюзію
+      м'якого руху та цифрової глибини. Чистий, сміливий білий текст у центрі
+      чітко позначає тему, що робить її ідеальною для рекламного використання
+      або як зображення обкладинки для вашого ресурсу Dockbar.  Ідеально
+      підходить для сучасних середовищ інтерфейсу, це візуальність представляє
+      витонченість, простоту та плавні переходи - вірно назві "Smooth Dockbar"
+      (https://selen.io/resources/bmw/smoothdock)
+    ka: >-
+      ეს არის ორიგინალური გლუვი დოკის რიმეიკი - ახლა გადაკეთებულია როგორც გლუვი
+      dockbar v2.  ახალი ხედვით შექმნილი, V2 სუფრასთან უფრო დახვეწილ ესთეტიკას
+      მოაქვს. დიზაინში წარმოდგენილია მეოცნებე, ფერადი გრადიენტური ფონი, რომელიც
+      აერთიანებს თბილ და გრილ ტონებს უწყვეტი სითხით, ქმნის რბილი მოძრაობის
+      ილუზიას და ციფრული სიღრმე. სუფთა, თამამი თეთრი ტექსტი ცენტრში აშკარად
+      ასახელებს თემას, რაც მას იდეალური გახდის სარეკლამო გამოყენებისთვის ან
+      როგორც თქვენი dockbar რესურსის გარეკანის გამოსახულება.  იდეალურად
+      შესაფერისია თანამედროვე UI გარემოში, ეს ვიზუალი წარმოადგენს ელეგანტურობას,
+      სიმარტივეს და გლუვ გადასვლებს - მართალია სახელწოდებით "გლუვი დოქბარი"
+      (https://seelen.io/resource/bmw/smoothdock)
+    hy: >-
+      Սա բնօրինակ սահուն Dock- ի վերամշակումն է. Այժմ Reimagined- ը Reimagined-
+      ը, որպես սահուն Dockbar V2:  Նոր տեսիլքով պատրաստված, v2- ը բերում է
+      սեղանի ավելի նուրբ գեղագիտական: Դիզայնը պարունակում է երազկոտ, գունագեղ
+      գրադիենտ ֆոն, որը խառնվում է տաք եւ զով երանգներով `սահուն հեղուկությամբ,
+      ստեղծելով փափուկ շարժման եւ թվային խորության պատրանք: Կենտրոնում մաքուր,
+      համարձակ սպիտակ տեքստը հստակ պիտակավորում է թեման, այն իդեալական դարձնելով
+      գովազդային օգտագործման համար կամ որպես ծածկույթի պատկեր ձեր Dockbar
+      ռեսուրսի համար:  Կատարյալ հարմար է ժամանակակից UI միջավայրերի համար, այս
+      տեսողականությունը ներկայացնում է նրբագեղություն, պարզություն եւ սահուն
+      անցումներ.
+    he: >-
+      זהו הגרסה המחודשת של המזח החלק המקורי - המוחלט כעת כ- Dockbar V2 חלק.  V2
+      מעוצב עם חזון טרי, מביא אסתטיקה מעודנת יותר לשולחן. העיצוב כולל רקע שיפוע
+      חולמני וצבעוני שמשלב גוונים חמים וקרירים עם נזילות חלקה, ויוצר אשליה של
+      תנועה רכה ועומק דיגיטלי. הטקסט הלבן הנקי והנועז במרכז מתייג בבירור את
+      הנושא, מה שהופך אותו לאידיאלי לשימוש קידום מכירות או כתמונת כיסוי למשאב ה-
+      Dockbar שלך.  ויזואלי זה מתאים באופן מושלם לסביבות ממשק משתמש מודרניות,
+      מייצג אלגנטיות, פשטות ומעברים חלקים - נאמנים לשם "Dockbar Slay"
+      (https://seelen.io/resources/bmw/smouthdock)
+    ur: >-
+      یہ اصل ہموار گودی کا ریمیک ہے - اب ہموار ڈاکبر V2 کے طور پر دوبارہ تصور
+      کیا گیا ہے۔  ایک تازہ وژن کے ساتھ تیار کردہ ، V2 میز پر زیادہ بہتر
+      جمالیاتی لاتا ہے۔ اس ڈیزائن میں ایک خیالی ، رنگین تدریجی پس منظر پیش کیا
+      گیا ہے جو ہموار اور ٹھنڈے ٹنوں کو بغیر کسی رکاوٹ کے ساتھ ملا دیتا ہے ، جس
+      سے نرم حرکت اور ڈیجیٹل گہرائی کا وہم پیدا ہوتا ہے۔ مرکز میں صاف ، بولڈ
+      سفید متن مرکزی خیال ، موضوع کو واضح طور پر لیبل لگا دیتا ہے ، جس سے یہ آپ
+      کے ڈاکبر وسائل کے لئے پروموشنل استعمال کے لئے یا کور امیج کے طور پر مثالی
+      ہے۔  جدید UI ماحول کے لئے بالکل موزوں ، یہ بصری خوبصورتی ، سادگی اور ہموار
+      منتقلی کی نمائندگی کرتا ہے - "ہموار ڈاکبر" کے نام کے مطابق
+      (https://seelen.io/resources/bmw/smothdock)
+    ar: >-
+      هذه هي طبعة جديدة من الرصيف السلس الأصلي - تم إعادة تصوره الآن على أنه
+      Dockbar V2 السلس.  مصنوعة برؤية جديدة ، يجلب V2 جمالية أكثر دقة على
+      الطاولة. يتميز التصميم بخلفية تدرج حالم وملونة تمزج بين النغمات الدافئة
+      والرائعة مع سيولة سلسة ، مما يخلق وهمًا من الحركة الناعمة والعمق الرقمي.
+      يصف النص الأبيض النظيف والجريء في الوسط السمة بوضوح ، مما يجعله مثاليًا
+      للاستخدام الترويجي أو كصورة غلاف لمورد DockBar الخاص بك.  مناسبة تمامًا
+      لبيئات واجهة المستخدم الحديثة ، يمثل هذا المرئي الأناقة والبساطة والتحولات
+      السلسة - وذلك لاسم "Dockbar السلس"
+      (https://seelen.io/resources/bmw/smoothdock)
+    ps: >-
+      دا د اصلي اسانه ډیک شریف دی - اوس د نرم ډیکبر V2 په توګه تنظیم شوی.  د
+      تازه لید سره ترتیب شوی، V2 د میز څخه ډیر پاک شوی ښکلا راوړي. ډیزاین یو
+      خوبونه لري، رنګینجرجرجي پړسۍ شاليد چې تودوخه او یخ ټنه د بدنام مایع سره
+      ترکیب کوي، د نرم حرکت او ډیجیټل ژورولو فریب رامینځته کوي. په مرکز کې پاک،
+      بولډ سپینه متن په روښانه ډول د موضوع موضوع په روښانه ډول لیبل کوي، چې دا
+      ستاسو د کینب بار سرچینې لپاره د پوښښ عکس په توګه غوره کوي.  په بشپړ ډول د
+      عصري Ui چاپیریال لپاره مناسب دی، دا لید دی "اسانه گکس بار"
+    fa: >-
+      این بازسازی حوض صاف اصلی است - که اکنون به عنوان Dockbar V2 صاف مجدداً
+      تصور می شود.  V2 که با دید تازه ساخته شده است ، زیبایی شناسی تصفیه شده تری
+      به میز می آورد. این طراحی دارای یک پس زمینه شیب رویایی و رنگارنگ است که
+      رنگ های گرم و خنک را با سیالیت یکپارچه می آمیزد و باعث ایجاد توهم حرکت نرم
+      و عمق دیجیتال می شود. متن سفید تمیز و جسورانه در مرکز به وضوح موضوع را
+      برچسب می زند ، و آن را برای استفاده تبلیغاتی یا به عنوان یک تصویر جلد برای
+      منبع Dockbar شما ایده آل می کند.  کاملاً مناسب برای محیط های مدرن UI ، این
+      تصویری نشان دهنده ظرافت ، سادگی و انتقال صاف است - درست به نام "Dockbar
+      Smooth" (https://seelen.io/resource/bmw/smoothdock)
+    am: >-
+      ይህ የመጀመሪያ ለስላሳ መደርደሪያ የተመረቀ ነው - አሁን እንደ ለስላሳ Dockbar v2 ተሞልቷል.  V2 በአዲስ
+      እይታ የተጠመደ, ቁ .2 እስከ ጠረጴዛው የበለጠ የተጣራ ውበት ያስከትላል. ዲዛይኑ ሙያዊ, በቀለማት ያሸበረቁ ድም
+      voices ች የሚቀሰቀሱ ለስላሳ እና አሪፍ የሆኑ ድምጾችን የሚቀሰሱ, ለስላሳ እንቅስቃሴ እና ዲጂታል ጥልቀት ያለው
+      ቅልጥፍና ይፈጥራል. ንፁህ, ደፋር ነጭ ጽሑፍ በማዕከሉ ውስጥ ያለው ደፋር ነጭ ጽሑፍ ጭብጡን የሚያመለክተው
+      ለማስተዋወቂያ አገልግሎት ወይም ለቆሻሻ ሀብትዎ እንደ የሽፋኑ ምስል ተስማሚ ያደርገዋል.  ለዘመናዊ የይነገጽ
+      አከባቢዎች በሚገባ የተደነገጉ, ይህ የእይታ ውህደት "ለስላሳ Dockbar" የሚለው ስም
+      (httpss.io.io/remources/bmme/smourck)
+    ne: >-
+      यो मूल चिल्लो डक को रिडिम हो - अब चिल्लो डकबार V2 को रूपमा रिमिटि।  एक
+      ताजा दर्शन संग crafted, v2 ले टेबलमा एक अधिक परिष्कृत प्रवृत्ति ल्याउँछ।
+      डिजाइनले एक सपना देख्दछ, रंगीन ग्रेडेन्ट पृष्ठभूमिले निर्मल तरलताको साथ
+      न्यानो र शान्त टोनहरूलाई मिश्रण गर्दछ, नरम गति र डिजिटल गहिराइको भ्रम
+      सिर्जना गर्दछ। केन्द्रमा स्वच्छ, बोल्ड सेतो पाठ स्पष्ट रूपमा विषयवस्तु
+      लेबल गर्दछ, तपाईंको डकबर स्रोतको लागि कभर छविको रूपमा।  आधुनिक उई
+      वातावरणको लागि पूर्ण रूपमा उपयुक्त छ, यस दृश्यले लालित्य, सरलता
+      प्रतिनिधित्व गर्दछ - नाच: //sehenemw/bmwwew/smoothuck)
+    hi: >-
+      यह मूल चिकनी डॉक का रीमेक है - अब चिकनी डॉकबार V2 के रूप में फिर से तैयार
+      किया गया।  एक ताजा दृष्टि के साथ तैयार की गई, V2 मेज पर अधिक परिष्कृत
+      सौंदर्यशास्त्र लाता है। डिज़ाइन में एक स्वप्निल, रंगीन ढाल पृष्ठभूमि है,
+      जो सीमलेस तरलता के साथ गर्म और शांत टन को मिश्रित करता है, जिससे नरम गति
+      और डिजिटल गहराई का भ्रम पैदा होता है। केंद्र में स्वच्छ, बोल्ड सफेद पाठ
+      स्पष्ट रूप से विषय को लेबल करता है, जिससे यह प्रचारक उपयोग के लिए आदर्श है
+      या आपके डॉकबार संसाधन के लिए एक कवर छवि के रूप में है।  आधुनिक यूआई
+      वातावरण के लिए पूरी तरह से अनुकूल, यह दृश्य लालित्य, सादगी और चिकनी
+      संक्रमणों का प्रतिनिधित्व करता है - "स्मूथ डॉकबार" नाम के लिए सही है
+      (https://seelen.io/resources/bmw/smoothdock)
+    bn: >-
+      এটি মূল মসৃণ ডকের রিমেক - এখন মসৃণ ডকবার ভি 2 হিসাবে পুনরায় কল্পনা করা
+      হয়েছে।  একটি নতুন দৃষ্টি দিয়ে তৈরি, ভি 2 টেবিলে আরও পরিশোধিত নান্দনিকতা
+      নিয়ে আসে। নকশায় একটি স্বপ্নময়, রঙিন গ্রেডিয়েন্ট ব্যাকগ্রাউন্ড রয়েছে
+      যা বিরামবিহীন তরলতা দিয়ে উষ্ণ এবং শীতল সুরগুলি মিশ্রিত করে, নরম গতি এবং
+      ডিজিটাল গভীরতার একটি মায়া তৈরি করে। কেন্দ্রের পরিষ্কার, সাহসী সাদা
+      পাঠ্যটি স্পষ্টতই থিমটিকে লেবেল করে, এটি প্রচারমূলক ব্যবহারের জন্য বা আপনার
+      ডকবার সংস্থার জন্য একটি কভার চিত্র হিসাবে আদর্শ করে তোলে।  আধুনিক ইউআই
+      পরিবেশের জন্য পুরোপুরি উপযুক্ত, এই ভিজ্যুয়াল কমনীয়তা, সরলতা এবং মসৃণ
+      রূপান্তরগুলি উপস্থাপন করে - "স্মুথ ডকবার" নামের সাথে সত্য
+      (https://seelen.io/resources/bmw/smothdock)
+    pa: >-
+      ਇਹ ਅਸਲੀ ਨਿਰਵਿਘਨ ਡੌਕ ਦਾ ਰੀਮੇਕ ਹੈ - ਹੁਣ ਨਿਰਵਿਘਨ ਡੌਕਬਾਰ V2 ਦੇ ਤੌਰ ਤੇ ਮੁੜ
+      ਚਾਲੂ.  ਤਾਜ਼ੇ ਦਰਸ਼ਨ ਨਾਲ ਤਿਆਰ ਕੀਤਾ ਗਿਆ, ਵੀ 2 ਟੇਬਲ ਤੇ ਵਧੇਰੇ ਸੁਧਾਰੀ ਸੁਹਜ ਕਰਦਾ
+      ਹੈ. ਡਿਜ਼ਾਈਨ ਵਿੱਚ ਇੱਕ ਸੁਫਨੀ, ਰੰਗੀਨ ਗਰੇਡੀਐਂਟ ਬੈਕਗ੍ਰਾਉਂਡ ਪੇਸ਼ ਕਰਦਾ ਹੈ ਜੋ ਨਰਮ
+      ਮੋਸ਼ਨ ਅਤੇ ਡਿਜੀਟਲ ਡੂੰਘਾਈ ਦੇ ਭਰਮ ਪੈਦਾ ਕਰਨ, ਸਹਿਜ ਤਰਲ ਪਦਾਰਥਾਂ ਨਾਲ ਮਿਲਾਉਂਦਾ ਹੈ.
+      ਸੈਂਟਰ ਵਿਚ ਸਾਫ਼, ਬੋਲਡ ਚਿੱਟਾ ਪਾਠ ਸਪਸ਼ਟ ਤੌਰ ਤੇ ਥੀਮ ਨੂੰ ਲੇਬਲ ਦਿੰਦਾ ਹੈ, ਇਸ ਨੂੰ
+      ਪ੍ਰਚਾਰ ਸੰਬੰਧੀ ਵਰਤੋਂ ਲਈ ਜਾਂ ਆਪਣੇ ਡੌਕ ਬਾਰ ਦੇ ਸਰੋਤਾਂ ਲਈ ਇਕ ਕਵਰ ਇਮੇਜ ਵਜੋਂ
+      ਆਦਰਸ਼ ਬਣਾਉਂਦਾ ਹੈ.  ਆਧੁਨਿਕ UI ਵਾਤਾਵਰਣ ਲਈ ਬਿਲਕੁਲ suited.
+    gu: >-
+      આ મૂળ સરળ ડોકની રિમેક છે - હવે સરળ ડોકબાર વી 2 તરીકે ફરીથી કલ્પના કરવામાં
+      આવી છે.  તાજી દ્રષ્ટિથી રચિત, વી 2 ટેબલ પર વધુ શુદ્ધ સૌંદર્યલક્ષી લાવે છે.
+      ડિઝાઇનમાં એક કાલ્પનિક, રંગીન grad ાળ પૃષ્ઠભૂમિ છે જે સીમલેસ પ્રવાહીતા સાથે
+      ગરમ અને ઠંડી ટોનને મિશ્રિત કરે છે, જે નરમ ગતિ અને ડિજિટલ depth ંડાઈનો ભ્રમ
+      બનાવે છે. કેન્દ્રમાં સ્વચ્છ, બોલ્ડ વ્હાઇટ ટેક્સ્ટ સ્પષ્ટ રીતે થીમને લેબલ
+      કરે છે, તેને પ્રમોશનલ ઉપયોગ માટે અથવા તમારા ડોકબાર સંસાધન માટે કવર ઇમેજ
+      તરીકે આદર્શ બનાવે છે.  આધુનિક UI વાતાવરણ માટે સંપૂર્ણ રીતે યોગ્ય, આ દ્રશ્ય
+      લાવણ્ય, સરળતા અને સરળ સંક્રમણોનું પ્રતિનિધિત્વ કરે છે - "સ્મૂધ ડોકબાર"
+      (https://seelen.io/resources/bmw/smothdock) નામથી સાચું છે.
+    ta: >-
+      இது அசல் மென்மையான கப்பல்துறையின் ரீமேக் ஆகும் - இப்போது மென்மையான
+      கப்பல்துறை வி 2 என மறுபரிசீலனை செய்யப்படுகிறது.  புதிய பார்வையுடன்
+      வடிவமைக்கப்பட்ட, வி 2 மேசைக்கு மிகவும் சுத்திகரிக்கப்பட்ட அழகியலைக்
+      கொண்டுவருகிறது. வடிவமைப்பில் ஒரு கனவான, வண்ணமயமான சாய்வு பின்னணி உள்ளது,
+      இது சூடான மற்றும் குளிர்ந்த டோன்களை தடையற்ற திரவத்துடன் கலக்கிறது, இது
+      மென்மையான இயக்கம் மற்றும் டிஜிட்டல் ஆழத்தின் மாயையை உருவாக்குகிறது.
+      மையத்தில் உள்ள சுத்தமான, தைரியமான வெள்ளை உரை கருப்பொருளை தெளிவாக
+      லேபிளிடுகிறது, இது விளம்பர பயன்பாட்டிற்கு ஏற்றதாகவோ அல்லது உங்கள்
+      கப்பல்துறை வளத்திற்கான கவர் படமாகவோ இருக்கும்.  நவீன UI சூழல்களுக்கு
+      மிகவும் பொருத்தமானது, இந்த காட்சி நேர்த்தியுடன், எளிமை மற்றும் மென்மையான
+      மாற்றங்களைக் குறிக்கிறது - "மென்மையான கப்பல்துறை"
+      (https://seelen.io/resources/bmw/smoothdock) என்ற பெயருக்கு உண்மை
+    te: >-
+      ఇది అసలు మృదువైన డాక్ యొక్క రీమేక్ - ఇప్పుడు మృదువైన డాక్‌బార్ V2 గా
+      తిరిగి imag హించింది.  తాజా దృష్టితో రూపొందించిన V2 పట్టికకు మరింత శుద్ధి
+      చేసిన సౌందర్యాన్ని తెస్తుంది. ఈ డిజైన్ కలలు కనే, రంగురంగుల ప్రవణత
+      నేపథ్యాన్ని కలిగి ఉంది, ఇది వెచ్చని మరియు చల్లని టోన్‌లను అతుకులు
+      ద్రవత్వంతో మిళితం చేస్తుంది, మృదువైన కదలిక మరియు డిజిటల్ లోతు యొక్క భ్రమను
+      సృష్టిస్తుంది. మధ్యలో శుభ్రమైన, బోల్డ్ వైట్ టెక్స్ట్ స్పష్టంగా థీమ్‌ను
+      లేబుల్ చేస్తుంది, ఇది ప్రచార ఉపయోగం కోసం లేదా మీ డాక్‌బార్ వనరు కోసం కవర్
+      ఇమేజ్‌గా అనువైనదిగా చేస్తుంది.  ఆధునిక UI పరిసరాలకు ఖచ్చితంగా సరిపోతుంది,
+      ఈ దృశ్యం చక్కదనం, సరళత మరియు సున్నితమైన పరివర్తనాలను సూచిస్తుంది - "స్మూత్
+      డాక్‌బార్" (https://seelen.io/resources/bmw/smoothdock) పేరుకు నిజం
+    si: >-
+      මුල් සුමට තටාකයේ ප්රතිරානයතාවය මෙයයි - දැන් සුමට ඩොක්බාර් v2 ලෙස නැවත සකස්
+      කර ඇත.  නැවුම් දැක්මක් සහිතව නිර්මාණය කර ඇති v2 මේසයට වඩාත් පිරිපහදු කරන
+      ලද සෞන්දර්යයක් ගෙන එයි. මෝස්තරයේ සිහින, වර්ණවත් ශ්රේණියේ මායාවක් වන සිහින,
+      වර්ණවත් ශ්රේණියේ පසුබිමක් බාධාවකින් තොර දුඹුරු පැහැයක් ගනී. මධ්යයේ
+      පිරිසිදු, නිර්භීත සුදු පෙළ පැහැදිලිවම තේමාව ලේබල් කරයි, ප්රවර්ධන භාවිතය
+      සඳහා හෝ ඔබේ ඩොක්බාර් සම්පත සඳහා ආවරණ රූපයක් ලෙස එය වඩාත් සුදුසු වේ.  නූතන
+      UI පරිසරයන් සඳහා පරිපූර්ණව ගැලපෙන මෙම දෘශ්ය, සරලත්වය, සරල බව, සරල බව සහ
+      සුමට සංක්රාන්ති - "සුමට ඩොක්බර්" (htthot dockbar '(htthot dockbars'
+      (htthot dockbars '(htths://seelaars/bmw/smoothcok)
+    th: >-
+      นี่คือการรีเมคของท่าเรือที่ราบรื่นดั้งเดิม -
+      ตอนนี้ได้รับการปรับปรุงใหม่เป็น Dockbar V2 ที่ราบรื่น 
+      สร้างขึ้นด้วยวิสัยทัศน์ที่สดใหม่ V2
+      นำความสวยงามที่ได้รับการกลั่นขึ้นมาบนโต๊ะ
+      การออกแบบมีพื้นหลังการไล่ระดับสีที่มีสีสันและความฝันที่ผสมผสานโทนเสียงอบอุ่นและเย็นเข้ากับความลื่นไหลอย่างราบรื่นสร้างภาพลวงตาของการเคลื่อนไหวที่อ่อนนุ่มและความลึกของดิจิตอล
+      ข้อความสีขาวที่สะอาดและเป็นตัวหนาตรงกลางติดป้ายธีมอย่างชัดเจนทำให้เหมาะสำหรับการใช้งานส่งเสริมการขายหรือเป็นภาพหน้าปกสำหรับทรัพยากร
+      Dockbar ของคุณ  เหมาะอย่างยิ่งสำหรับสภาพแวดล้อม UI
+      ที่ทันสมัยภาพนี้แสดงถึงความสง่างามความเรียบง่ายและการเปลี่ยนที่ราบรื่น -
+      จริงกับชื่อ "Smooth Dockbar" (https://seelen.io/resources/bmw/smoothdock)
+    lo: >-
+      ນີ້ແມ່ນການລະລຶກຂອງທ່າເຮືອທີ່ລຽບເດີມ - ຕອນນີ້ reimagined ເປັນ dockbar v2
+      smo dockbar v2.  ຫັດຖະກໍາດ້ວຍວິໄສທັດໃຫມ່ໆ, V2
+      ນໍາເອົາສິ່ງອໍານວຍຄວາມສະຫຼາດທີ່ຫລອມໂລຫະໄປສູ່ໂຕະ.
+      ການອອກແບບມີຄວາມເປັນມາໃນຄວາມຝັນທີ່ມີຄວາມຝັນ,
+      ສີສັນທີ່ມີຄວາມອົບອຸ່ນແລະມີຄວາມຄ່ອງຕົວໃນການເຄື່ອນໄຫວແລະຄວາມເລິກຂອງດິຈິຕອລ.
+      ຂໍ້ຄວາມສີຂາວທີ່ສະອາດແລະກ້າຫານຢູ່ໃນໃຈກາງຂອງປ້າຍຊື່,
+      ເຮັດໃຫ້ມັນເຫມາະສໍາລັບການນໍາໃຊ້ຫຼືເປັນຮູບພາບປົກສໍາລັບຊັບພະຍາກອນ dockbar
+      ຂອງທ່ານ.  ເຫມາະສົມທີ່ສຸດສໍາລັບສະພາບແວດລ້ອມ UI ທີ່ທັນສະໄຫມ,
+      ສາຍຕານີ້ສະແດງຄວາມສະຫງ່າງາມ, ລຽບງ່າຍ - ແລະການຫັນປ່ຽນທີ່ລຽບງ່າຍ "(
+    km: >-
+      នេះគឺជាការថតចម្លងនៃផែរលោងទៅវិញទៅមកដែលឥឡូវត្រូវបានតំឡើងថាជា Dockbar
+      រលូនរលោង។  សិប្បនិម្មិតជាមួយនឹងចក្ខុវិស័យស្រស់ v2
+      នាំមកនូវសោភ័ណភាពដែលបានកែលម្អបន្ថែមទៀតទៅតុ។
+      ការរចនានេះមានផ្ទៃខាងក្រោយជម្រាលពណ៌ដែលមានពណ៌ចម្រុះដែលលាយតោននិងត្រជាក់ជាមួយនឹងភាពត្រជាក់ដែលគ្មានពណ៌បង្កើតការបំភាន់នៃចលនាទន់និងស៊ីជម្រៅឌីជីថល។
+      អត្ថបទពណ៌សស្អាតដែលមានពណ៌ដិតដិតនៅចំកណ្តាលបានដាក់ស្លាកប្រធានបទយ៉ាងច្បាស់ធ្វើឱ្យវាល្អសម្រាប់ការប្រើប្រាស់ការផ្សព្វផ្សាយឬជារូបភាពគម្របសម្រាប់ធនធានឌីហ្សារបស់អ្នក។ 
+      សមឥតខ្ចោះសម្រាប់បរិស្ថាន UI
+      សម័យទំនើបការមើលឃើញនេះតំណាងឱ្យភាពឆើតឆាយភាពសាមញ្ញភាពសាមញ្ញនិងការផ្លាស់ប្តូររលូន
+      - ពិត "។
+    ko: >-
+      이것은 원래 스무드 독의 리메이크입니다.  신선한 시력으로 제작 된 V2는 테이블에보다 세련된 미학을 가져옵니다. 이 디자인은 꿈꾸고
+      화려한 그라디언트 배경을 특징으로하며 따뜻하고 시원한 톤을 원활한 유동성과 혼합하여 소프트 모션과 디지털 깊이의 환상을 만듭니다.
+      센터의 깨끗하고 대담한 흰색 텍스트는 테마에 명확하게 레이블을 부여하여 홍보 용도 또는 Dockbar 리소스의 표지 이미지로
+      이상적입니다.  현대 UI 환경에 완벽하게 적합한이 비주얼은 우아함, 단순성 및 부드러운 전환을 나타냅니다.
+    zh: >-
+      这是原始平滑码头的翻拍 - 现在被重新构想为平滑的Dockbar V2。 
+      V2用新鲜的视觉制作，将更精致的美感带到了桌子上。该设计具有梦幻，丰富多彩的梯度背景，将温暖而凉爽的色调与无缝的流动性融合在一起，从而产生了软运动和数字深度的幻想。中心干净的白色文字清楚地标记了主题，使其非常适合促销使用或作为Dockbar资源的封面图像。 
+      该视觉效果非常适合现代UI环境，代表了优雅，简单和光滑的过渡 - 忠于“ Smooth
+      Dockbar”（https://seelen.io/resources/bmw/smoothdock）
+    ja: >-
+      これは、オリジナルの滑らかなドックのリメイクです。今ではSmooth Dockbar V2として再考されました。 
+      新鮮なビジョンで作られたV2は、より洗練された美学をテーブルにもたらします。このデザインは、温かくクールなトーンとシームレスな流動性を融合させ、ソフトモーションとデジタルの深さの幻想を生み出す夢のようなカラフルなグラデーションの背景を特徴としています。中央のきれいで大胆な白いテキストは、テーマに明確にラベル付けされており、プロモーションの使用やドックバールのリソースのカバーイメージとして理想的です。 
+      最新のUI環境に完全に適したこの視覚は、エレガンス、シンプル、スムーズな移行を表しています。
+  portrait: null
+  banner: null
+  screenshots: []
+  tags:
+    - weg
+  appTargetVersion: null
+  path: >-
+    C:\Users\marce\AppData\Roaming\com.seelen.seelen-ui\themes\edf587d8-7cb7-4750-ab96-0d7c61fe21f3.slu
+  filename: edf587d8-7cb7-4750-ab96-0d7c61fe21f3.slu
+  bundled: false
+settings: []
+styles:
+  '@seelen/weg': |
+    .weg-item {
+      transition: all 0.2s ease;
+    }
+    .weg-item-icon:hover {
+      transform: scale(0.95);
+    }
+    .weg-item-icon:active {
+      transform: scale(0.85);
+      transition: transform 0.2s ease;
+    }
+    .weg-item:has(.weg-item-open-sign-focused) {
+      transform: scale(1.1);
+    }
+sharedStyles: ''
