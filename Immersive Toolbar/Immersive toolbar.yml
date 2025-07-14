@@ -1,873 +1,240 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/Seelen-Inc/slu-lib/refs/heads/master/gen/schemas/theme.schema.json
 id: '@kenshi9999/ImmersiveToolbar'
 metadata:
   displayName:
     en: Immersive Toolbar
-    af: Omvattende werkbalk
-    az: İmmersiv alətlər çubuğu
-    bs: Imerzivna alatna traka
-    ca: Barra d’eines immersiva
-    cs: Pohlcující panel nástrojů
-    cy: Bar offer ymgolli
-    da: Immersive værktøjslinje
-    de: Eindringliche Symbolleiste
-    et: Ümbritsev tööriistariba
-    es: Barra de herramientas inmersiva
-    eu: Tresna barra murgiltzailea
-    tl: Immersive toolbar
-    fr: Barre d'outils immersive
-    hr: Uronjena alatna traka
-    id: Toolbar Immersive
-    zu: Indawo yamathuluzi yokucwilisa
-    is: Yfirlit tækjastiku
-    it: Barra degli strumenti immersiva
-    sw: Zana ya kuzama
-    ku: Vebijêrkên berbiçav
-    lv: Ieskaujoša rīkjosla
-    lb: Imsersive Toolbar
-    lt: Imervatyvi įrankių juosta
-    hu: Magával ragadó eszköztár
-    ms: Bar alat immersive
-    mt: Toolbar immersiv
-    nl: Immersieve werkbalk
-    'no': Oppslukende verktøylinje
-    uz: Immerli asboblar paneli
-    pl: Wciągający pasek narzędzi
-    pt: Barra de ferramentas imersiva
-    ro: Bara de instrumente imersivă
-    sk: Pohlcujúci panel s nástrojmi
-    so: Qalabka Qalabka
-    fi: Syventävä työkalurivi
-    sv: Uppslukande
-    vi: Thanh công cụ nhập vai
-    tr: Sürükleyici araç çubuğu
-    yo: Impaunt irinṣẹ
-    el: Βυθιστική γραμμή εργαλείων
-    bg: Потапяща лента с инструменти
-    mk: Импресивна лента со алатки
-    mn: Acichersive багаж самбар
-    ru: Погружающая панель инструментов
-    sr: Умнозивна трака са алаткама
-    tg: Воситаи милод
-    uk: Панель інструментів занурення
-    ka: იმერული პანელი
-    hy: Ընկղմող գործիքագոտու
-    he: סרגל כלים ענק
-    ur: عمیق ٹول بار
-    ar: شريط أدوات غامرة
-    ps: د
-    fa: نوار ابزار همهجانبه
-    am: የመሣሪያ አሞሌ
-    ne: असीम उपकरणपट्टी
-    hi: इमर्सिव टूलबार
-    bn: নিমজ্জনকারী সরঞ্জামদণ্ড
-    pa: ਡੁਮਰਕੀ ਟੂਲਬਾਰ
-    gu: નિમુ ટૂલબાર
-    ta: அதிவேக கருவிப்பட்டி
-    te: లీనమయ్యే టూల్‌బార్
-    si: ගිල්වීමේ මෙවලම් තීරුව
-    th: แถบเครื่องมือที่ดื่มด่ำ
-    lo: ແຖບເຄື່ອງມືທີ່ບໍ່ດີ
-    km: របារឧបករណ៍អាយុកាល
-    ko: 몰입 형 도구 모음
-    zh: 沉浸式工具栏
-    ja: 没入型ツールバー
-  portrait: https://github.com/silva2307/Seelen-UI-Resources/blob/main/Immersive%20Toolbar/raw.png
+  portrait: null
   banner: null
   screenshots: []
   tags:
     - toolbar
   appTargetVersion: null
-  path: null
-  filename: null
+  path: 
+  filename: 
   bundled: true
-  description:
-    en: >-
-      A glowing harmony of design and utility, the Immersive Toolbar floats in a
-      realm between dream and interface. 💫 Bathed in deep purples and radiant
-      blues 🎨, it invites the user into a world where every click feels like a
-      gesture in light. ✨  Minimalist icons 🧭🔍🎚️ rest delicately over a
-      semi-transparent surface, radiating calm precision and futuristic allure
-      🚀. This isn’t just a toolbar — it’s an experience. A bridge 🌉 between
-      action and atmosphere, crafted to be felt as much as it is used 🖱️💡. 
-      The UI of tomorrow, wrapped in the elegance of now. 🌠
-    af: >-
-      Die opwindende werkbalk dryf 'n gloeiende harmonie van ontwerp en nut, en
-      dryf in 'n gebied tussen droom en koppelvlak. 💫 Bad in diep pers en
-      stralende blues 🎨 nooi die gebruiker na 'n wêreld waar elke klik soos 'n
-      gebaar in die lig voel. ✨ Minimalistiese ikone 🧭🔍🎚️ Rus fyn oor 'n
-      semi-deursigtige oppervlak, straal kalm presisie en futuristiese allure
-      🚀. Dit is nie net 'n werkbalk nie - dit is 'n ervaring. 'N Brug 🌉 tussen
-      aksie en atmosfeer, vervaardig om soveel te voel as wat dit gebruik word
-      🖱️💡.  Die UI van môre, toegedraai in die elegansie van nou. 🌠
-    az: >-
-      Dizayn və faydalı bir ahəngdarlıq, immersiv alət çubuğu xəyal və interfeys
-      arasındakı bir səltənətdə üzür. 💫 Dərin bənövşəyi və parlaq blues-də
-      yuyulur 🎨, istifadəçini hər kliklə işığın bir jest kimi hiss etdiyi bir
-      dünyaya dəvət edir. ✨ Minimalist nişanlar Bu sadəcə bir alət çubuğu deyil
-      - bir təcrübədir. Fəaliyyət və atmosfer arasında hazırlanmış bir körpü 🌉
-      istifadə olunduğu qədər hiss olunur.  Sabahın UI, indiyə qədər zərifliyə
-      bükülmüşdür. 🌠
-    bs: >-
-      Užarena harmonija dizajna i uslužnog programa, namerna alatna traka pluta
-      u carstvu između snova i sučelja. 💫 Okomano u dubokim purljivima i
-      blistavim bluesom 🎨, ona poziva korisnika u svijet u kojem svaki klik
-      osjeća kao gest u svjetlu. ✨ Minimalističke ikone 🧭🔍🎚️ Odmorite se
-      delikatno preko poluprozirne površine, zračeći mirne preciznosti i
-      futurističke alure 🚀. Ovo nije samo alatna traka - to je iskustvo. Most
-      🌉 između djelovanja i atmosfere, izrađen da bi se osjetio onoliko koliko
-      se koristi 🖱️💡.  Ui sutra, omotan u eleganciju. 🌠
-    ca: >-
-      Una resplendor harmonia de disseny i utilitat, la barra d’eines immersiva
-      flota en un regne entre el somni i la interfície. 💫 Banyat en morats
-      profunds i blaus radiants 🎨, convida a l’usuari a un món on cada clic se
-      sent com un gest a la llum. ✨ Icones minimalistes 🧭🔍🎚️ Descansa amb
-      delicadesa sobre una superfície semi-transparent, irradiant la precisió
-      tranquil·la i l’atractiu futurista 🚀. No es tracta només d’una barra
-      d’eines, sinó que és una experiència. Un pont 🌉 entre l’acció i
-      l’atmosfera, elaborat per sentir -se tant com s’utilitza 🖱️💡.  La
-      interfície d'usuari del demà, embolicada en l'elegància d'ara. 🌠
-    cs: >-
-      Zářící harmonie designu a užitečnosti se pohlcující panel nástrojů vznáší
-      v říši mezi snem a rozhraním. 💫 Koupející se v hlubokých purpucích a
-      Radiant Blues 🎨, zve uživatele do světa, kde se každé kliknutí cítí jako
-      gesto ve světle. ✨ Minimalistické ikony 🧭🔍🎚 Jemně odpočívejte nad
-      poloprůhledným povrchem, vyzařující klidnou přesnost a futuristické
-      lákadlo 🚀. Nejedná se pouze o panel nástrojů - je to zážitek. Most 🌉
-      mezi akcí a atmosférou, vytvořený tak, aby byl pociťován stejně, jak se
-      používá 🖱.  UI zítřka, zabalená do elegance nyní. 🌠
-    cy: >-
-      Yn gytgord disglair o ddyluniad a defnyddioldeb, mae'r bar offer ymgolli
-      yn arnofio mewn maes rhwng breuddwyd a rhyngwyneb. 💫 Wedi'i ymdrochi mewn
-      porffor dwfn a blues pelydrol 🎨, mae'n gwahodd y defnyddiwr i fyd lle mae
-      pob clic yn teimlo fel ystum mewn golau. ✨ Eiconau minimalaidd 🧭🔍🎚️
-      Gorffwyswch yn dyner dros arwyneb lled-dryloyw, gan belydru manwl gywirdeb
-      tawel ac allure dyfodolaidd 🚀. Nid bar offer yn unig mo hwn - mae'n
-      brofiad. Pont 🌉 rhwng gweithredu ac awyrgylch, wedi'i chrefftio i'w
-      theimlo cymaint ag y mae'n cael ei defnyddio 🖱️💡.  UI Yfory, wedi'i
-      lapio yng ngheinder nawr. 🌠
-    da: >-
-      En glødende harmoni af design og nytteværdi, den fordybende værktøjslinje
-      flyder i et område mellem drøm og interface. 💫 Badet i dybe lilla og
-      strålende blues 🎨, det inviterer brugeren til en verden, hvor hvert klik
-      føles som en gestus i lyset. ✨ Minimalistiske ikoner 🧭🔍🎚 hvile delikat
-      over en halvtransparent overflade, der udstråler rolig præcision og
-      futuristisk lokkemåde 🚀. Dette er ikke kun en værktøjslinje - det er en
-      oplevelse. En bro 🌉 mellem handling og atmosfære, der er udformet til at
-      blive følt så meget som den bruges 🖱.  UI af morgendagen, pakket ind i
-      elegancen af nu. 🌠
-    de: >-
-      Die immersive Symbolleiste ist eine glühende Harmonie von Design und
-      Nutzen und schwebt in einem Bereich zwischen Traum und Schnittstelle. 💫
-      In tiefen Purpur und strahlendem Blau 🎨 badet, lädt es den Benutzer in
-      eine Welt ein, in der sich jeder Klick wie eine Geste im Licht anfühlt. ✨
-      Minimalistische Ikonen 🧭🔍🎚️ räumen Sie zart auf einer halbtransparenten
-      Oberfläche, strahlen Sie ruhige Präzision und futuristisches Verbrauch 🚀
-      aus. Dies ist nicht nur eine Symbolleiste - es ist eine Erfahrung. Eine
-      Brücke zwischen Aktion und Atmosphäre, die so weit gefertigt wurde, dass
-      sie genauso wie sie verwendet werden 🖱️💡.  Die Benutzeroberfläche von
-      morgen, eingewickelt in die Eleganz von jetzt. 🌠
-    et: >-
-      Kujundus- ja kasulikkuse harmoonia, ümbritsev tööriistariba hõljub unenäo
-      ja liidese vahel. 💫 Supletud sügavate lillade ja kiirgavate bluusidega
-      🎨, see kutsub kasutaja maailma, kus iga klõps on valguses žestina. ✨
-      Minimalistlikud ikoonid 🧭🔍🎚️ puhkavad delikaatselt üle läbipääsupinna,
-      kiirgades rahulikku täpsust ja futuristlikku ahvatlemist 🚀. See pole
-      ainult tööriistariba - see on kogemus. Sild 🌉 tegevuse ja atmosfääri
-      vahel, mida on meisterdatud nii palju, kui seda kasutatakse 🖱️💡.  Homse
-      kasutajaliides, mis on mähitud nüüd elegantsi. 🌠
-    es: >-
-      Una armonía brillante de diseño y utilidad, la barra de herramientas
-      inmersiva flota en un reino entre el sueño y la interfaz. 💫 Bañado en
-      púrpuras profundas y azules radiantes 🎨, invita al usuario a un mundo
-      donde cada clic se siente como un gesto en la luz. ✨ iconos minimalistas
-      🧭🔍🎚️ descansa delicadamente en una superficie semitransparente,
-      irradiando la precisión tranquila y el encanto futurista 🚀. Esto no es
-      solo una barra de herramientas, es una experiencia. Un puente 🌉 entre la
-      acción y la atmósfera, diseñada para sentirse tanto como se usa 🖱️💡.  La
-      interfaz de usuario del mañana, envuelta en la elegancia de ahora. 🌠
-    eu: >-
-      Diseinuaren eta erabilgarritasunaren harmonia distiratsua, tresna-barra
-      murgiltzaileak ametsaren eta interfazearen arteko esparru batean flotatzen
-      du. 💫 Muria sakonetan eta blues distiratsuetan bainatuta, erabiltzaileak
-      klik egiten duen mundu batera gonbidatzen du. ✨ Ikono minimalistak 🧭🔍🎚️
-      Gozatu gainazal erdi garden baten gainetik, doitasun lasaia eta alure
-      futurista irradiatzea 🚀. Hau ez da tresna barra bat bakarrik -
-      esperientzia da. Ekintza eta atmosferaren arteko zubi bat, erabiltzen den
-      neurrian sentitu da.  Biharko UIa, orain dotoreziaz bilduta. E 🌠
-    tl: >-
-      Ang isang kumikinang na pagkakaisa ng disenyo at utility, ang nakaka
-      -engganyong toolbar ay lumulutang sa isang kaharian sa pagitan ng
-      panaginip at interface. 💫 Naligo sa malalim na purples at nagliliwanag na
-      blues 🎨, inaanyayahan nito ang gumagamit sa isang mundo kung saan ang
-      bawat pag -click ay parang isang kilos sa ilaw. ✨ Minimalist na mga icon
-      🧭🔍🎚️ Magpahinga nang delikado sa isang semi-transparent na ibabaw, na
-      nagliliwanag ng kalmado na katumpakan at futuristic allure 🚀. Ito ay
-      hindi lamang isang toolbar - ito ay isang karanasan. Isang tulay 🌉 sa
-      pagitan ng pagkilos at kapaligiran, na ginawa upang madama hangga't
-      ginagamit ito 🖱️💡.  Ang UI ng bukas, nakabalot sa kagandahan ng ngayon.
-      🌠
-    fr: >-
-      Une harmonie rougeoyante de conception et d'utilité, la barre d'outils
-      immersive flotte dans un domaine entre le rêve et l'interface. 💫 baigné
-      de violets profonds et de blues rayonnants 🎨, il invite l'utilisateur
-      dans un monde où chaque clic ressemble à un geste de lumière. ✨ Icônes
-      minimalistes 🧭🔍🎚️ Reposez-vous délicatement sur une surface
-      semi-transparente, rayonnant de précision calme et d'attrait futuriste 🚀.
-      Ce n'est pas seulement une barre d'outils - c'est une expérience. Un pont
-      🌉 entre l'action et l'atmosphère, fabriqués pour être ressentis autant
-      qu'il est utilisé 🖱️💡.  L'interface utilisateur de demain, enveloppée
-      dans l'élégance de maintenant. 🌠
-    hr: >-
-      Sjajan sklad dizajna i korisnosti, uronjena alatna traka lebdi u carstvu
-      između sna i sučelja. 💫 Okupana dubokim ljubičastim i blistavim bluesom
-      🎨, poziva korisnika u svijet u kojem se svaki klik osjeća kao gesta u
-      svjetlu. ✨ Minimalističke ikone 🧭🔍🎚️ Odmor delikatno preko poluprozirne
-      površine, zračeći mirnu preciznost i futurističku privlačnost 🚀. Ovo nije
-      samo alatna traka - to je iskustvo. Most 🌉 između akcije i atmosfere,
-      izrađen da se osjeti onoliko koliko se koristi 🖱️💡.  UI sutrašnjeg
-      sučelja zamotan u eleganciju sada. 🌠
-    id: >-
-      Harmoni desain dan utilitas yang bersinar, toolbar yang mendalam mengapung
-      di ranah antara mimpi dan antarmuka. 💫 Mandi dalam ungu tua dan blues
-      radiasi 🎨, itu mengundang pengguna ke dunia di mana setiap klik terasa
-      seperti gerakan dalam cahaya. ✨ Ikon minimalis 🧭🔍🎚️ Beristirahat dengan
-      hati-hati di atas permukaan semi-transparan, memancarkan ketepatan
-      ketenangan dan daya pikat futuristik 🚀. Ini bukan hanya bilah alat - ini
-      adalah pengalaman. Jembatan 🌉 antara aksi dan suasana, dibuat untuk
-      dirasakan sebanyak yang digunakan 🖱️💡.  UI besok, dibungkus dengan
-      keanggunan sekarang. 🌠
-    zu: >-
-      Ukuvumelana okukhazimulayo kokwakheka kanye nokusetshenziswa, ithuluzi
-      lamathuluzi elicwilisiwe lintanta endaweni ephakathi kwephupho nesibonisi.
-      💫 bageze izinsimbi ezijulile nama-blues aqhakazile 🎨, imema umsebenzisi
-      ezweni lapho konke okuchofoza kuzwakala njengokukhanya okulula.
-      Izithonjana ze-minimalist Lokhu akuyona nje ibha yamathuluzi - kuyinto.
-      Ibhuloho  I-UI yakusasa, esongwe ngobuhle manje. 🌠
-    is: >-
-      Glóandi sátt í hönnun og gagnsemi, yfirgnæfandi tækjastikan flýtur á ríki
-      milli draums og viðmóts. 💫 Baðið í djúpfjólubláum og geislandi blús 🎨,
-      það býður notandanum inn í heim þar sem hver smellur líður eins og
-      látbragð í ljósi. ✨ Minimalist tákn 🧭🔍🎚️ Hvíldu fínlega yfir
-      hálfgagnsæi yfirborði, geislar rólega nákvæmni og framúrstefnulegt Allure
-      🚀. Þetta er ekki bara tækjastika - þetta er reynsla. Brú 🌉 milli aðgerða
-      og andrúmslofts, gerð til að finnast eins mikið og hún er notuð 🖱️💡.  HÍ
-      á morgun, vafinn í glæsileika núna. 🌠
-    it: >-
-      Un'armonia luminosa di design e utilità, la barra degli strumenti
-      coinvolgenti galleggia in un regno tra sogno e interfaccia. 💫 bagnato in
-      viola profondi e blu radianti 🎨, invita l'utente in un mondo in cui ogni
-      clic sembra un gesto alla luce. ✨ icone minimaliste 🧭🔍🎚️ Resta
-      delicatamente su una superficie semitrasparente, radiando la calma
-      precisione e alluce futuristico 🚀. Questa non è solo una barra degli
-      strumenti: è un'esperienza. Un ponte 🌉 tra azione e atmosfera, realizzato
-      per essere sentito tanto quanto utilizzato 🖱️💡.  L'interfaccia utente di
-      domani, avvolta nell'eleganza di oggi. 🌠
-    sw: >-
-      Maelewano ya kung'aa ya kubuni na matumizi, zana ya zana ya kuzama inaelea
-      katika ulimwengu kati ya ndoto na interface. 💫 Kuoga katika vifurushi vya
-      kina na mionzi ya kung'aa 🎨, inamkaribisha mtumiaji katika ulimwengu
-      ambao kila kubonyeza huhisi kama ishara kwa nuru. Icons Icons minimalist
-      🧭🔍🎚️ Pumzika kwa kupendeza juu ya uso wa uwazi, unaangazia usahihi wa
-      utulivu na athari za baadaye 🚀. Hii sio tu zana - ni uzoefu. Daraja 🌉
-      kati ya hatua na mazingira, iliyoundwa ili kuhisi kama vile inavyotumika
-      🖱️💡.  UI ya kesho, iliyofunikwa kwa uzuri wa sasa. 🌠
-    ku: >-
-      Harmoniyek zirav a sêwiran û amûrek, amûrên berbiçav di navbera xewn û
-      navbeynkariyê de di nava xewn û navbeynkar de diherike. In di purlesên kûr
-      û tîrêjên tîrêjê de rûnin, ew bikarhêner vedigire nav cîhanek ku her
-      bikirtîne mîna gestek di ronahiyê de. ✨ icon îkonên MINIMALIST 🧭🔍🎚️ Li
-      ser astek nîv-zelal bisekinin, radiating rastiya aram û aloziya futurîst.
-      Ev ne tenê amûrek e - ew ezmûnek e. Pira di navbera çalakî û atmosferê de,
-      hate çêkirin ku bi qasî ku tête bikar anîn tê çêkirin.  UI sibê, ku niha
-      di şikeftiya nuha de hatî xemilandin. 🌠
-    lv: >-
-      Kvēlojoša dizaina un lietderības harmonija, ieskaujošā rīkjosla peld
-      valstī starp sapni un interfeisu. 💫 Peldēts dziļi purpursarkanā un
-      starojošā blūza 🎨, tas aicina lietotāju uz pasauli, kurā katrs klikšķa
-      jūtas kā žests gaismā. ✨ Minimālistiskās ikonas 🧭🔍🎚️ delikāti
-      atpūtieties virs daļēji caurspīdīgas virsmas, izstarojot mierīgu
-      precizitāti un futūristisku pievilcību 🚀. Šī nav tikai rīkjosla - tā ir
-      pieredze. Tilts 🌉 starp darbību un atmosfēru, kas veidots, lai būtu
-      jūtams tikpat daudz, cik tas tiek izmantots 🖱️💡.  Rītdienas lietotāja
-      saskarne, kas ietīta tagad. 🌠
-    lb: >-
-      E glänzend Harmonie vum Design an Déngscht, d'Imasser Toolbar schwëmmt an
-      engem Räich tëscht Dram an Interface. Den 💫 huet an déif Purpels a
-      Stralung bascht gebuede 🎨 invitéiert se de Benotzer op eng Welt wou all
-      Auto fillt wéi e Geste am Liicht. ✨ minimalistesch Symboler 🧭🔍🎚️ Rescht
-      delikat iwwer eng semi-transparent Uewerfläch, strahlt roueg Präzisioun a
-      futuristesch iwwerwaacht 🚀. Dëst ass net nëmmen eng Toolbar - et ass eng
-      Erfahrung. Eng Bréck 🌉 tëscht Handlung an Atmosphär, fett sou vill
-      gefaangen wéi se benotzt gëtt 🖱️💡.  Den UI vu muer, an der Eleganz vun
-      elo gewéckelt. 🌠
-    lt: >-
-      Žymi dizaino ir naudingumo harmonija, svaiginanti įrankių juosta
-      plūduriuoja sapno ir sąsajos srityje. 💫 Maudydamasis giliose purpurinėse
-      ir spinduliuojančiose bliuzuose 🎨, jis kviečia vartotoją į pasaulį,
-      kuriame kiekvienas paspaudimas jaučiasi kaip gestas šviesoje. ✨
-      Minimalistinės piktogramos 🧭🔍🎚️ Poilsis subtiliai virš pusiau skaidraus
-      paviršiaus, spinduliuodami ramų tikslumą ir futuristinį viliojimą 🚀. Tai
-      nėra tik įrankių juosta - tai patirtis. Tiltas 🌉 tarp veiksmo ir
-      atmosferos, pagamintas taip, kad jis būtų naudojamas tiek, kiek jis
-      naudojamas 🖱️💡.  Rytojaus vartotojo sąsaja, apvyniota dabar. 🌠
-    hu: >-
-      A tervezés és hasznosság izzó harmóniája, a magával ragadó eszköztár az
-      álom és az interfész közötti birodalomban lebeg. 💫 Mély lila és sugárzó
-      blues -ban fürdött 🎨 🎨 meghívja a felhasználót egy olyan világba, ahol
-      minden kattintás a fény gesztusának érzi magát. ✨ Minimalista ikonok
-      🧭🔍🎚️ Finoman pihenjen egy félig átlátszó felületen, a nyugodt
-      pontosságot és a futurisztikus csábítást sugározva 🚀. Ez nem csak
-      eszköztár, hanem élmény. Egy híd 🌉 a cselekvés és a légkör között,
-      amelyet úgy készítenek, hogy úgy érezzék magukat, mint amennyit használnak
-      🖱️💡.  A holnap felhasználói felülete, a most eleganciába csomagolva. 🌠
-    ms: >-
-      Keharmonian reka bentuk dan utiliti yang bercahaya, bar alat yang mendalam
-      terapung dalam alam antara mimpi dan antara muka. 💫 Dimandikan dalam
-      purples dan blues berseri 🎨, ia menjemput pengguna ke dunia di mana
-      setiap klik terasa seperti isyarat dalam cahaya. ✨ Ikon minimalis 🧭🔍🎚️
-      Rehat dengan lembut di atas permukaan separa telus, memancarkan ketepatan
-      yang tenang dan daya tarikan futuristik 🚀. Ini bukan sekadar bar alat -
-      ia adalah satu pengalaman. Jambatan 🌉 antara tindakan dan atmosfera,
-      dibuat untuk dirasai sebanyak yang digunakan 🖱️💡.  UI esok, dibalut
-      keanggunan sekarang. 🌠
-    mt: >-
-      Armonija glowing tad-disinn u l-utilità, il-toolbar immersiv jitla
-      'fl-isfera bejn il-ħolma u l-interface. 💫 Mgħammra fil-purples profondi u
-      blu radjanti 🎨, tistieden lill-utent f'dinja fejn kull klikk iħoss bħal
-      ġest fid-dawl. ✨ Ikoni minimalisti 🧭🔍🎚️ mistrieħ b'mod delikat fuq wiċċ
-      semi-trasparenti, li jirradja preċiżjoni kalma u attrazzjoni futuristika
-      🚀. Din mhix biss toolbar - hija esperjenza. Pont 🌉 Bejn l-azzjoni u
-      l-atmosfera, maħduma biex jinħass daqs kemm jintuża 🖱️💡.  L-UI ta
-      'għada, imgeżwer fl-eleganti ta' issa. 🌠
-    nl: >-
-      Een gloeiende harmonie van ontwerp en nut, de meeslepende werkbalk zweeft
-      in een rijk tussen Dream en Interface. 💫 Baad in diepe paars en stralende
-      blues 🎨, het nodigt de gebruiker uit in een wereld waar elke klik
-      aanvoelt als een gebaar in licht. ✨ Minimalistische pictogrammen 🧭🔍🎚️
-      Rust subtiel op een semi-transparant oppervlak, stralende rustige precisie
-      en futuristische allure 🚀. Dit is niet alleen een werkbalk - het is een
-      ervaring. Een brug 🌉 tussen actie en sfeer, vervaardigd om net zoveel te
-      worden gevoeld als het wordt gebruikt 🖱️💡.  De gebruikersinterface van
-      morgen, gewikkeld in de elegantie van nu. 🌠
-    'no': >-
-      En glødende harmoni av design og nytteverdi, flyter den oppslukende
-      verktøylinjen i et rike mellom drøm og grensesnitt. 💫 Badet i dype lilla
-      og strålende blues 🎨, den inviterer brukeren inn i en verden der hvert
-      klikk føles som en gest i lys. ✨ Minimalistiske ikoner 🧭🔍🎚 Hvil delikat
-      over en halvtransparent overflate, og utstråler rolig presisjon og
-      futuristisk lokke 🚀. Dette er ikke bare en verktøylinje - det er en
-      opplevelse. En bro 🌉 mellom handling og atmosfære, laget for å bli følt
-      like mye som den brukes 🖱.  Tomborgrensesnittet, pakket inn i elegansen
-      fra nå. 🌠
-    uz: >-
-      Dizayn va yordamchi dasturlarning yorqin uyg'unligi, imomga teng asboblar
-      paneli tush va interfeys o'rtasida suzadi. The Chuqur yoyib va yorqin
-      bluzlar 🎨, u foydalanuvchini har bir bojka yorug'lik imo-ishorasi kabi
-      his qiladigan dunyoni dunyoga taklif qiladi. ✨ Minimalist piktogrammalari
-      Yarim shaffof sirtni yoqing, tinchlantiruvchi aniq va futuristik inbat 🚀.
-      Bu shunchaki asboblar paneli emas - bu tajriba. Ishlanganidek,
-      harakatlanuvchi harakat va atmosfera o'rtasidagi ko'prik 🖱️💡.  Ertaga Ui
-      hozirgi nafislikka o'ralgan. Shum
-    pl: >-
-      Świecająca harmonia projektowania i użyteczności, wciągający pasek
-      narzędzi unosi się w dziedzinie między snem a interfejsem. 💫 Skąpane w
-      głębokich fioletowych i promiennych bluesach 🎨 zaprasza użytkownika do
-      świata, w którym każde kliknięcie wydaje się gestem w świetle. ✨
-      Minimalistyczne ikony 🧭🔍🎚️ Opuść delikatnie nad półprzezroczystą
-      powierzchnią, promieniując spokojną precyzją i futurystyczny urok 🚀. To
-      nie jest tylko pasek narzędzi - to doświadczenie. Most 🌉 między akcją a
-      atmosferą, wykonany tak samo, jak używa się 🖱️💡.  Ui jutro, owinięty
-      elegancją teraz. 🌠
-    pt: >-
-      Uma harmonia brilhante de design e utilidade, a barra de ferramentas
-      imersiva flutua em um reino entre o sonho e a interface. 💫 Banhado em
-      roxos profundos e blues radiantes 🎨, convida o usuário a um mundo onde
-      cada clique parece um gesto na luz. ✨ Ícones minimalistas 🧭🔍🎚️ Descanse
-      delicadamente sobre uma superfície semi-transparente, irradiando precisão
-      calma e fascínio futurista 🚀. Esta não é apenas uma barra de ferramentas
-      - é uma experiência. Uma ponte 🌉 entre ação e atmosfera, criada para ser
-      sentida tanto quanto é usada 🖱️💡.  A interface do usuário de amanhã,
-      envolvida na elegância de agora. 🌠
-    ro: >-
-      O armonie strălucitoare de design și utilitate, bara de instrumente
-      imersivă plutește pe un tărâm între vis și interfață. 💫 scăldat în
-      purpuri adânci și blues radiant 🎨, invită utilizatorul într -o lume în
-      care fiecare clic se simte ca un gest în lumină. ✨ Icoane minimaliste
-      🧭🔍🎚️ se odihnesc delicat pe o suprafață semi-transparentă, radiază
-      precizie calmă și atracție futuristă 🚀. Aceasta nu este doar o bară de
-      instrumente - este o experiență. Un pod 🌉 între acțiune și atmosferă,
-      conceput pentru a fi simțit la fel de mult cât este folosit 🖱️💡.  UI -ul
-      de mâine, înfășurat în eleganța de acum. 🌠
-    sk: >-
-      Žiariaca harmónia dizajnu a užitočnosti, pohlcujúci panel s nástrojmi
-      pláva v oblasti medzi snom a rozhraním. 💫 Kúpané v hlbokých purpurových a
-      žiarivých blues 🎨 pozýva používateľa do sveta, kde každé kliknutie vyzerá
-      ako gesto vo svetle. ✨ Minimalistické ikony 🧭🔍🎚 jemne odpočívajte na
-      polotransparentnom povrchu, vyžarujúc pokojnú presnosť a futuristické
-      lákavé látky 🚀. Toto nie je len panel s nástrojmi - je to zážitok. Most
-      🌉 medzi akciou a atmosférou, ktorý sa vytvoril tak, aby sa cítil rovnako,
-      ako sa používa 🖱.  UI zajtrajška, zabalená do elegancie teraz. 🌠
-    so: >-
-      Wada-noolaanshaha dhalaalaya ee naqshadeynta iyo utility, aaladda
-      albaabada-galka ee ku dhex saleeya meel ku dhex jira riyada iyo interface.
-      Waxay ku maydhatay cagaaran qoto dheer oo buluug ah oo buluug ah 🎨, waxay
-      ku martiqaadeysaa isticmaaleha adduunka halkaasoo gugsta kasta oo guji ah
-      uu dareemayo inuu yahay tilmaam iftiin. ✨ Calaamadaha ugu yar Kani maahan
-      kaliya aaladda aaladda - waa waayo-aragnimo. Buundada 🌉 Inta u dhexeysa
-      ficilka iyo jawiga, ayaa loo farsameeyay in la dareemo inta ugu badan ee
-      loo adeegsado 🖱️💡.  UI ee berrito, oo ku duudduubay xarrago badan oo
-      hadda ah. 🌠
-    fi: >-
-      Suunnittelun ja hyödyllisyyden hehkuva harmonia, syventävä työkalurivi
-      kelluu unelman ja rajapinnan välisessä valtakunnassa. 💫 Kylpy syvissä
-      purppureissa ja säteilevänä bluesissa 🎨, se kutsuu käyttäjän maailmaan,
-      jossa jokainen napsautus tuntuu eleltä valossa. ✨ Minimalistiset kuvakkeet
-      🧭🔍🎚️ Lepää herkästi puoliläpinäkyvän pinnan yli, säteilevä rauhallinen
-      tarkkuus ja futuristinen houkutus 🚀. Tämä ei ole vain työkalurivi - se on
-      kokemus. Silta 🌉 toiminnan ja ilmakehän välillä, muotoiltu tuntemaan niin
-      paljon kuin sitä käytetään 🖱️💡.  Huomisen käyttöliittymä, kääritty nyt
-      tyylikkyyteen. 🌠
-    sv: >-
-      En glödande harmoni av design och användbarhet, det uppslukande
-      verktygsfältet flyter i ett område mellan dröm och gränssnitt. 💫 Bad i
-      djupa lila och strålande blues 🎨, det inbjuder användaren till en värld
-      där varje klick känns som en gest i ljuset. ✨ Minimalistiska ikoner 🧭🔍🎚
-      vila delikat över en halvtransparent yta, utstrålande lugn precision och
-      futuristisk lockelse 🚀. Det här är inte bara ett verktygsfält - det är en
-      upplevelse. En bro 🌉 mellan handling och atmosfär, utformad för att
-      kännas lika mycket som den används 🖱.  Morgondagens användargränssnitt,
-      insvept i elegansen nu. 🌠
-    vi: >-
-      Một sự hài hòa phát sáng của thiết kế và tiện ích, thanh công cụ nhập vai
-      nổi trong một lĩnh vực giữa giấc mơ và giao diện. 💫 tắm trong những màu
-      tím sâu và blues rạng rỡ 🎨, nó mời người dùng vào một thế giới nơi mọi
-      nhấp chuột đều cảm thấy như một cử chỉ trong ánh sáng. Các biểu tượng tối
-      giản 🧭🔍🎚 Nghỉ ngơi một cách tinh tế trên một bề mặt bán trong suốt, tỏa
-      ra độ chính xác bình tĩnh và sức hấp dẫn tương lai. Đây không phải là một
-      thanh công cụ - nó là một kinh nghiệm. Một cây cầu giữa hành động và bầu
-      không khí, được tạo ra để được cảm nhận nhiều như nó được sử dụng.  Giao
-      diện người dùng của ngày mai, được bao bọc trong sự thanh lịch của bây
-      giờ. 🌠
-    tr: >-
-      Tasarım ve faydanın parlayan bir uyumu olan sürükleyici araç çubuğu, rüya
-      ve arayüz arasındaki bir alanda yüzer. 💫 Derin morlar ve parlak mavilerle
-      yıkanmış 🎨, kullanıcıyı her tıklamanın ışıkta bir jest gibi hissettiği
-      bir dünyaya davet eder. ✨ Minimalist simgeler 🧭🔍🎚️ Yarı saygın bir
-      yüzey üzerinde hassas bir şekilde dinlenerek, sakin hassasiyet ve
-      fütüristik cazibe yayar 🚀. Bu sadece bir araç çubuğu değil, bir deneyim.
-      Bir köprü 🌉 Eylem ve atmosfer arasında, kullanıldığı kadar hissedilecek
-      şekilde hazırlanmış 🖱️💡.  Yarının kullanıcı arayüzü, şimdi zarafetle
-      sarıldı. 🌠
-    yo: >-
-      Ipamu didan ti apẹrẹ ati ohun elo, ọpa irinṣẹ lileffice lile lilefan ni
-      aṣeyọri kan laarin ala ati wiwo. O ge ninu awọn laples jinlẹ ati Blues ti
-      o radidan 🎨, o pe olumulo sinu aye nibiti gbogbo atẹjade kan lara bi
-      idari ni ina. Ni awọn aami kekere ti o kere ju ni mimọ lori dada dada, ti
-      n rọ awọn precise tude ati ohun-ini ojoloju 🚀. Eyi kii ṣe ọpa irinṣẹ - o
-      jẹ iriri. Afara 🌉 laarin iṣe ati oju-aye, ti a ṣe lati ni imọlara bi o ti
-      lo 🖱️💡.  UI ti ọla, ti a we ni didara bayi. 🌠
-    el: >-
-      Μια λαμπερή αρμονία του σχεδιασμού και της χρησιμότητας, η εντυπωσιακή
-      γραμμή εργαλείων επιπλέει σε μια σφαίρα μεταξύ ονείρου και διασύνδεσης. 💫
-      λουσμένο σε βαθιά πορφυρά και ακτινοβόλα μπλουζ 🎨, προσκαλεί τον χρήστη
-      σε έναν κόσμο όπου κάθε κλικ αισθάνεται σαν μια χειρονομία στο φως. ✨
-      Μινιμαλιστικά εικονίδια 🧭🔍🎚️ ξεκουραστείτε απαλά πάνω από μια
-      ημι-διαφανή επιφάνεια, ακτινοβολώντας την ήρεμη ακρίβεια και φουτουριστική
-      γοητεία 🚀. Αυτό δεν είναι μόνο μια γραμμή εργαλείων - είναι μια εμπειρία.
-      Μια γέφυρα 🌉 ανάμεσα στη δράση και την ατμόσφαιρα, κατασκευασμένη για να
-      γίνει αισθητή όσο χρησιμοποιείται.  Το UI του αύριο, τυλιγμένο στην
-      κομψότητα τώρα. 🌠
-    bg: >-
-      Светеща хармония на дизайна и полезността, потапящата лента с инструменти
-      плава в царство между съня и интерфейса. 💫 Отнато се в дълбоки лилави и
-      сияйния блус 🎨, той кани потребителя в свят, в който всяко щракване се
-      чувства като жест в светлина. ✨ Минималистични икони 🧭🔍🎚 Почивайте
-      деликатно върху полупрозрачна повърхност, излъчвайки спокойна точност и
-      футуристична примамка 🚀. Това не е просто лента с инструменти - това е
-      преживяване. Мост 🌉 между действие и атмосфера, изработен да се усети
-      толкова, колкото се използва 🖱.  Потребителският интерфейс на утрешния
-      ден, обвит в елегантността на сега. 🌠
-    mk: >-
-      Блескава хармонија на дизајнот и алатката, потопната лента со алатки лебди
-      во сфера помеѓу сонот и интерфејсот. 💫 искапено во длабоки виолетови и
-      зрачни блуз 🎨, го поканува корисникот во свет каде што секој клик се
-      чувствува како гест во светлина. ✨ Минималистички икони 🧭🔍🎚 Одморете се
-      деликатно над полутранспарентна површина, зрачи со мирна прецизност и
-      футуристички привлечност. Ова не е само лента со алатки - тоа е искуство.
-      Мост - помеѓу дејствување и атмосфера, направен да се чувствува онолку
-      колку што се користи 🖱.  Уи од утре, завиткано во елеганцијата на сега.
-      🌠
-    mn: >-
-      Дизайн ба ашиглалтын эвгүй байдал, хор хөнөөлтэй багаж хэрэгсэл нь
-      мөрөөдөл, интерфэйсийн хоорондох ертөнцөд хөвдөг. 💫 Гүн гүнзгийрэн,
-      гэрэлтсэн блюз, энэ нь хэрэглэгчдэд гэрэл тусах нь гэрлийн дохио юм шиг
-      санагдана. ✨ Minimalist дүрс нь хагас тунгалаг гадаргуутай, тайван, тайван
-      байдал, футурист сэтгэлээр тайвшир. Энэ бол зөвхөн багаж самбар биш - энэ
-      бол туршлага юм. Үйлдэл ба уур амьсгалын хоорондох гүүр, уур амьсгал, уур
-      амьсгал нь ашиглагддаг шиг мэдрэгддэг.  Маргаашийн ui, одоо дэгжин байдалд
-      ороосон. Ий
-    ru: >-
-      Светящаяся гармония дизайна и утилиты, захватывающая панель инструментов
-      плавает в сфере мечты и интерфейса. 💫 Залитый глубокими пурпурными и
-      сияющими блюзой 🎨, он приглашает пользователя в мир, где каждый клик
-      выглядит как жест в свете. ✨ Минималистские иконы 🧭🔍🎚 отдых деликатно
-      на полупрозрачной поверхности, излучая спокойную точность и
-      футуристическую очарование 🚀. Это не просто панель инструментов - это
-      опыт. Мост 🌉 между действием и атмосферой, созданный для того, чтобы
-      ощущаться так же сильно, как его используется 🖱.  Постоянный интерфейс
-      завтрашнего дня, завернутый в элегантность сейчас. 🌠
-    sr: >-
-      Глупа хармонија дизајна и корисности, уједначене траке са алаткама лебди у
-      царству између снова и интерфејса. 💫 окупан у дубоким љубимцима и
-      блиставим блузама 🎨, он позива корисника у свет где сваки клик осећа као
-      гест у светлу. ✨ Минималистичке иконе 🧭🔍🎚 Деликатно се одмарају преко
-      полупрозирне површине, зрачила мирну прецизност и футуристичку алуцију 🚀.
-      Ово није само алатна трака - то је искуство. Мост 🌉 између акције и
-      атмосфере, израђен да се осети онолико колико се користи 🖱💡.  Уи сутра,
-      омотани у елеганцију сада. 🌠
-    tg: >-
-      Як таблиғи дурахшон аз тарроҳӣ ва фоида, панели миёна, панели миёна дар
-      байни орзу ва интерфейс шино мекунад. 💫 дар чоҳҳои чуқур ва блюзҳои
-      дурахшон оббозӣ кунед 🎨, он корбарро ба ҷаҳоне даъват мекунад, ки ҳар як
-      ангуштзании худро ба равшанӣ монанд ҳис мекунад. ✨ Нишондиҳандаҳои
-      минималӣ. Ин танҳо паноҳгоҳ аст - ин таҷриба аст. Пулҳои байни амал ва
-      атмосфера, ки онро истифода мебаранд, ҳунарманд мешавад 🖱️💡.  UI пагоҳ,
-      ки дар шабиати ман парпеч карда шудааст. 🌠
-    uk: >-
-      Світла гармонія дизайну та корисності, занурювальна панель інструментів
-      плаває в царині між мрією та інтерфейсом. 💫 Купівшись у глибоких
-      фіолетових та сяючих блюзах 🎨, він запрошує користувача у світ, де кожен
-      клацання відчуває себе як жест у світлі. ✨ Мінімалістичні іконки 🧭🔍🎚
-      Делікатно спочиньте над напівпрозорою поверхнею, випромінюючи спокійну
-      точність та футуристичну привабливість 🚀. Це не просто панель
-      інструментів - це досвід. Міст 🌉 між дією та атмосферою, створеним, щоб
-      відчути стільки, скільки його використовують 🖱.  Користувацький інтерфейс
-      завтра, загорнутий у елегантність зараз. 🌠
-    ka: >-
-      დიზაინის და კომუნალური ჰარმონია, იმერული პანელი პანელი იფეთქებს სიზმარსა
-      და ინტერფეისს შორის. 💫 ღრმა ბუჩქებში და გასხივოსნებულ ბლუზში, ის
-      მომხმარებელს იწვევს სამყაროში, სადაც ყველა დაწკაპუნებით იგრძნობა ჟესტი. ✨
-      მინიმალისტური ხატები 🧭🔍🎚 დელიკატურად დაისვენეთ ნახევრად გამჭვირვალე
-      ზედაპირზე, ასხივებენ მშვიდი სიზუსტით და ფუტურისტული alure. ეს არ არის
-      მხოლოდ პანელი - ეს არის გამოცდილება. ხიდი 🌉 მოქმედებასა და ატმოსფეროს
-      შორის, რომელიც იგრძნობა იგრძნობა იმდენი, რამდენადაც იგი გამოიყენება.  ხვალ
-      UI, ახლა გახვეული ელეგანტურობით. 🌠
-    hy: >-
-      Դիզայնի եւ կոմունալների փայլուն ներդաշնակությունը, ընկղմված գործիքագոտին
-      ընկղմված գործիքագոտին լողում է երազանքի եւ ինտերֆեյսի միջեւ: 💫 Լողան խորը
-      մանուշակում եւ պայծառ բլյուզով, այն օգտագործողին հրավիրում է մի աշխարհ,
-      որտեղ յուրաքանչյուր կտտացնում է լույսի ժեստը: ✨ Մինիմալիստական
-      սրբապատկերներ Սա միայն գործիքագոտին չէ, դա փորձ է: Գործողության եւ
-      մթնոլորտի միջեւ կամուրջ, որը պատրաստվել է զգալ այնքան, որքան օգտագործվում
-      է 🖱️💡:  Վաղվա UI- ն այժմ փաթաթված է նրբագեղությամբ: 🌠
-    he: >-
-      הרמוניה זוהרת של עיצוב ותועלת, סרגל הכלים העוטף צף בתחום בין חלום לממשק.
-      💫 שטוף בסגולים עמוקים ובלוז קורן 🎨, הוא מזמין את המשתמש לעולם בו כל קליק
-      מרגיש כמו מחווה באור. ✨ סמלים מינימליסטיים 🧭🔍🎚️ נוח בעדינות על פני משטח
-      שקוף למחצה, מקרין דיוק רגוע ופיתוי עתידני 🚀. זה לא רק סרגל כלים - זו
-      חוויה. גשר 🌉 בין פעולה לאווירה, המעוצב להיות מורגש באותה מידה כמו שהוא
-      משמש 🖱️💡.  ממשק המשתמש של מחר, עטוף באלגנטיות של עכשיו. 🌠
-    ur: >-
-      ڈیزائن اور افادیت کی ایک چمکتی ہوئی ہم آہنگی ، عمیق ٹول بار خواب اور
-      انٹرفیس کے مابین ایک دائرے میں تیرتا ہے۔ deep گہری ارغوانی اور تابناک
-      بلیوز میں نہا دیا گیا 🎨 ، یہ صارف کو ایسی دنیا میں مدعو کرتا ہے جہاں ہر
-      کلک کو روشنی میں اشارے کی طرح محسوس ہوتا ہے۔ min کم سے کم شبیہیں 🧭🔍🎚
-      نیم شفاف سطح پر نازک طور پر آرام کریں ، پرسکون صحت سے متعلق اور مستقبل کی
-      رغبت کو پھیلاتے ہوئے۔ یہ صرف ایک ٹول بار نہیں ہے - یہ ایک تجربہ ہے۔ ایک پل
-      action عمل اور ماحول کے مابین ، جتنا استعمال کیا جاتا ہے اسے محسوس کرنے کے
-      لئے تیار کیا گیا ہے۔  کل کا UI ، اب کی خوبصورتی میں لپیٹا ہوا۔ 🌠
-    ar: >-
-      وئام متوهج للتصميم والفائدة ، يطفو شريط الأدوات الغامرة في عالم بين الحلم
-      والواجهة. 💫 يستحم في الأرجواني العميق والبلوز المشع 🎨 ، فإنه يدعو
-      المستخدم إلى عالم يشعر فيه كل نقرة وكأنه لفتة في الضوء. ✨ الرموز البسيطة
-      🧭🔍🎚 تستريح بدقة على سطح شبه شفاف ، وإشعاع الدقة الهادئة وجاذبية
-      مستقبلية 🚀. هذه ليست مجرد شريط أدوات - إنها تجربة. جسر 🌉 بين العمل والجو
-      ، المصنوع من أن يشعر بقدر ما يتم استخدامه 🖱.  واجهة المستخدم من الغد ،
-      ملفوفة في أناقة الآن. 🌠
-    ps: >-
-      د ډیزاین او ګټې اخیستنې همغږي، د سپر شوي توکپټه د خوب او انٹرفیس ترمینځ په
-      یوه برخه کې تیریږي. a په ژور ارغواني او رینګه بلوز کې حمام شوی 🎨، دا کارن
-      په نړۍ کې بلنه کوي چیرې چې په ر in ا کې د اشارې په څیر هر کلیک احساس کوي.
-      mintallime اسپیسټ شبیه 🧭🔍🎚️ په ناببره ډول په نیمه شفاف سطح باندې، د
-      آرامۍ ارامۍ او راتلونکي اوړي. دا یوازې یو وسیله پټه نده - دا یوه تجربه ده.
-      د عمل او اتموسفیر تر مینځ یو پل.  سبا د UI UI، د اوس په ګټه کې نغښتی. 🌠
-    fa: >-
-      یک هماهنگی درخشان از طراحی و ابزار ، نوار ابزار همهجانبه در قلمرو بین
-      رویای و رابط شناور است. 💫 در بنفش های عمیق و بلوزهای تابشی غرق شده است ،
-      کاربر را به دنیایی دعوت می کند که در آن هر کلیک مانند یک ژست در نور احساس
-      می شود. icon نمادهای مینیمالیستی 🧭🔍🎚 با ظرافت بر روی یک سطح نیمه شفاف ،
-      با دقت آرام و جذابیت آینده نگر است. این فقط یک نوار ابزار نیست - این یک
-      تجربه است. یک پل 🌉 بین عمل و جو ، ساخته شده است که به همان اندازه که
-      استفاده می شود احساس می شود.  UI فردا ، در ظرافت اکنون پیچیده شده است. 🌠
-    am: >-
-      ዲዛይን እና የመገልገያ ስምምነት, ጠማማ የመሳሪያ አሞሌ በሕልሜ እና በይነገጽ መካከል ባለው ግዛት ውስጥ ይንሳፈፋል.
-      💫 በጥልቅ ሐምራዊቶች እና በአርማም ብሉዝ ብሉዝዎች ውስጥ ይታጠባል 🎨, ተጠቃሚው እያንዳንዱ ጠቅታ በብርሃን ውስጥ
-      እንደ ምልክቱ በሚሰማበት ዓለም ውስጥ ይጋብዛል. ✨ በትንሹ ጊዜያት አዶዎች 🧭🔍🎚️ የተረጋጋ ትክክለኛ እና
-      የወደፊት ተስፋቸውን የሚያበራ ከፊል ግልጽ ያልሆነ ወለል ላይ ቀሩ. ይህ የመሣሪያ አሞሌ ብቻ አይደለም - ተሞክሮ
-      ነው. በድርጊት እና ከባቢ አየር መካከል, ጥቅም ላይ የዋለው ያህል ስሜት እንዲሰማው ተደርጓል 🖱️💡.  ነገ,
-      የተከበረው በይነገጽ, አሁን በሚያስደንቅ ሁኔታ ተጠቅልሎታል. 🌠
-    ne: >-
-      डिजाइन र उपयोगिताको एक चमकदार सद्भाव, घटाई उपकरणपट्टी सपना र इन्टरफेस
-      बीचको एक क्रियापदमा छन्। All गहिरो उद्देश्य र सिडोरिन्ट ब्लूजमा नुहाए 🎨,
-      यसले प्रयोगकर्तालाई यस्तो संसारमा आमन्त्रित गर्दछ जहाँ प्रत्येक क्लिक
-      प्रकाशमा इशारा जस्तो महसुस हुन्छ। Mine न्यूनतम एक सेमी-पारदर्शी सतहमा
-      नाजुक रूपमा दाजुभाइमा आराम गर्नुहोस्, रेडियंग शान्त शुद्ध आकर्षण 🚀। यो
-      केवल एक उपकरणपट्टी होइन - यो एक अनुभव हो। एक ब्रिज - कार्य र वातावरणको
-      बीचमा, यो प्रयोग भएको जत्तिकै धेरै महसुस भएको छ।  भोलीको uii अब, अहिलेको
-      भव्यतामा बेर्ने। 🌠
-    hi: >-
-      डिजाइन और उपयोगिता का एक शानदार सामंजस्य, इमर्सिव टूलबार सपने और इंटरफ़ेस
-      के बीच एक दायरे में तैरता है। 💫 गहरे पर्स और रेडिएंट ब्लूज़ में स्नान
-      किया गया, यह उपयोगकर्ता को एक ऐसी दुनिया में आमंत्रित करता है जहां हर
-      क्लिक प्रकाश में एक इशारा की तरह महसूस करता है। ✨ न्यूनतम आइकन 🧭🔍🎚 एक
-      अर्ध-पारदर्शी सतह पर नाजुक रूप से आराम करें, शांत सटीकता और भविष्य के
-      आकर्षण को विकीर्ण करें। यह केवल एक टूलबार नहीं है - यह एक अनुभव है। एक पुल
-      🌉 एक्शन और वातावरण के बीच, तैयार किया जाता है जितना कि इसका उपयोग किया
-      जाता है।  कल का यूआई, अब की लालित्य में लिपटा हुआ है। 🌠
-    bn: >-
-      নকশা এবং ইউটিলিটির একটি আলোকিত সম্প্রীতি, নিমজ্জনকারী সরঞ্জামদণ্ড স্বপ্ন
-      এবং ইন্টারফেসের মধ্যে একটি রাজ্যে ভাসমান। Deep গভীর বেগুনি এবং উজ্জ্বল
-      ব্লুজগুলিতে স্নান করা 🎨 এটি ব্যবহারকারীকে এমন এক পৃথিবীতে আমন্ত্রণ জানায়
-      যেখানে প্রতিটি ক্লিক আলোর অঙ্গভঙ্গির মতো অনুভব করে। ✨ মিনিমালিস্ট আইকনগুলি
-      calm একটি আধা-স্বচ্ছ পৃষ্ঠের উপর সূক্ষ্মভাবে বিশ্রাম করুন, শান্ত নির্ভুলতা
-      এবং ভবিষ্যত প্রলোভনকে ছড়িয়ে দিন 🚀 এটি কেবল কোনও সরঞ্জামদণ্ড নয় - এটি
-      একটি অভিজ্ঞতা। অ্যাকশন এবং বায়ুমণ্ডলের মধ্যে একটি সেতু 🌉, এটি যতটা
-      ব্যবহৃত হয় ততটা অনুভূত হওয়ার জন্য তৈরি করা হয়েছিল 🖱  আগামীকালের ইউআই,
-      এখনকার কমনীয়তায় আবৃত। 🌠
-    pa: >-
-      ਡਿਜ਼ਾਇਨ ਅਤੇ ਸਹੂਲਤ ਦੀ ਇਕ ਚਮਕਦੀ ਤਲਾਕ, ਡ੍ਰੀਮਾਈਵ ਟੂਲਬਾਰ ਡ੍ਰੀਮ ਅਤੇ ਇੰਟਰਫੇਸ ਦੇ
-      ਵਿਚਕਾਰ ਇਕ ਖੇਤਰ ਵਿਚ ਫਲੋਟ ਕਰਦੀ ਹੈ. The ਡੂੰਘੇ ਦੇ ਮਾਤਾ-ਪਿਤਾ ਅਤੇ ਚਮਕਦਾਰ ਬਲੂਜ਼
-      ਵਿਚ ਨਹਾਉਣਾ 🎨, ਇਹ ਉਪਭੋਗਤਾ ਨੂੰ ਇਕ ਅਜਿਹੀ ਦੁਨੀਆਂ ਵੱਲ ਬੁਲਾਉਂਦਾ ਹੈ ਜਿੱਥੇ ਹਰ
-      ਕਲਿਕ ਰੋਸ਼ਨੀ ਵਿਚ ਇਸ਼ਾਰੇ ਵਾਂਗ ਮਹਿਸੂਸ ਕਰਦੀ ਹੈ. ✨ ਘੱਟੋ ਘੱਟ ਆਈਕਾਨ 🧭🔍🎚️
-      ਅਰਧ-ਪਾਰਦਰਸ਼ੀ ਸਤਹ 'ਤੇ ਨਾਜ਼ੁਕ 🧭🔍🎚️ ਆਰਾਮ ਕਰੋ, ਸ਼ਾਂਤ ਸ਼ੁੱਧਤਾ ਅਤੇ ਭਵਿੱਖਵਾਦੀ
-      ਮਜਬੂਰ 🚀. ਇਹ ਸਿਰਫ ਇਕ ਟੂਲਬਾਰ ਨਹੀਂ ਹੈ - ਇਹ ਇਕ ਤਜਰਬਾ ਹੈ. ਐਕਸ਼ਨ ਅਤੇ ਮਾਹੌਲ ਦੇ
-      ਵਿਚਕਾਰ ਇੱਕ ਪੁਲ 🌉, ਇਸ ਨੂੰ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ ਜਿੰਨਾ ਇਸ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ. 
-      ਕੱਲ੍ਹ ਦੀ ਯੂਆਈ, ਹੁਣ ਦੀ ਖੂਬਸੂਰਤੀ ਵਿੱਚ ਲਪੇਟਿਆ. 🌠
-    gu: >-
-      ડિઝાઇન અને ઉપયોગિતાની ઝગમગતી સંવાદિતા, નિમજ્જન ટૂલબાર સ્વપ્ન અને ઇન્ટરફેસ
-      વચ્ચેના ક્ષેત્રમાં તરતું રહે છે. Deep deep ંડા જાંબુડિયા અને ખુશખુશાલ
-      બ્લૂઝમાં સ્નાન, તે વપરાશકર્તાને એવી દુનિયામાં આમંત્રણ આપે છે જ્યાં દરેક
-      ક્લિક પ્રકાશમાં હાવભાવ જેવું લાગે છે. ✨ ઓછામાં ઓછા ચિહ્નો a અર્ધ-પારદર્શક
-      સપાટી પર નાજુક રીતે આરામ કરો, શાંત ચોકસાઇ અને ભાવિ લલચાવું 🚀. આ ફક્ત
-      ટૂલબાર નથી - તે એક અનુભવ છે. એક પુલ action ક્રિયા અને વાતાવરણ વચ્ચે, જેટલો
-      ઉપયોગ થાય છે તેટલું અનુભવાય છે.  કાલે યુઆઈ, હવેની લાવણ્યમાં લપેટાય છે. .
-    ta: >-
-      வடிவமைப்பு மற்றும் பயன்பாட்டின் ஒளிரும் நல்லிணக்கம், அதிவேக கருவிப்பட்டி
-      கனவு மற்றும் இடைமுகத்திற்கு இடையில் ஒரு உலகில் மிதக்கிறது. Oped ஆழமான ஊதா
-      மற்றும் கதிரியக்க ப்ளூஸில் குளித்தால், இது பயனரை ஒரு உலகத்திற்கு
-      அழைக்கிறது, அங்கு ஒவ்வொரு கிளிக்கிலும் வெளிச்சத்தில் ஒரு சைகை போல்
-      உணர்கிறது. ✨ குறைந்தபட்ச ஐகான்கள் sem- வெளிப்படையான மேற்பரப்பில்
-      நுணுக்கமாக ஓய்வெடுக்கவும், அமைதியான துல்லியம் மற்றும் எதிர்கால மயக்கத்தை
-      கதிர்வீச்சு செய்யவும். இது ஒரு கருவிப்பட்டி மட்டுமல்ல - இது ஒரு அனுபவம்.
-      ஒரு பாலம் the செயலுக்கும் வளிமண்டலத்திற்கும் இடையில், அது
-      பயன்படுத்தப்படுவதைப் போலவே உணரப்பட வேண்டும்.  நாளைய UI, இப்போது
-      நேர்த்தியுடன் மூடப்பட்டுள்ளது. .
-    te: >-
-      డిజైన్ మరియు యుటిలిటీ యొక్క మెరుస్తున్న సామరస్యం, లీనమయ్యే టూల్‌బార్ కల
-      మరియు ఇంటర్‌ఫేస్ మధ్య రాజ్యంలో తేలుతుంది. Deep లోతైన purt దా మరియు
-      ప్రకాశవంతమైన బ్లూస్‌లో స్నానం చేయబడి, ఇది వినియోగదారుని ప్రపంచంలోకి
-      ఆహ్వానిస్తుంది, ఇక్కడ ప్రతి క్లిక్ కాంతిలో సంజ్ఞలాగా అనిపిస్తుంది. ✨
-      మినిమలిస్ట్ చిహ్నాలు 🧭🔍🎚 సెమీ-పారదర్శక ఉపరితలంపై సున్నితంగా విశ్రాంతి
-      తీసుకోండి, ప్రశాంతమైన ఖచ్చితత్వం మరియు భవిష్యత్ ఆకర్షణను ప్రసరిస్తుంది.
-      ఇది కేవలం టూల్‌బార్ మాత్రమే కాదు - ఇది ఒక అనుభవం. ఒక వంతెన action చర్య
-      మరియు వాతావరణం మధ్య, అది ఉపయోగించినంతగా అనుభూతి చెందడానికి
-      రూపొందించబడింది.  రేపు UI, ఇప్పుడు చక్కదనం కలిగి ఉంది. 🌠
-    si: >-
-      නිර්මාණ හා උපයෝගීතාවයේ දීප්තිමත් සමගිය, ගිල්වන මෙවලම් තීරුව සිහිනය සහ
-      අතුරු මුහුණත අතර ක්ෂේත්රයේ පාවෙයි. Poss ගැඹුරු දම් පාට හා දීප්තිමත් බ්ලූස්
-      වලින් ස්නානය කර, එය පරිශීලකයාට සෑම ක්ලික් කිරීමක්ම ආලෝකයේ අභිනයක් මෙන්
-      දැනෙන ලෝකයකට ආරාධනා කරයි. ✨ අවම අයිකන 🧭🔍🎚️ 🧭🔍🎚️ අර්ධ විනිවිද පෙනෙන
-      මතුපිටක් පුරා, අර්ධ විනිවිද පෙනෙන මතුපිටක් මත සියුම්ව විවේක ගන්න, සන්සුන්
-      නිරවද්යතාව සහ අනාගත වින්දනය. මෙය මෙවලම් තීරුවක් පමණක් නොවේ - එය
-      අත්දැකීමකි. ක්රියාව සහ වායුගෝලය අතර පාලමක්, එය භාවිතා කරන තරම් දැනීමට හේතු
-      විය.  මේ මොහොතේ, දැන් අලංකාරයෙන් ඔතා. 🌠
-    th: >-
-      ความกลมกลืนของการออกแบบและยูทิลิตี้ที่เปล่งประกายแถบเครื่องมือที่ดื่มด่ำลอยอยู่ในอาณาจักรระหว่างความฝันและอินเทอร์เฟซ
-      💫อาบน้ำด้วยสีม่วงเข้มและบลูส์ที่เปล่งปลั่ง🎨มันเชิญผู้ใช้เข้าสู่โลกที่ทุกครั้งคลิกรู้สึกเหมือนท่าทางในแสง
-      ✨ไอคอนมินิมัลลิสต์🧭🔍🎚พักผ่อนอย่างละเอียดบนพื้นผิวกึ่งโปร่งใสทำให้เกิดความแม่นยำในการสงบและเสน่ห์ของอนาคต🚀
-      นี่ไม่ใช่แค่แถบเครื่องมือ - เป็นประสบการณ์
-      สะพาน🌉ระหว่างการกระทำและบรรยากาศที่สร้างขึ้นเพื่อให้รู้สึกมากเท่ากับที่ใช้🖱 
-      UI แห่งวันพรุ่งนี้ห่อหุ้มด้วยความสง่างามของตอนนี้
-    lo: >-
-      ຄວາມກົມກຽວກັນທີ່ມີຄວາມປະທັບໃຈໃນການອອກແບບແລະສິ່ງອໍານວຍຄວາມສະດວກ,
-      ແຖບເຄື່ອງມືທີ່ເອົາໃຈໃສ່ໃນພື້ນທີ່ລະຫວ່າງຄວາມຝັນແລະການໂຕ້ຕອບ.
-      💫ອາບນ້ໍາໃນສະບາຍດີແລະສີຟ້າທີ່ຮຸ່ງເຮືອງເຫລືອງເຫລື້ອມ🎨,
-      ມັນເຊື້ອເຊີນຜູ້ໃຊ້ເຂົ້າໃນໂລກທີ່ທຸກໆການກົດທີ່ຮູ້ສຶກຄືກັບທ່າທາງໃນແສງສະຫວ່າງ.
-      icon ຮູບສັນຍາລັກທີ່ນ້ອຍທີ່ສຸດ🧭🔍🎚️ພັກຜ່ອນຢ່າງລະອຽດໃນພື້ນຜິວເຄິ່ງໂປ່ງໃສ,
-      ແຜ່ລະລາຍຄວາມແມ່ນຍໍາແລະອະນາຄົດຂອງອະນາຄົດ🚀. ນີ້ບໍ່ແມ່ນພຽງແຕ່ແຖບເຄື່ອງມື -
-      ມັນເປັນປະສົບການ. ຂົວຂ້າມ🌉ລະຫວ່າງການກະທໍາແລະບັນຍາກາດ,
-      ຫັດຖະກໍາທີ່ຈະຮູ້ສຶກວ່າມັນມີຫຼາຍເທົ່າທີ່ເຄີຍໃຊ້🖱️💡.  UI ຂອງມື້ອື່ນ,
-      ຫໍ່ດ້ວຍຄວາມສະຫງ່າງາມຂອງດຽວນີ້. 🌠
-    km: >-
-      ភាពសុខដុមរមនានៃការរចនានិងឧបករណ៍ប្រើប្រាស់របារឧបករណ៍ដែលមានអាយុកាលអណ្តែតក្នុងអាណាចក្ររវាងក្តីសុបិន្តនិងចំណុចប្រទាក់។
-      💫បានងូតទឹកក្នុងពណ៌ស្វាយពណ៌និងពណ៌ខៀវភ្លឺថ្លា🎨វាអញ្ជើញអ្នកប្រើប្រាស់ចូលក្នុងពិភពលោកដែលរាល់ការចុចមានអារម្មណ៍ថាមានកាយវិការក្នុងពន្លឺ។
-      icons
-      រូបតំណាងតិចតួច🧭🔍🎚️សម្រាកយ៉ាងឆ្ងាញ់ជាងផ្ទៃពាក់កណ្តាលថ្លាការសាយភាយភាពសុចរិតភាពស្រើបស្រាលនិងភាពរឹងមាំនាពេលអនាគត🚀។
-      នេះមិនមែនគ្រាន់តែជារបារឧបករណ៍ទេវាជាបទពិសោធន៍មួយ។
-      ស្ពាន🌉រវាងសកម្មភាពនិងបរិយាកាសបានសិប្បកម្មមានអារម្មណ៍ថាមានអារម្មណ៍ដូចវាដែរ។ 
-      UI នៃថ្ងៃស្អែកបានរុំដោយភាពឆើតឆាយនាពេលនេះ។ ឹម
-    ko: >-
-      디자인과 유틸리티의 빛나는 조화로 몰입 형 도구 모음은 꿈과 인터페이스 사이의 영역에 떠 있습니다. dear 짙은 자주색과 빛나는
-      블루스에 목욕을 펼쳤으며, 모든 클릭이 빛의 제스처처럼 느껴지는 세상으로 사용자를 초대합니다. ✨ 미니멀리스트 아이콘 🧭🔍🎚️
-      반투명 한 표면 위에 섬세하게 쉬어 진정 정밀도와 미래의 매력을 발산합니다. 이것은 단순한 도구 모음이 아니라 경험입니다. 행동과
-      분위기 사이의 다리는 사용되는만큼 느껴지도록 만들어졌습니다.  내일의 UI는 지금의 우아함에 싸여 있습니다. 🌠
-    zh: >-
-      沉浸式工具栏在设计与实用程序的闪亮和谐中，在梦和界面之间的一个领域中漂浮。
-      💫沐浴在深紫色和辐射蓝色🎨中，它邀请用户进入一个世界，每个点击都像是在光线下的手势。
-      ✨极简主义的图标🧭🔍🎚️在半透明的表面上细腻地休息，散发出平静的精度和未来派的魅力。这不仅是工具栏，而且是一种体验。在动作和气氛之间的桥梁，被制成与使用一样多的感觉。 
-      明天的UI，以现在的优雅包裹。 🌠
-    ja: >-
-      デザインとユーティリティの熱烈な調和である没入型のツールバーは、夢とインターフェースの間の領域に浮かびます。
-      deee深い紫と放射性の青い青色に浴びて、それはユーザーを、すべてのクリックが光の中のジェスチャーのように感じる世界に招待します。
-      minimalistアイコン🧭🔍🎚§半透明の表面の上で繊細に休憩し、穏やかな精度と未来的な魅力を放射します。これは単なるツールバーではなく、体験です。アクションと雰囲気の間の橋、使用されているのと同じくらい感じられるように作られています。 
-      明日のUIは、今の優雅さに包まれています。 🌠
 settings: []
 styles:
   '@seelen/fancy-toolbar': |
-    /* === Optimized & Smoother Quartz Toolbar === */
+      /* Glass Toolbar - Quartz Inspired (Inverted, Interactive, Compact, Transparent) */
 
-    .ft-bar-bg-layer-1,
-    .ft-bar-bg-layer-2 {
-      width: 80%;
-      margin: 0 auto;
-      background: transparent !important;
-      backdrop-filter: none !important;
-      -webkit-backdrop-filter: none !important;
-      border: none !important;
-      box-shadow: none !important;
-      transition: none !important;
-      display: block;
-      pointer-events: none; /* Prevent it from interacting */
-      position: relative;
-      z-index: 0;
-    }
-
-    /* Core toolbar item */
-    .ft-bar-item {
-      color: #f2f2f2;
-      background: linear-gradient(
-        135deg,
-        rgba(10, 10, 10, 0.50),
-        rgba(40, 40, 60, 0.50),
-        rgba(60, 80, 100, 0.50)
-      );
-      border-radius: 16px;
-      padding: 1px 10px;
-      height: 22px;
-      margin: 0 3px;
-      display: flex;
-      align-items: center;
-      gap: 4px;
-      font-size: 0.875rem;
-      position: relative;
-      overflow: hidden;
-      border: 1px solid rgba(255, 255, 255, 0.2);
-      backdrop-filter: blur(6px) saturate(200%);
-      -webkit-backdrop-filter: blur(6px) saturate(200%);
-      cursor: pointer;
-      background-size: 300% 300%;
-      animation: quartz-shimmer 20s linear infinite;
-      box-shadow:
-        0 0 1px rgba(255, 255, 255, 0.05),
-        0 0 4px rgba(255, 255, 255, 0.04);
-      transition:
-        border 260ms ease,
-        transform 260ms ease,
-        box-shadow 220ms ease,
-        color 240ms ease,
-        background 240ms ease;
-    }
-
-    /* Shimmer effect (slowed for smoothness) */
-    @keyframes quartz-shimmer {
-      0% { background-position: 0% 50%; }
-      100% { background-position: 100% 50%; }
-    }
-
-    /* Glow ring (lighter, smoother) */
-    .ft-bar-item::before {
-      content: "";
-      position: absolute;
-      inset: -2px;
-      border-radius: inherit;
-      z-index: -1;
-      background: conic-gradient(
-        from 0deg,
-        rgba(255, 255, 255, 0.1),
-        rgba(129, 140, 248, 0.15),
-        rgba(255, 255, 255, 0.1)
-      );
-      animation: rotate-glow 16s linear infinite;
-      filter: blur(3px);
-      opacity: 0.4;
-      pointer-events: none;
-    }
-
-    @keyframes rotate-glow {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
-
-    /* Hover / Focus - smoother effect */
-    .ft-bar-item.ft-bar-item-clickable:hover,
-    .ft-bar-item.ft-bar-item-clickable:focus {
-      background: linear-gradient(
-        120deg,
-        rgba(250, 250, 250, 0.45),
-        rgba(255, 255, 255, 0.35)
-      );
-      color: #000;
-      transform: scale(1.03);
-      box-shadow:
-        0 6px 16px rgba(255, 255, 255, 0.12),
-        0 3px 8px rgba(0, 0, 0, 0.08),
-        0 0 4px rgba(255, 255, 255, 0.05) inset;
-    }
-
-    /* Active state - balanced shadow */
-    .ft-bar-item.active,
-    .ft-bar-item.running {
-      background: linear-gradient(
-        120deg,
-        rgba(250, 250, 250, 0.50),
-        rgba(220, 220, 255, 0.45)
-      );
-      color: #000;
-      font-weight: 700;
-      border: 1.5px solid #818cf8;
-      transform: scale(1.035);
-      box-shadow:
-        0 8px 18px rgba(130, 150, 255, 0.15),
-        0 3px 12px rgba(0, 0, 0, 0.10) inset,
-        0 0 6px #93c5fd44;
-    }
-
-    /* Running indicator pulse (smoothed) */
-    @keyframes quartz-pulse {
-      0% { box-shadow: 0 0 6px #6366f188, 0 0 2px #000; }
-      100% { box-shadow: 0 0 14px #4f46e5cc, 0 0 4px #000; }
-    }
-    .ft-bar-item.running::before {
-      content: '';
-      display: inline-block;
-      width: 7px;
-      height: 7px;
-      margin-right: 6px;
-      border-radius: 50%;
-      background: radial-gradient(circle, #000 60%, #6366f1 100%);
-      box-shadow: 0 0 10px #6366f166, 0 0 2px #000;
-      animation: quartz-pulse 1.6s ease-in-out infinite alternate;
-      vertical-align: middle;
-    }
-
-    /* Responsive tweaks */
-    @media (max-width: 600px) {
-      .ft-bar-item {
-        font-size: 0.8rem;
-        padding: 1px 6px;
-        height: 20px;
-        margin: 0 2px;
+      /* Toolbar background layers: fully invisible */
+      .ft-bar-bg-layer-1,
+      .ft-bar-bg-layer-2 {
+        width: 80%;
+        margin: 0 auto;
+        background: transparent !important;
+        backdrop-filter: none !important;
+        -webkit-backdrop-filter: none !important;
+        border: none !important;
+        box-shadow: none !important;
+        transition: none;
+        display: block;
       }
-    }
+
+      /* Toolbar items */
+      .ft-bar-item {
+        color: #f2f2f2;
+        background: linear-gradient(
+          135deg,
+          rgba(10, 10, 10, 0.50) 0%,
+          rgba(40, 40, 60, 0.50) 50%,
+          rgba(60, 80, 100, 0.50) 100%
+        );
+        border-radius: 16px;
+        padding: 1px 10px;
+        height: 22px;
+        margin: 0 3px;
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        font-size: 0.875rem;
+        position: relative;
+        overflow: hidden;
+        border: 0px solid rgba(0, 0, 0, 0.22);
+        backdrop-filter: blur(6px) saturate(180%);
+        -webkit-backdrop-filter: blur(6px) saturate(180%);
+        cursor: pointer;
+        background-size: 200% 200%;
+        animation: quartz-shimmer 2.8s linear infinite;
+        transition: 
+          color 280ms ease,
+          background 280ms ease,
+          box-shadow 280ms ease,
+          transform 200ms ease;
+        transform-origin: center;
+        z-index: 1;
+      }
+
+      /* Shimmer animation */
+      @keyframes quartz-shimmer {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+      }
+
+      /* Shimmer swipe overlay */
+      .ft-bar-item.ft-bar-item-clickable::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 200%;
+        height: 100%;
+        background: linear-gradient(120deg, transparent 30%, rgba(255,255,255,0.15) 50%, transparent 70%);
+        pointer-events: none;
+        opacity: 0;
+        transition: opacity 300ms ease;
+        z-index: 0;
+      }
+
+      .ft-bar-item.ft-bar-item-clickable:hover::after {
+        animation: shimmer-swipe 1.4s ease-in-out;
+        opacity: 1;
+      }
+
+      @keyframes shimmer-swipe {
+        0% { left: -100%; opacity: 0; }
+        50% { left: 0%; opacity: 1; }
+        100% { left: 100%; opacity: 0; }
+      }
+
+      /* Hover/focus states */
+      .ft-bar-item.ft-bar-item-clickable:hover,
+      .ft-bar-item.ft-bar-item-clickable:focus {
+        background: linear-gradient(
+          120deg,
+          rgba(240, 240, 240, 0.50) 0%,
+          rgba(220, 220, 220, 0.50) 100%
+        );
+        color: #000;
+        transform: scale(1.045);
+        box-shadow:
+          0 6px 24px rgba(255, 255, 255, 0.28),
+          0 3px 12px #0002 inset;
+        outline: none;
+        animation: none;
+      }
+
+      /* Active/running */
+      .ft-bar-item.active,
+      .ft-bar-item.running {
+        background: linear-gradient(
+          120deg,
+          rgba(240, 240, 240, 0.50) 0%,
+          rgba(220, 220, 220, 0.50) 100%
+        );
+        color: #000;
+        font-weight: 700;
+        border: 1.5px solid #6366f1;
+        transform: scale(1.05);
+        box-shadow:
+          0 8px 24px rgba(100, 100, 255, 0.3),
+          0 3px 16px rgba(0, 0, 0, 0.1) inset;
+        animation: none;
+      }
+
+      /* Running indicator */
+      .ft-bar-item.running::before {
+        content: '';
+        display: inline-block;
+        width: 7px;
+        height: 7px;
+        margin-right: 6px;
+        border-radius: 50%;
+        background: radial-gradient(circle, #000 60%, #6366f1 100%);
+        box-shadow: 0 0 12px #6366f188, 0 0 2px #000;
+        animation: quartz-pulse 1.2s infinite alternate;
+        vertical-align: middle;
+      }
+
+      @keyframes quartz-pulse {
+        0% { box-shadow: 0 0 8px #6366f188, 0 0 2px #000; }
+        100% { box-shadow: 0 0 18px #4f46e5cc, 0 0 4px #000; }
+      }
+
+      /* Non-clickable hover */
+      .ft-bar-item:not(.ft-bar-item-clickable):hover {
+        background: linear-gradient(
+          120deg,
+          rgba(40, 40, 60, 0.50) 0%,
+          rgba(0, 0, 0, 0.50) 100%
+        );
+        color: #f2f2f2;
+        transform: scale(1.025);
+        transition: transform 220ms ease, background 280ms ease;
+      }
+
+      /* Responsive */
+      @media (max-width: 600px) {
+        .ft-bar-bg-layer-1,
+        .ft-bar-bg-layer-2 {
+          width: 98%;
+          border-radius: 8px;
+        }
+
+        .ft-bar-item {
+          font-size: 0.8rem;
+          padding: 1px 6px;
+          height: 20px;
+          margin: 0 2px;
+        }
+      }
+
+      /* --- Maximized Window Styles --- */
+
+      /* When window is maximized, adapt the entire toolbar */
+      html[style*="--color-maximized-on-bg-background:"] .ft-bar-bg-layer-1,
+      html[style*="--color-maximized-on-bg-background:"] .ft-bar-bg-layer-2 {
+        width: 100% !important;
+        margin: 0 !important;
+        background: var(--color-maximized-on-bg-background) !important;
+        backdrop-filter: none !important;
+        -webkit-backdrop-filter: none !important;
+      }
+
+      /* Maximized toolbar items adapt to window background */
+      html[style*="--color-maximized-on-bg-background:"] .ft-bar-item {
+        color: var(--color-maximized-on-bg-foreground, #f2f2f2) !important;
+        background: transparent !important;
+        border: none !important;
+        backdrop-filter: none !important;
+        -webkit-backdrop-filter: none !important;
+        animation: none !important;
+        margin: 0 1px !important;
+      }
+
+      /* Hover state for maximized items */
+      html[style*="--color-maximized-on-bg-background:"] .ft-bar-item.ft-bar-item-clickable:hover {
+        background: rgba(255, 255, 255, 0.15) !important;
+        color: var(--color-maximized-on-bg-foreground, #f2f2f2) !important;
+        transform: scale(1.02) !important;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2) !important;
+      }
+
+      /* Active/running state for maximized items */
+      html[style*="--color-maximized-on-bg-background:"] .ft-bar-item.active,
+      html[style*="--color-maximized-on-bg-background:"] .ft-bar-item.running {
+        background: rgba(255, 255, 255, 0.25) !important;
+        color: var(--color-maximized-on-bg-foreground, #f2f2f2) !important;
+        border: 1px solid rgba(255, 255, 255, 0.3) !important;
+        transform: scale(1.02) !important;
+        box-shadow: 0 3px 12px rgba(0, 0, 0, 0.3) !important;
+      }
+
+      /* Running indicator for maximized state */
+      html[style*="--color-maximized-on-bg-background:"] .ft-bar-item.running::before {
+        background: radial-gradient(circle, var(--color-maximized-on-bg-foreground, #f2f2f2) 60%, rgba(99, 102, 241, 0.8) 100%) !important;
+        box-shadow: 0 0 8px rgba(99, 102, 241, 0.6), 0 0 2px rgba(0, 0, 0, 0.3) !important;
+      }
+
+      /* Non-clickable hover for maximized state */
+      html[style*="--color-maximized-on-bg-background:"] .ft-bar-item:not(.ft-bar-item-clickable):hover {
+        background: rgba(255, 255, 255, 0.1) !important;
+        color: var(--color-maximized-on-bg-foreground, #f2f2f2) !important;
+        transform: scale(1.01) !important;
+      }
+
+      /* Disable shimmer overlay when maximized */
+      html[style*="--color-maximized-on-bg-background:"] .ft-bar-item.ft-bar-item-clickable::after {
+        display: none !important;
+      }
 sharedStyles: ''
