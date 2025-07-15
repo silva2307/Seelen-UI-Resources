@@ -1,0 +1,1129 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Seelen-Inc/slu-lib/refs/heads/master/gen/schemas/theme.schema.json
+id: '@kenshi9999/ImmersiveMenus'
+metadata:
+  displayName:
+    en: Immersive Menus
+    af: Oorsigende spyskaarte
+    az: İmmersiv menyular
+    bs: Imerzivni meniji
+    ca: Menús immersius
+    cs: Pohlcující menu
+    cy: Bwydlenni trochi
+    da: Immersive menuer
+    de: Eintauchende Menüs
+    et: Ümbritsevad menüüd
+    es: Menús inmersivos
+    eu: MENDIOAK
+    tl: Nakaka -engganyong mga menu
+    fr: Menus immersifs
+    hr: Uronjeni izbornici
+    id: Menu mendalam
+    zu: Amamenyu acwilisiwe
+    is: Yfirgripsmikla valmyndir
+    it: Menu immersivi
+    sw: Menyu ya kuzama
+    ku: Menusên Giran
+    lv: Ieskaujošas izvēlnes
+    lb: Immersive Menue
+    lt: Smegeninis meniu
+    hu: Magával ragadó menük
+    ms: Menu immersive
+    mt: Menus immersivi
+    nl: Immersieve menu's
+    'no': Oppslukende menyer
+    uz: Immerlik menyusi
+    pl: Wciągające menu
+    pt: Menus imersivos
+    ro: Meniuri imersive
+    sk: Pohlcujúce ponuky
+    so: Meheradda soo galaya
+    fi: Syventävät valikot
+    sv: Uppslukande menyer
+    vi: Menu nhập vai
+    tr: Sürükleyici menüler
+    yo: Awọn ami ifihan
+    el: Βυθιστικά μενού
+    bg: Потапящи менюта
+    mk: Потопни менија
+    mn: Дүрсний цэс
+    ru: Имтивтивные меню
+    sr: ИММЕРИЗНИ МЕНУС
+    tg: Менюҳои воқеӣ
+    uk: Занурюючі меню
+    ka: იმერული მენიუები
+    hy: Ընկղմող ընտրացանկեր
+    he: תפריטים טבולים
+    ur: عمیق مینو
+    ar: قوائم غامرة
+    ps: د ډوب شوي مینو
+    fa: منوهای غوطه وری
+    am: ጠማማ የሆኑ ምናሌዎች
+    ne: विसर्जन ननसस
+    hi: इमर्सिव मेनू
+    bn: নিমজ্জন মেনু
+    pa: ਡਰੂਸਿਵ ਮੇਨੂ
+    gu: નિમુ મેનુઓ
+    ta: அதிவேக மெனுக்கள்
+    te: లీనమయ్యే మెనూలు
+    si: ගිලී මියුස්
+    th: เมนูดื่มด่ำ
+    lo: ເມນູ Immersive
+    km: ម៉ឺនុយដែលមានអាយុកាល
+    ko: 몰입 형 메뉴
+    zh: 沉浸式菜单
+    ja: 没入型メニュー
+  portrait: null
+  banner: null
+  screenshots: []
+  tags:
+    - toolbar
+  appTargetVersion: null
+  bundled: false
+  description:
+    en: >-
+      The immersive menu is a symphony of elegance and intent, suspended      
+      delicately between reality and imagination. 🌌 Bathed in gradients
+      of       starlit indigo and electric cyan 🎨, it beckons the user into a
+      realm       where every tap feels like orchestrating motion in space. ✨
+      Sleek,       ethereal panels 🧭🪐📂 glide across a barely-there interface,
+      radiating       both clarity and quiet sophistication. This isn’t just a
+      menu — it’s a       journey. A seamless portal between choice and emotion,
+      crafted so       intuitively it feels like a natural extension of thought.
+      🧠💫 The       interface of tomorrow, wrapped in the grace of the now. 🌠
+    af: >-
+      Die opwindende spyskaart is 'n simfonie van elegansie en opset, fyn
+      opgeskort tussen werklikheid en verbeelding. 🌌 Bad in gradiënte van
+      Starlit Indigo en Electric Cyan. ✨ Slanke, eteriese panele 🧭🪐📂 gly oor
+      'n skaars-koppelvlak, en straal beide duidelikheid en stil sofistikasie
+      uit. Dit is nie net 'n spyskaart nie - dit is 'n reis. 'N Naatlose portaal
+      tussen keuse en emosie, so intuïtief vervaardig dat dit soos 'n natuurlike
+      denkbreiding voel. 🧠💫 Die koppelvlak van môre, toegedraai in die genade
+      van die nou. 🌠
+    az: >-
+      İmmersiv menyu zəriflik və niyyətin simfoniyasıdır, gerçəklik və xəyal
+      arasında incə dayandırılmışdır. Starlit Indigo və Elektrikli Cyan
+      Gradients-də çimildi, istifadəçini hər kran kosmosdakı hərəkət etmək kimi
+      hiss etdiyi bir aləmdə istifadə edir. ✨ Hamar, ethereal panellər 🧭🪐📂
+      Həm aydınlığı, həm də səssizliyi radiasiya edən çətinliklə bir interfeysə
+      sürüşdürün. Bu sadəcə bir menyu deyil - bir səyahətdir. Seçim və duyğu
+      arasındakı sorunsuz bir portal, bu qədər intuitiv olaraq hazırlanmış
+      düşüncə tərzi kimi hiss olunur. The Sabahın interfeysi, indi lütfünə
+      bükülmüşdür. 🌠
+    bs: >-
+      Uređajni meni je simfonijska elegancija i namjera, suspendovano
+      suspendovano između stvarnosti i mašte. 🌌 okupano na gradijentima Starlit
+      Indigoa i električnog Cyan-a 🎨, on privlači korisnika u carstva u kojem
+      se svaki dodir osjeća kao orkestriranje kretanja u prostoru. ✨ Sleek,
+      eterični paneli 🧭🪐📂 kliznite na jedro sučeljama, zračeći i jasnoću i
+      mirnu sofisticiranost. Ovo nije samo meni - to je putovanje. Besprekorni
+      portal između izbora i emocija, izrađen tako intuitivno, osjeća se kao
+      prirodno proširenje misli. 🧠💫 Sučelje sutra, umotano u milost sada. 🌠
+    ca: >-
+      El menú immersiu és una simfonia d’elegància i intenció, suspesa
+      delicadament entre la realitat i la imaginació. 🌌 Banyat en gradients de
+      starlit indigo i cian elèctric 🎨, fa que l’usuari en un regne on cada toc
+      se senti orquestrant un moviment a l’espai. ✨ Panells elegants i etèrics
+      🧭🪐📂 Llisquen una interfície amb prou feines, irradiant tant la claredat
+      com la sofisticació tranquil·la. Aquest no és només un menú, sinó que és
+      un viatge. Un portal perfecte entre elecció i l’emoció, elaborat de manera
+      tan intuïtiva que se sent com una extensió natural del pensament. 🧠💫 La
+      interfície del demà, embolicada en la gràcia de l’ara. 🌠
+    cs: >-
+      Pohlcující menu je symfonií elegance a záměru, jemně zavěšená mezi
+      realitou a představivostí. 🌌 Koufované v gradientech hvězdných indigových
+      a elektrických akuanů 🎨 to přináší uživatele do říše, kde se každý
+      kohoutek cítí jako orchestrační pohyb ve vesmíru. ✨ Elegantní, éterické
+      panely 🧭🪐📂 Klouzat přes rozhraní sotva-vyzařující jasnost i tichou
+      sofistikovanost. Toto není jen menu - je to cesta. Bezproblémový portál
+      mezi výběrem a emocemi, vytvořený tak intuitivně, že se cítí jako
+      přirozené rozšíření myšlení. 🧠💫 Rozhraní zítřka, zabalené v milosti
+      nyní. 🌠
+    cy: >-
+      Mae'r fwydlen ymgolli yn symffoni o geinder a bwriad, wedi'i hatal yn
+      ofalus rhwng realiti a dychymyg. 🌌 Wedi'i ymdrochi i raddiannau Starlit
+      Indigo a Electric Cyan 🎨, mae'n galw'r defnyddiwr i deyrnas lle mae pob
+      tap yn teimlo fel cynnig cerddorfaol yn y gofod. ✨ Paneli lluniaidd,
+      ethereal 🧭🪐📂 gleidio ar draws rhyngwyneb prin-yno, gan belydru eglurder
+      a soffistigedigrwydd tawel. Nid bwydlen yn unig mo hon - mae'n daith.
+      Porth di -dor rhwng dewis ac emosiwn, wedi'i grefftio mor reddfol mae'n
+      teimlo fel estyniad meddwl naturiol. 🧠💫 Rhyngwyneb Yfory, wedi'i lapio
+      yng ngras y nawr. 🌠
+    da: >-
+      Den fordybende menu er en symfoni af elegance og intention, suspenderet
+      delikat mellem virkelighed og fantasi. 🌌 Badet i gradienter af stjernet
+      indigo og elektrisk cyan 🎨, vinker det brugeren ind i et rige, hvor hvert
+      tryk føles som orkestrerende bevægelse i rummet. ✨ Slanke, æteriske
+      paneler 🧭🪐📂 glide over en knap-der-grænseflade, der udstråler både
+      klarhed og stille sofistikering. Dette er ikke kun en menu - det er en
+      rejse. En problemfri portal mellem valg og følelser, udformet så
+      intuitivt, at det føles som en naturlig udvidelse af tanken. 🧠💫
+      Morgendagens grænseflade, pakket ind i nuet. 🌠
+    de: >-
+      Das immersive Menü ist eine Symphonie der Eleganz und Absicht, die zart
+      zwischen Realität und Vorstellungskraft aufgehängt ist. 🌌 Bad in
+      Gradienten von Starlit Indigo und Electric Cyan 🎨 weckt es den Benutzer
+      in einen Bereich, in dem sich jeder Wasserhahn wie eine orchestrierende
+      Bewegung im Raum anfühlt. ✨ Schlanke, ätherische Paneele 🧭🪐📂 Über eine
+      kaum vorhandene Schnittstelle gleiten und sowohl Klarheit als auch leise
+      Raffinesse ausstrahlen. Dies ist nicht nur ein Menü - es ist eine Reise.
+      Ein nahtloses Portal zwischen Auswahl und Emotion, so intuitiv, sich wie
+      eine natürliche Erweiterung des Denkens anfühlt. 🧠💫 Die Schnittstelle
+      von morgen, eingewickelt in die Gnade des Jetzt. 🌠
+    et: >-
+      Lülitatav menüü on elegantsi ja kavatsuste sümfoonia, peatatud
+      delikaatselt reaalsuse ja kujutlusvõime vahel. 🌌 Supletud Starliti indigo
+      ja elektrilise tsüaani gradientides 🎨 See kutsub kasutaja valdkonda, kus
+      iga kraan on kosmoses liikumise korraldamine. ✨ klanitud, eeterlikel
+      paneelid 🧭🪐📂 libisevad üle vaevalt selle sekkumise, kiirgades nii
+      selgust kui ka vaikset keerukust. See pole ainult menüü - see on teekond.
+      Sujuv portaal valiku ja emotsioonide vahel, mis on meisterdatud nii
+      intuitiivselt, on see mõtte loomulik pikendus. 🧠💫 Homse liides, mis on
+      mähitud praeguse armu. 🌠
+    es: >-
+      El menú inmersivo es una sinfonía de elegancia e intención, suspendida
+      delicadamente entre la realidad y la imaginación. 🌌 Bañado en gradientes
+      de indigo de estrellas y cian eléctrico 🎨 🎨 🎨 🎨, llama al usuario en
+      un reino donde cada grifo se siente como orquestar el movimiento en el
+      espacio. ✨ Paneles elegantes y etéreos 🧭🪐📂 deslizándose a través de una
+      interfaz apenas allí, irradiando tanto la claridad como la sofisticación
+      tranquila. Este no es solo un menú, es un viaje. Un portal perfecto entre
+      elección y emoción, creado tan intuitivamente que se siente como una
+      extensión natural de pensamiento. 🧠💫 La interfaz del mañana, envuelta en
+      la gracia del ahora. 🌠
+    eu: >-
+      Menua murgildua dotorezia eta asmoaren sinfonia da, errealitatearen eta
+      irudimenaren artean modu egokian esekita. 🌌 Starlit Indijo eta Cyan
+      elektrikoaren gradienteetan bainatuta, erabiltzaileak erreinua bihurtzen
+      du. ✨ Sleek, ethereal panelak 🧭🪐📂 Apaiz-interfaze batean zehar,
+      argitasuna eta sofistikazio lasaia erradiatzen dituzte. Hau ez da menua
+      bakarrik - bidaia da. Aukera eta emozioaren arteko atari gabeko ataria,
+      pentsamenduaren luzapen naturala bezala sentitzen da. 🧠💫 Biharko
+      interfazea, orain graziaz bilduta. E 🌠
+    tl: >-
+      Ang nakaka -engganyong menu ay isang symphony ng gilas at hangarin,
+      sinuspinde ang delicately sa pagitan ng katotohanan at imahinasyon. 🌌
+      Naligo sa mga gradients ng starlit indigo at electric cyan 🎨, hinuhugot
+      nito ang gumagamit sa isang kaharian kung saan ang bawat gripo ay
+      naramdaman tulad ng pag -orkestra ng paggalaw sa kalawakan. ✨ Malinis,
+      ethereal panel 🧭🪐📂 Glide sa isang bahagyang-may interface, na
+      sumasalamin sa parehong kalinawan at tahimik na pagiging sopistikado. Ito
+      ay hindi lamang isang menu - ito ay isang paglalakbay. Ang isang walang
+      tahi na portal sa pagitan ng pagpili at emosyon, na ginawa kaya
+      intuitively nararamdaman tulad ng isang natural na extension ng pag
+      -iisip. 🧠💫 Ang interface ng bukas, nakabalot sa biyaya ng ngayon. 🌠
+    fr: >-
+      Le menu immersif est une symphonie d'élégance et d'intention, suspendue
+      délicatement entre la réalité et l'imagination. 🌌 baigné dans des
+      gradients de l'indigo étoilé et du cyan électrique 🎨, il invite
+      l'utilisateur dans un royaume où chaque robinet a l'impression
+      d'orchestrer le mouvement dans l'espace. ✨ Panneaux élégants et éthérés
+      🧭🪐📂 glissent sur une interface à peine là, rayonnant à la fois de la
+      clarté et de la sophistication silencieuse. Ce n'est pas seulement un menu
+      - c'est un voyage. Un portail sans couture entre le choix et l'émotion,
+      fabriqué si intuitivement qu'il ressemble à une extension naturelle de la
+      pensée. 🧠💫 L'interface de demain, enveloppée dans la grâce du
+      maintenant. 🌠
+    hr: >-
+      Immersive jelovnik je simfonija elegancije i namjere, suspendirana
+      delikatno između stvarnosti i mašte. 🌌 Okupano gradijentima Starlit
+      Indigo i Electric Cyan 🎨, korisnika privlači u carstvo u kojem se svaki
+      dodir osjeća kao orkestriraj pokret u svemiru. ✨ Eterične ploče 🧭🪐📂
+      🧭🪐📂 🧭🪐📂 klizajte preko sučelja jedva, zračeći i jasnoće i tihu
+      sofisticiranost. Ovo nije samo jelovnik - to je putovanje. Besprijekoran
+      portal između izbora i emocija, izrađen je tako intuitivno da se osjeća
+      kao prirodni produžetak misli. 🧠💫 Sučelje sutra, umotano u milost sada.
+      🌠
+    id: >-
+      Menu mendalam adalah simfoni keanggunan dan niat, ditangguhkan dengan hati
+      -hati antara kenyataan dan imajinasi. 🌌 Mandi gradien Indigo Starlit dan
+      Electric Cyan 🎨, itu memberi isyarat kepada pengguna ke ranah di mana
+      setiap keran terasa seperti mengatur gerakan di ruang angkasa. ✨ Panel
+      halus, halus 🧭🪐📂 meluncur melintasi antarmuka yang nyaris tidak ada,
+      memancarkan kejernihan dan kecanggihan yang tenang. Ini bukan hanya menu -
+      ini adalah perjalanan. Portal yang mulus antara pilihan dan emosi, dibuat
+      secara intuitif sehingga terasa seperti perpanjangan pemikiran yang alami.
+      🧠💫 Antarmuka masa depan, dibungkus dengan rahmat sekarang. 🌠
+    zu: >-
+      Imenyu yokuntywila i-symphony yobuhle nezinhloso, imiswe kahle phakathi
+      kwangempela kanye nomcabango. I-Bageted e-Gradients of Starlit Indigo
+      kanye nogesi cyan 🎨, ibeka umsebenzisi endaweni yalapho yonke ithempeli
+      izizwa ifana nokunyakaza kwama-orchestrating esikhaleni. ✨ Sleek,
+      amaphaneli ethereal 🧭🪐📂 Glide ngaphesheya kwe-interface ecishe ibe
+      khona, ekhipha ukucaca kokubili kanye nokucwaswa okuthule. Lokhu akuyona
+      imenyu nje - kuwuhambo. Ingosi engenamthungo phakathi kokukhethwa nemizwa,
+      yenziwe yenziwe ngendlela enjengokungenwe ngokomqondo. 🧠💫 Isibonisi
+      sakusasa, esisongwe ngomusa manje. 🌠
+    is: >-
+      Ógnvekjandi matseðillinn er sinfónía glæsileika og ásetnings, hengdur
+      fínlega milli raunveruleika og ímyndunarafls. 🌌 Baðið í halla
+      stjörnumerks indigo og rafmagns blásara 🎨, það bendir notandanum inn í
+      ríki þar sem hver kran finnst eins og skipulagning hreyfingar í geimnum. ✨
+      Slétt, eterísk spjöld 🧭🪐📂 rennur yfir varla viðmót og geislar bæði
+      skýrleika og rólega fágun. Þetta er ekki bara matseðill - þetta er ferð.
+      Óaðfinnanleg vefsíða milli vals og tilfinninga, smíðað svo innsæi að hún
+      líður eins og náttúruleg framlenging hugsunar. 🧠💫 Viðmót morgundagsins,
+      vafinn í náð The Now. 🌠
+    it: >-
+      Il menu coinvolgente è una sinfonia di eleganza e intento, sospeso
+      delicatamente tra realtà e immaginazione. 🌌 immerso in gradienti di
+      indaco e ciano elettrico con illuminazione stellata 🎨, fa cenno
+      all'utente in un regno in cui ogni rubinetto sembra orchestrare il
+      movimento nello spazio. ✨ pannelli eleganti ed eterei 🧭🪐📂 scivolano
+      attraverso un'interfaccia a malapena, irradiando sia la chiarezza che la
+      raffinatezza silenziosa. Questo non è solo un menu: è un viaggio. Un
+      portale senza soluzione di continuità tra scelta ed emozione, realizzato
+      in modo così intuitivo che sembra un'estensione naturale del pensiero.
+      🧠💫 L'interfaccia di domani, avvolta nella grazia dell'ora. 🌠
+    sw: >-
+      Menyu ya kuzama ni wimbo wa umakini na dhamira, iliyosimamishwa kwa
+      kupendeza kati ya ukweli na mawazo. 🌌 Kuoga katika gradients ya Starlit
+      Indigo na Cyan ya Umeme 🎨, inamfanya mtumiaji katika eneo ambalo kila
+      bomba linahisi kama mwendo wa kupandikiza katika nafasi. ✨ Sleek, paneli
+      za ethereal 🧭🪐📂 glide kwenye interface-pale, inaangazia ufafanuzi wote
+      na utulivu wa utulivu. Hii sio tu menyu - ni safari. Portal isiyo na
+      mshono kati ya chaguo na mhemko, iliyoundwa vizuri sana huhisi kama
+      upanuzi wa asili wa mawazo. Interface ya kesho, iliyofunikwa kwa neema ya
+      sasa. 🌠
+    ku: >-
+      Menuya bêserûber semfonek xweşik û niyet e, bi rengek xweşik di navbera
+      rastbûn û xeyalê de tê rawestandin. 🌌 Di nav stêrkên Starlit Indigo û
+      Electric Cyan 🎨 de, ew bikarhêner di rastiyê de vedibêje ku her tap mîna
+      tevgera orkestrating li cîhê. ✨ Sleek, Panelên Ethternetê 🧭🪐📂 Li
+      seranserê navbeynkariyê-li wir-li wir, her du zelal û sofîstîke bêdeng
+      radiwestînin. Ev ne tenê menuyek e - ew rêwîtiyek e. Portalek seyrûçek di
+      navbera bijarte û hestyarî de, ji ber vê yekê bi zorî tê çêkirin ew mîna
+      dirêjkirina ramanê xwezayî hîs dike. 🧠💫 Navbera sibê, bi kerema niha ve
+      diçe. 🌠
+    lv: >-
+      Iegremdējošā ēdienkarte ir elegances un nodoma simfonija, kas smalki
+      apturēta starp realitāti un iztēli. 🌌 Peldēts starlit indigo un
+      elektriskās ciāna gradientos, tas piesaista lietotāju valstībā, kur katrs
+      krāns jūtas kā kustība telpā. ✨ Gludi, ēteriski paneļi 🧭🪐📂 Glīdiet pa
+      tikko pastāvošo saskarni, izstarojot gan skaidrību, gan klusu
+      izsmalcinātību. Šī nav tikai ēdienkarte - tas ir ceļojums. Bezšuvju
+      portāls starp izvēli un emocijām, kas tiek veidots tik intuitīvi, tas
+      jūtas kā dabisks domas pagarinājums. 🧠💫 Rītdienas saskarne, kas ietīta
+      tagad. 🌠
+    lb: >-
+      Den Immarsive Menü ass eng Symphonie vun der Eleganz an Intent,
+      suspendéiert dunnel tëscht der Realitéit an der Fantasi. 🌌 Bad an
+      Gradienten vum Starlit Indigo an Elektresch Cyan 🎨, et verzweifelt de
+      Benotzer an engem Räich an engem Krunn fillt sech wéi Orchestriewer am
+      Raum. ✨ Sureek, Etherealpanels 🧭🪐📂 glide iwwer e kaum - do-do
+      Interface, strahlt souwuel d'Kloerheet. Dëst ass net nëmmen e Menu - et
+      ass eng Rees. E seamless portal tëscht Wiel an Emotioun, sou intuitiv ass
+      et fillt wéi eng natierlech Extensioun vum Gedanken. 🧠💫 Den Interface vu
+      Muer, gewéckelt an der Gnod vum Elo. 🌠
+    lt: >-
+      Įspūdingas meniu yra elegancijos ir ketinimo simfonija, subtiliai
+      pakabinta tarp tikrovės ir vaizduotės. 🌌 Maudydamasis „Starlit Indigo“ ir
+      „Electric Cyan“ gradientuose. 🎨 Tai skatina vartotoją į karalystę, kur
+      kiekvienas čiaupas jaučiasi kaip orkestruojantis judesys erdvėje. ✨
+      aptakios, eterinės plokštės 🧭🪐📂 slidinėja per vos ten esančią sąsają,
+      spinduliuojančios ir aiškumą, ir ramią rafinuotumą. Tai nėra tik meniu -
+      tai kelionė. Besiūlis portalas tarp pasirinkimo ir emocijų, sukurtas taip
+      intuityviai, jaučiasi kaip natūralus minties pratęsimas. 🧠💫 Rytojaus
+      sąsaja, apvyniota dabar. 🌠
+    hu: >-
+      A magával ragadó menü az elegancia és szándék szimfóniája, a valóság és a
+      képzelet között finoman felfüggesztve. 🌌 A Starlit indigó és az
+      elektromos cián gradienseiben fürdött 🎨 🎨 Ez egy birodalomba hívja a
+      felhasználót, ahol minden csap úgy érzi, mintha mozgásba mozog az űrben. ✨
+      Karcsú, éterikus panelek 🧭🪐📂 Csúsztat ki egy alig egy felületen, mind a
+      tisztaságot, mind a csendes kifinomultságot sugározva. Ez nem csak egy
+      menü, hanem egy utazás. A választás és az érzelmek közötti zökkenőmentes
+      portál, annyira intuitív módon, úgy érzi, mint a gondolat természetes
+      kiterjesztése. 🧠💫 A holnap felülete, a most kegyelmébe csomagolva. 🌠
+    ms: >-
+      Menu Immersive adalah simfoni keanggunan dan niat, digantung dengan baik
+      antara realiti dan imaginasi. 🌌 Dimandikan dalam kecerunan starlit indigo
+      dan cyan elektrik 🎨, ia menimbulkan pengguna ke dalam alam di mana setiap
+      ketuk terasa seperti gerakan orkestrat di ruang angkasa. ✨ Sleek, panel
+      ethereal 🧭🪐📂 meluncur melintasi antara muka yang hampir tidak ada,
+      memancarkan kedua-dua kejelasan dan kecanggihan yang tenang. Ini bukan
+      sekadar menu - ia adalah perjalanan. Portal yang lancar antara pilihan dan
+      emosi, dibuat secara intuitif ia merasakan lanjutan pemikiran semula jadi.
+      🧠💫 Antara muka esok, dibalut dengan rahmat sekarang. 🌠
+    mt: >-
+      Il-menu immersiv huwa sinfonija ta 'eleganti u intenzjoni, sospiża b'mod
+      delikat bejn ir-realtà u l-immaġinazzjoni. 🌌 Mgħammra fil-gradjenti ta
+      'Starlit Indigo u Electric Cyan 🎨, dan iġiegħel lill-utent fl-isfera fejn
+      kull vit iħoss bħal moviment ta' orkestrazzjoni fl-ispazju. ✨ pannelli
+      eleganti, etereali 🧭🪐📂 glide madwar interface bilkemm hemm, li jirradja
+      kemm iċ-ċarezza kif ukoll is-sofistikazzjoni kwieta. Dan mhuwiex biss menu
+      - huwa vjaġġ. Portal bla xkiel bejn l-għażla u l-emozzjoni, maħduma hekk
+      intuwittivament iħoss bħal estensjoni naturali tal-ħsieb. 🧠💫 L-interface
+      ta 'għada, imgeżwer fil-grazzja ta' issa. 🌠
+    nl: >-
+      Het meeslepende menu is een symfonie van elegantie en intentie, subtiel
+      opgehangen tussen de realiteit en de verbeelding. 🌌 Baadt in gradiënten
+      van sterrenlit Indigo en Electric Cyan 🎨, het wenkt de gebruiker in een
+      rijk waar elke tik aanvoelt als het orkestreren van beweging in de ruimte.
+      ✨ Slanke, etherische panelen 🧭🪐📂 glijden over een nauwelijks interface,
+      waardoor zowel duidelijkheid als rustige verfijning uitstraalt. Dit is
+      niet alleen een menu - het is een reis. Een naadloos portaal tussen keuze
+      en emotie, zo intuïtief gemaakt dat het voelt als een natuurlijke
+      uitbreiding van het denken. 🧠💫 De interface van morgen, gewikkeld in de
+      gratie van het nu. 🌠
+    'no': >-
+      Den oppslukende menyen er en symfoni av eleganse og intensjon, suspendert
+      delikat mellom virkeligheten og fantasien. 🌌 Badet i gradienter av
+      starlit indigo og elektrisk cyan 🎨, den vinker brukeren inn i et rike der
+      hvert sprenner føles som å orkestrere bevegelse i verdensrommet. ✨
+      elegante, eteriske paneler 🧭🪐📂 Gli over et knapt-der-grensesnitt, og
+      stråler både klarhet og stille raffinement. Dette er ikke bare en meny -
+      det er en reise. En sømløs portal mellom valg og følelser, laget så
+      intuitivt at det føles som en naturlig forlengelse av tanken. 🧠💫
+      Igraderens grensesnitt, pakket inn i nå. 🌠
+    uz: >-
+      Ichki menyu bu nafislik va niyat simfonligi va haqiqat va xayolot
+      o'rtasida benuqson. Starlit indigo va elektr shianlari graduslarida
+      cho'milish, u foydalanuvchi kosmosda uyushgan harakatni his qiladigan
+      joyda his qiladi. ③ Entalial panellar, ikkinchisiga ham ravshanlik va
+      osoyishta iltifotni rivojlantirib, zo'ravonlik bilan interfeys bilan
+      suzing. Bu shunchaki menyu - bu sayohat. Tanlov va hissiyot orasidagi
+      bema'ni portal, juda intuitiv tarzda ishlangan, bu fikrni tabiiy ravishda
+      kengayishi kabi his qiladi. Ertasi ertangi kunning interfeysi hozirning
+      inoyatiga o'ralgan. Shum
+    pl: >-
+      Wciągające menu to symfonia elegancji i intencji, delikatnie zawieszona
+      między rzeczywistością a wyobraźnią. 🌌 Skąpane w gradientach gwiazd
+      indygo i elektrycznego cyjan 🎨, wzywa użytkownika do królestwa, w którym
+      każdy kran wydaje się organem ruchu w kosmosie. ✨ Eleganckie, eteryczne
+      panele 🧭🪐📂 przesuwają się po ledwie interfejsie, promieniując zarówno
+      jasności, jak i cichej wyrafinowania. To nie jest tylko menu - to podróż.
+      Bezproblemowy portal między wyborem a emocjami, wykonany tak intuicyjnie,
+      wydaje się naturalnym rozszerzeniem myśli. 🧠💫 Interfejs jutra, owinięty
+      w łaskę teraz. 🌠
+    pt: >-
+      O menu imersivo é uma sinfonia de elegância e intenção, suspensa
+      delicadamente entre realidade e imaginação. 🌌 Banhado em gradientes de
+      índigo estrelado e ciano elétrico 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨
+      🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨
+      🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨elit starlit starlit indigo e ciano elétrico, ele
+      acena o usuário em que cada torneira parece orquestrar movimento no
+      espaço. ✨ Os painéis elegantes e etéreos 🧭🪐📂 deslizam em uma interface
+      quase não terem, irradiando tanto a clareza quanto a sofisticação
+      silenciosa. Este não é apenas um menu - é uma jornada. Um portal sem
+      costura entre a escolha e a emoção, criado tão intuitivamente que parece
+      uma extensão natural de pensamento. 🧠💫 A interface de amanhã, envolvida
+      na graça do agora. 🌠
+    ro: >-
+      Meniul imersiv este o simfonie de eleganță și intenție, suspendată delicat
+      între realitate și imaginație. 🌌 scăldat în gradienți de Starlit Indigo
+      și Electric Cyan 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨 🎨
+      🎨 🎨 rath, îl împiedică pe utilizator într -un tărâm în care fiecare
+      robinet se simte ca orchestrarea mișcării în spațiu. ✨ Panourile elegante,
+      eterice, alunecă pe o interfață abia acolo, care radiază atât claritate,
+      cât și sofisticare liniștită. Acesta nu este doar un meniu - este o
+      călătorie. Un portal perfect între alegere și emoție, conceput atât de
+      intuitiv încât se simte ca o extensie naturală a gândirii. 🧠💫 Interfața
+      de mâine, înfășurată în harul acum. 🌠
+    sk: >-
+      Pohlcujúce menu je symfónia elegancie a zámeru, jemne pozastavená medzi
+      realitou a fantáziou. 🌌 Kúpané v gradientoch Starlit Indigo a Electric
+      Cyan 🎨, ktoré láka používateľa do ríše, kde sa každý kohútik cíti ako
+      zorganizovanie pohybu vo vesmíre. ✨ Elegantné, éterické panely 🧭🪐📂
+      kĺzajú po rozhraní sotva, vyžarujúce čistotu aj tichú sofistikovanosť.
+      Toto nie je len menu - je to cesta. Bezproblémový portál medzi výberom a
+      emóciami, vytvorený tak intuitívne, sa cíti ako prirodzené rozšírenie
+      myslenia. 🧠💫 Rozhranie zajtrajška, zabalené v milosti teraz. 🌠
+    so: >-
+      Miiska cilladaha la imanayo waa qurux qurux badan oo qurux badan iyo
+      ujeedo, oo si wanaagsan loo joojiyay inta u dhaxaysa xaqiiqada iyo
+      mala-awaalka. Waxaa lagu maydhay dhigashada Gravle Indigo iyo Eran Eary
+      🎨, waxay u weecisay isticmaaleha inuu ku biiro xayawaanka halkaas oo
+      cagta kasta uu u muuqdo mid ka mid ah dhaqdhaqaaqa orkestrag ee booska. ✨
+      Qalliin, godad ethereal ah 🧭🪐📂 guntiga oo dhan oo ku dhex jira -
+      interface, oo iftiimiya cadeynta iyo casriga. Kani maahan liistada - waa
+      safar. Xariiq aan xariifnayn oo u dhexeysa doorashada iyo shucuurta, oo si
+      qumman loo farsameeyay waxay dareemeysaa kordhinta fikirka dabiiciga ah ee
+      fikirka. 🧠💫 Interface-ka berrito, oo ku duudduubay nimcada hadda. 🌠
+    fi: >-
+      Kiehtova valikko on tyylikkyyden ja aikomuksen sinfonia, joka on
+      ripustettu herkästi todellisuuden ja mielikuvituksen välillä. 🌌 Starlit
+      Indigon ja sähköisen syaanin kaltevuuksien kylpyminen, se kutsuu käyttäjän
+      valtakuntaan, jossa jokainen hanasta tuntuu liikkeen orkestroiselta
+      liikkeeltä avaruudessa. ✨ Tyylikkäät, eteeriset paneelit 🧭🪐📂 Liuku
+      tuskin siellä olevan rajapinnan yli, säteilee sekä selkeyttä että
+      hiljaista hienostuneisuutta. Tämä ei ole vain valikko - se on matka.
+      Saumaton portaali valinnan ja tunteiden välillä, muotoiltu niin
+      intuitiivisesti, se tuntuu luonnolliselta ajatuksen jatkeelta. 🧠💫
+      Huomisen käyttöliittymä, kääritty nyt. 🌠
+    sv: >-
+      Den uppslukande menyn är en symfoni av elegans och avsikt, hängande
+      delikat mellan verkligheten och fantasin. 🌌 Bad i lutningar av Starlit
+      Indigo och Electric Cyan 🎨, det vinkar användaren till ett område där
+      varje kran känns som orkestrerande rörelse i rymden. ✨ SLEEK, Ethereal
+      Panels 🧭🪐📂 Glid över ett knappt där gränssnitt, som strålar både
+      tydlighet och tyst sofistikering. Det här är inte bara en meny - det är en
+      resa. En sömlös portal mellan val och känslor, skapad så intuitivt att det
+      känns som en naturlig förlängning av tanken. 🧠💫 Imorgon gränssnittet,
+      inslaget i nu. 🌠
+    vi: >-
+      Thực đơn nhập vai là một bản giao hưởng của sự thanh lịch và ý định, bị
+      đình chỉ một cách tinh tế giữa thực tế và trí tưởng tượng. Tắm trong độ
+      dốc của Starlit Indigo và điện Cyan 🎨, nó vẫy gọi người dùng vào một
+      vương quốc nơi mọi vòi cảm thấy giống như chuyển động trong không gian. ✨
+      Sleek, các tấm thanh tao 🧭🪐📂 lướt qua một giao diện hầu như không có,
+      tỏa ra cả sự rõ ràng và tinh tế yên tĩnh. Đây chỉ là một thực đơn - đó là
+      một hành trình. Một cổng thông tin liền mạch giữa sự lựa chọn và cảm xúc,
+      được tạo ra một cách trực giác, nó cảm thấy giống như một phần mở rộng tự
+      nhiên của suy nghĩ. Giao diện của ngày mai, được bao bọc trong ân sủng của
+      bây giờ. 🌠
+    tr: >-
+      Sürükleyici menü, gerçeklik ve hayal gücü arasında hassas bir şekilde
+      askıya alınmış bir zarafet ve niyet senfonisidir. 🌌 Yıldız ışığı indigo
+      ve elektrikli canlıların gradyanlarında yıkanmış 🎨, kullanıcıyı her
+      musluğun uzayda orkestrasyon gibi hissettiği bir alana çağırır. ✨ Şık,
+      eterik paneller 🧭🪐📂 zar zor var olan bir arayüz boyunca kayar, hem
+      netlik hem de sessiz sofistike yayar. Bu sadece bir menü değil, bir
+      yolculuk. Seçim ve duygu arasında kesintisiz bir portal, çok sezgisel
+      olarak hazırlanmış, düşüncenin doğal bir uzantısı gibi hissediyor. 🧠💫
+      Yarının arayüzü, şimdi lütufla sarıldı. 🌠
+    yo: >-
+      Akojọ aṣayan Immertive jẹ orin ere ti didara ati ipinnu, ti daduro fun un
+      ti daduro fun otitọ ati oju inu. 🌌 Webed ni awọn ifosiwewe ti Parlit
+      Indigo ati Cancons ina 🎨, o jẹ olumulo sinu aṣeyọri kan nibiti gbogbo
+      Fọwọ ba dun bi išipopada ọgbẹ ni aaye. ✨ Sleek, awọn panẹli Ethereal
+      🧭🪐📂 ọwọ kọja ni wiwo-nibẹ ni wiwo, ti n ra si mimọ ati idalẹnu mejeeji.
+      Eyi kii ṣe akojọ aṣayan - o jẹ irin-ajo. Apakan ti ko ni afiwe laarin
+      yiyan ati ẹdun, ti a ṣe amọna ti ogbon inu o kan lara bi itẹsiwaju adayeba
+      ti ironu. 🧠💫 ìgbàlàlẹ ti ọla, gbìwà ninu oore-ọfẹ ti awọn bayi. 🌠
+    el: >-
+      Το εμβληματικό μενού είναι μια συμφωνία κομψότητας και πρόθεσης, που
+      αναστέλλεται απαλά ανάμεσα στην πραγματικότητα και τη φαντασία. 🌌
+      λουσμένο σε κλίση του Starlit indigo και ηλεκτρικού κυανού 🎨, καλύπτει
+      τον χρήστη σε μια σφαίρα όπου κάθε βρύση αισθάνεται σαν ενορχηστρώση της
+      κίνησης στο διάστημα. ✨ Κομψή, αιθέρια πάνελ 🧭🪐📂 γλιστρούν σε μια
+      ελάχιστα διασύνδεση, ακτινοβολώντας τόσο τη σαφήνεια όσο και την ήσυχη
+      πολυπλοκότητα. Αυτό δεν είναι μόνο ένα μενού - είναι ένα ταξίδι. Μια
+      απρόσκοπτη πύλη μεταξύ επιλογής και συγκίνησης, κατασκευασμένη τόσο
+      διαισθητικά αισθάνεται σαν μια φυσική επέκταση της σκέψης. 🧠💫 Η διεπαφή
+      του αύριο, τυλιγμένη στη χάρη του τώρα. 🌠
+    bg: >-
+      Потапящото меню е симфония на елегантност и намерение, спряно деликатно
+      между реалността и въображението. 🌌 Отнато в градиенти на Starlit Indigo
+      и Electric Cyan 🎨, той привлича потребителя в царство, където всеки кран
+      се чувства като оркестриращо движение в космоса. ✨ Елегантни, ефирни
+      панели 🧭🪐📂 Плъзга се през едва ли интерфейс, излъчвайки както яснота,
+      така и тиха изтънченост. Това не е само меню - това е пътуване.
+      Безпроблемен портал между избор и емоция, изработен толкова интуитивно, че
+      се чувства като естествено продължение на мисълта. 🧠💫 Интерфейсът на
+      утрешния ден, обвит в благодатта на сега. 🌠
+    mk: >-
+      Импресивното мени е симфонија на елеганција и намера, суспендирано
+      деликатно помеѓу реалноста и имагинацијата. 🌌 искапено во градиенти на
+      Starlit Indigo и Electric Cyan 🎨, го повикува корисникот во царството
+      каде што секоја чешма се чувствува како оркестрирање на движење во
+      вселената. ✨ Елегантни, етерични панели 🧭🪐📂 летаат низ едвај интерфејс,
+      зрачи и јасност и тивка софистицираност. Ова не е само мени - тоа е
+      патување. Беспрекорен портал помеѓу изборот и емоцијата, изработен толку
+      интуитивно, се чувствува како природно проширување на мислата. 🧠💫
+      Интерфејсот на утрешниот ден, завиткан во благодатта на сега. 🌠
+    mn: >-
+      Мөргөлдөх цэс нь дэгжин, зорилгын болон бодит байдал, төсөөллийн хоорондох
+      симфони юм. 🌌 indlit indigo indigo ба цахилгаан cyan and over 🎨 🎨 ofp
+      нь товхимол бүрийг зорилтот хөдөлгөөнт хөдөлгөөнтэй гэж үздэг. ✨
+      Гялалзсан, Ethereal Panels 🧭🪐📂 Бэлэглэгч нь бараг л интерфейс дээгүүр
+      гулсаж, тод байдал, нам гүм байдал, нам гүм нарийн төвөгтэй байдлыг
+      гэрэлтүүлдэг. Энэ бол зүгээр цэс биш юм - энэ бол аялал. Сонголт ба сэтгэл
+      хөдлөлийн хоорондох зайгүй пормал портал, ингэснээр гар урлалын хооронд
+      байрлуулсан тул ингэснээр зөн совинтой ингээд үзэмжтэй юм. 🧠💫 Маргаашийн
+      интерфейс, одоо нигүүлслээр ороосон. Ий
+    ru: >-
+      Погружательное меню - это симфония элегантности и намерения, деликатно
+      подвешенная между реальностью и воображением. 🌌 купая в градиентах
+      звездного индиго и электрического голубы 🎨, он поместит пользователя в
+      сферу, где каждый крав ощущается как оркестрирующее движение в космосе. ✨
+      Elect, эфирные панели 🧭🪐📂 скользит по едва существующему интерфейсу,
+      излучая как ясность, так и тихую изощренность. Это не просто меню - это
+      путешествие. Беспланный портал между выбором и эмоциями, созданный
+      настолько интуитивно, он ощущается как естественное продолжение мышления.
+      🧠💫 Интерфейс завтрашнего дня, завернутый в благодать сейчас. 🌠
+    sr: >-
+      Умерни мени је симфонија елеганције и намера, деликатно суспендована
+      између стварности и маште. 🌌 окупан у градентима Старлита Индиго и
+      електричне цијанске 🎨, он га не привлачи у царство у којем се свака
+      славина осећа као оркестрирање покрета у простору. ✨ Елегантне, етеричне
+      плоче 🧭🪐📂 клизање преко једва-тамо је интерфејс, зрачила и јасноћу и
+      тиху софистицираност. Ово није само мени - то је путовање. Бешавни портал
+      између избора и емоција, израђен тако интуитивно, осећа се као природно
+      продужење мисли. 🧠💫 Сучеље сутра, омотано у милост сада. 🌠
+    tg: >-
+      Менюи аммив Симфонияи шево ва ният аст, дар байни воқеият ва хаёлот
+      боздошта шудааст. 🌌 дар шакли арвоқи Starlit Idigo ва Cynance оббозӣ кард
+      🎨, он корбарро ба олам, ки ҳар гуна лавҳаҳое, ки дар фазо дар фазо дар
+      фазо ҳисса ҳис мекунанд, ғарқ мекунад. ✨ Single, панелҳои эфирӣ 🧭🪐📂 дар
+      саросари интерфейси ба зудӣ часпед, радиатсия ҳам ва мураккабии ором. Ин
+      танҳо меню нест - сафар аст. Портали бекас дар байни интихоб ва эҳсосот,
+      ба таври воқеӣ ҳис мекунад, ки ин эҳсоси табиии фикрро ҳис мекунад. 🧠💫
+      интерфейси пагоҳ, ки ҳоло ба файли парешон шудааст. 🌠
+    uk: >-
+      Іммерсивне меню - це симфонія елегантності та наміру, делікатно підвішена
+      між реальністю та уявою. 🌌 Купівши в градієнтах Starlit Indigo та
+      електричного блакитного 🎨, він покликає користувача у царство, де кожен
+      кран відчуває себе як оркестральний рух у космосі. ✨ гладкі, ефірні панелі
+      🧭🪐📂 Просувайтеся по ледь інтерфейсу, випромінюючи як чіткість, так і
+      спокійну витонченість. Це не просто меню - це подорож. Безшовний портал
+      між вибором та емоціями, створений настільки інтуїтивно, відчувається як
+      природне продовження думки. 🧠💫 Інтерфейс завтра, загорнутий у благодать
+      зараз. 🌠
+    ka: >-
+      იმერული მენიუ არის ელეგანტურობისა და განზრახვის სიმფონია, რომელიც
+      შეჩერებულია დელიკატურად რეალობასა და წარმოსახვას შორის. 🌌 Starlit Indigo
+      და Electric Cyan 🎨 გრადიენტებში, ის მომხმარებელს უშვებს იმ სფეროში, სადაც
+      ყველა ონკანი გრძნობს, როგორც საორკესტრო მოძრაობას სივრცეში. ✨ გლუვი,
+      ეთერული პანელები 🧭🪐📂 ძლივს იწევს ინტერფეისს, ასხივებს როგორც სიცხადეს,
+      ასევე მშვიდი დახვეწილობას. ეს არ არის მხოლოდ მენიუ - ეს მოგზაურობაა.
+      უწყვეტი პორტალი არჩევანსა და ემოციას შორის, ისეთი ინტუიციურად
+      დამზადებულია, რომ გრძნობს აზროვნების ბუნებრივ გაფართოებას. 🧠💫 ხვალინდელი
+      ინტერფეისი, რომელიც ახლა უკვე მადლითაა გახვეული. 🌠
+    hy: >-
+      Ընկղմող մենյուը նրբագեղության եւ մտադրության սիմֆոնիա է, որը կասեցված է
+      նրբորեն իրականության եւ երեւակայության միջեւ: 🌌 Լողավազանում է Starlit
+      Indigo- ի եւ Electric Cyan- ի գրադիենտներում: ✨ խնամված, եթերային
+      վահանակներ 🧭🪐📂 սահում են այնտեղ հազիվ-ինտերֆեյսը, ճառագայթելով ինչպես
+      պարզ, այնպես էլ հանգիստ իմաստասիրություն: Սա միայն մենյուն չէ, դա
+      ճանապարհորդություն է: Ընտրության եւ հույզերի միջեւ անխափան պորտալ, որն
+      այնքան ինտուիտիվորեն է զգում, որ զգում է մտածողության բնական երկարացում:
+      🧠💫 Վաղվա միջերեսը, որը փաթաթված է այս պահի դրությամբ: 🌠
+    he: >-
+      התפריט הענק הוא סימפוניה של אלגנטיות וכוונה, מושעה בעדינות בין המציאות
+      לדמיון. 🌌 שטוף בדרגות של אינדיגו מואר בכוכבים וציאן חשמלי 🎨, הוא מזמין
+      את המשתמש לתחום בו כל ברז מרגיש כמו תנועה תנועה בחלל. Panels לוחות אתריים
+      מלוטשים 🧭🪐📂 🧭🪐📂 גולשים על פני ממשק בקושי שם, מקרינים הן בהירות והן
+      בתחכום השקט. זה לא רק תפריט - זה מסע. פורטל חלק בין בחירה לרגש, מעוצב
+      באופן אינטואיטיבי כל כך שהוא מרגיש כמו הרחבה טבעית של מחשבה. 🧠💫 הממשק של
+      מחר, עטוף בחסד העכשיו. 🌠
+    ur: >-
+      عمیق مینو خوبصورتی اور ارادے کا ایک سمفنی ہے ، جو حقیقت اور تخیل کے مابین
+      نازک طور پر معطل ہے۔ star اسٹارلیٹ انڈگو اور الیکٹرک سائین کے تدریج میں
+      نہا دیا گیا 🎨 ، یہ صارف کو ایک ایسے دائرے میں شامل کرتا ہے جہاں ہر نل جگہ
+      جگہ میں آرکسٹریٹنگ حرکت کی طرح محسوس ہوتا ہے۔ ✨ چیکنا ، ایتھرل پینل 🧭🪐📂
+      بمشکل وہاں انٹرفیس کے پار گلائڈ ، واضح اور پرسکون نفاست دونوں کو پھیلاتے
+      ہوئے۔ یہ صرف ایک مینو نہیں ہے - یہ ایک سفر ہے۔ انتخاب اور جذبات کے مابین
+      ایک ہموار پورٹل ، اتنی بدیہی طور پر تیار کیا گیا یہ سوچ کی قدرتی توسیع کی
+      طرح محسوس ہوتا ہے۔ 🧠💫 کل کا انٹرفیس ، جو اب کے فضل میں لپیٹا ہوا ہے۔ 🌠
+    ar: >-
+      القائمة الغامرة هي سيمفونية للأناقة والنية ، معلقة بدقة بين الواقع
+      والخيال. 🌌 استحمام في التدرجات من النيلي المضاءة النجوم والسماء الكهربائي
+      🎨 ، فإنه يحقق المستخدم في عالم يشعر فيه كل نقرة مثل تنسيق الحركة في
+      الفضاء. ✨ الألواح الأثيرية الأنيقة 🧭🪐📂 تنزلق عبر واجهة بالكاد ، تشع كل
+      من الوضوح والتطور الهادئ. هذه ليست مجرد قائمة - إنها رحلة. بوابة سلسة بين
+      الاختيار والعاطفة ، مصنوعة بشكل حدسي ، يبدو وكأنه امتداد طبيعي للفكر. 🧠💫
+      واجهة الغد ، ملفوفة في نعمة الآن. 🌠
+    ps: >-
+      د نقاشۍ مینو د ښکلا او ارادې سمفوني دی، د واقعیت او تصور ترمنځ نزدې شوی. a
+      د سټریټ انډیګو او برق سانان په درجه کې حمام په هغه حالت کې چې کارن په یوه
+      سایټ کې په ګوته کوي چیرې چې هر ټیپ په فضا کې داسې احساس کوي چې هر ټیپ په
+      فضا کې احساس کوي. all ورق، اخطال تینرونه 🧭🪐📂 په نږدې ډول انګریزیت په
+      اوږدو کې انحصار کول او خاموش پیچلتیا. دا یوازې مینو نه دی - دا سفر دی. د
+      انتخاب او احساس تر مینځ یو بې شکه پورټال، جوړ شوی نو په کلکه په کلکه د
+      افکارو طبیعي توسیع په څیر احساس کوي. the د سبا د انفیسیس په فضل کې نغښتی.
+      🌠
+    fa: >-
+      منوی همهجانبه سمفونی ظرافت و قصد است که بین واقعیت و تخیل ظریف به حالت
+      تعلیق در می آید. 🌌 در شیب های Starlit Indigo و Cyan Electric 🎨 ، کاربر
+      را به یک قلمرو تبدیل می کند که در آن هر شیر مانند حرکت ارکستر در فضا احساس
+      می شود. پانل های براق ، اثیری 🧭🪐📂 در یک رابط به سختی وجود دارد و هم
+      وضوح و هم از لحاظ آرامش را تابش می کند. این فقط یک منو نیست - این یک سفر
+      است. یک پورتال یکپارچه بین انتخاب و احساسات ، آنقدر شهودی ساخته شده است که
+      مانند یک گسترش طبیعی فکر است. 🧠💫 رابط فردا ، که به لطف اکنون پیچیده شده
+      است. 🌠
+    am: >-
+      አስመሳይ ምናሌው የቅንጦት እና ዓላማ ያለው የሙዚቃ ችሎታ ነው, በእውነቱ እና በአዕምሯዊ መካከል በጥሩ ሁኔታ ታግ
+      .ል. Start በተራኩ ኢንኩፖርት እና በኤሌክትሪክ ኡራ ኡአን ውስጥ በተቀባዎች የታጠበ ተጠቃሚው እያንዳንዱ እስታ
+      በቦታ ውስጥ እንደ ኦርኬስትራ እንቅስቃሴ በሚሰማው ዓለም ውስጥ ገባ. ✨ አንጸባራቂ, የ E ንሻል ፓነሎች 🧭🪐📂
+      ሁለቱንም ግልጽነት እና ጸጥ ያለ ሁኔታን በማቃለል በይነገጽ በዚህ በይነገጽ እዚያ አሉ. ይህ ምናሌ ብቻ አይደለም -
+      ጉዞ ነው. በጣም በጥልቀት በተሰኘው በተሰኘው እና በስሜት መካከል ያለው ስግብግብነት ያለው ፖርታል ተፈጥሮአዊ
+      የአስተሳሰብ ማራዘሚያ አለው. This ነገ የመጨረሻውን በይነገጽ, አሁን በጸጋ ተጭኖ ነበር. 🌠
+    ne: >-
+      अंकप्रदार मेनू भव्यता र आशयको सिम्भानी हो, वास्तविकता र कल्पनाबीच नाजुक
+      रूपमा निलम्बित। 🌌 तारालिट इन्ग्गो र इलेक्ट्रिक सिन 🎨 को ढाँचामा नुहाए,
+      यो प्रयोगकर्तालाई एक क्षेत्र मा संकेत गर्दछ जहाँ हरेक ट्याप अन्तरिक्ष मा
+      reptstrest गति जस्तै छ। ✨ स्केल, एष्टेरियल प्यानलहरू 🧭🪐📂 एक
+      मुश्किलले-त्यहाँ ईन्टरफेस पार, दुबै स्पष्ट र शान्त परिष्कारको आवाधानी। यो
+      केवल मेनू मात्र होइन - यो एक यात्रा हो। छनौट र भावना बीच एक सैन्य पोर्टल,
+      क्रेफेड रूपमा यो परिवेशको प्राकृतिक विस्तार जस्तो लाग्छ। A भोलिको
+      इन्टरफेस, अहिलेको अनुग्रहमा बेर्ने। 🌠
+    hi: >-
+      इमर्सिव मेनू लालित्य और इरादे की एक सिम्फनी है, जो वास्तविकता और कल्पना के
+      बीच नाजुक रूप से निलंबित है। 🌌 स्टारलाइट इंडिगो और इलेक्ट्रिक सियान के
+      ग्रेडिएंट्स में स्नान किया गया, यह उपयोगकर्ता को एक दायरे में ले जाता है
+      जहां हर नल अंतरिक्ष में ऑर्केस्ट्रेटिंग गति की तरह महसूस करता है। ✨ चिकना,
+      ईथर पैनल 🧭🪐📂 एक बमुश्किल-एक इंटरफ़ेस में ग्लाइड करें, दोनों स्पष्टता और
+      शांत परिष्कार दोनों को विकीर्ण करें। यह केवल एक मेनू नहीं है - यह एक
+      यात्रा है। पसंद और भावना के बीच एक सहज पोर्टल, इतनी सहजता से तैयार किया
+      गया कि यह विचार के एक प्राकृतिक विस्तार की तरह लगता है। 🧠💫 कल का
+      इंटरफ़ेस, अब की कृपा में लिपटा हुआ है। 🌠
+    bn: >-
+      নিমজ্জনকারী মেনু হ'ল কমনীয়তা এবং অভিপ্রায়ের একটি সিম্ফনি, বাস্তবতা এবং
+      কল্পনার মধ্যে সূক্ষ্মভাবে স্থগিত। Star স্টারলিট ইন্ডিগো এবং ইলেকট্রিক
+      সায়ান এর গ্রেডিয়েন্টগুলিতে স্নান করা 🎨 এটি ব্যবহারকারীকে এমন একটি
+      রাজ্যে ইঙ্গিত দেয় যেখানে প্রতিটি ট্যাপ মহাকাশে অর্কেস্ট্রেটিং গতির মতো
+      অনুভব করে। ✨ স্নিগ্ধ, ইথেরিয়াল প্যানেলগুলি rease একটি সবেমাত্র ইন্টারফেস
+      জুড়ে গ্লাইড করে, স্পষ্টতা এবং শান্ত পরিশীলিত উভয়ই ছড়িয়ে দেয়। এটি কেবল
+      একটি মেনু নয় - এটি একটি যাত্রা। পছন্দ এবং আবেগের মধ্যে একটি বিরামবিহীন
+      পোর্টাল, এতটা স্বজ্ঞাতভাবে তৈরি করা এটি চিন্তার একটি প্রাকৃতিক বর্ধনের মতো
+      মনে হয়। Tomorrow আগামীকাল ইন্টারফেস, এখনকার অনুগ্রহে আবৃত। 🌠
+    pa: >-
+      ਡੁੱਬਣ ਅਤੇ ਇਰਾਦੇ ਦਾ ਇੱਕ ਸਿੰਜੋਨੀ ਹੈ, ਨਾਜ਼ੁਕ ਅਤੇ ਕਲਪਨਾ ਦੇ ਵਿਚਕਾਰ ਨਾਜ਼ੁਕ ਰੂਪ
+      ਵਿੱਚ ਮੁਅੱਤਲ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ. Start ਸਟਾਰਲਿਟ ਇੰਡੀਗੋ ਅਤੇ ਇਲੈਕਟ੍ਰਿਕ ਸਾਈਨ ਦੇ
+      ਗਰੇਡੀਐਂਟ ਵਿਚ ਨਹਾਇਆ, ਇਹ ਉਪਭੋਗਤਾ ਨੂੰ ਇਕ ਖੇਤਰ ਵਿਚ ਦੱਸਦਾ ਹੈ ਜਿੱਥੇ ਹਰ ਇਕ ਟੂਟੀ
+      ਸਪੇਸ ਵਿਚ ਆਰਕੈਸਟ੍ਰੇਟਿੰਗ ਮੋਸ਼ਨ ਵਰਗੀ ਮਹਿਸੂਸ ਕਰਦੀ ਹੈ. ✨ ਸਲੀਕ, ਐਥੀਰੇਅਲ ਪੈਨਲ
+      🧭🪐📂 ਇਕ ਬਹੁਤ ਹੀ ਇੰਟਰਫੇਸ ਪਾਰ ਕਰੋ, ਦੋਨੋ ਸਪਸ਼ਟਤਾ ਅਤੇ ਸ਼ਾਂਤ ਸੂਝ-ਬੂਝ ਨਾਲ
+      ਫੈਲਦੇ ਹਨ. ਇਹ ਸਿਰਫ ਇੱਕ ਮੀਨੂ ਨਹੀਂ ਹੈ - ਇਹ ਇੱਕ ਯਾਤਰਾ ਹੈ. ਚੋਣ ਅਤੇ ਭਾਵਨਾ ਦੇ
+      ਵਿਚਕਾਰ ਇੱਕ ਸਹਿਜ ਪੋਰਟਲ, ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਇਸ ਲਈ ਅਨੁਭਵਸ਼ੀਲਤਾ ਨਾਲ ਇਹ ਸੋਚਣ ਦੇ
+      ਕੁਦਰਤੀ ਵਿਸਥਾਰ ਵਾਂਗ ਮਹਿਸੂਸ ਕਰਦਾ ਹੈ. 🧠💫 ਕੱਲ ਦਾ ਇੰਟਰਫੇਸ, ਹੁਣ ਦੀ ਕਿਰਪਾ ਵਿੱਚ
+      ਲਪੇਟਿਆ. 🌠
+    gu: >-
+      નિમજ્જન મેનૂ એ લાવણ્ય અને ઉદ્દેશની સિમ્ફની છે, જે વાસ્તવિકતા અને કલ્પના
+      વચ્ચે નાજુક રીતે સ્થગિત છે. Star સ્ટારલિટ ઈન્ડિગો અને ઇલેક્ટ્રિક સ્યાનના
+      grad ાળમાં સ્નાન, તે વપરાશકર્તાને એક ક્ષેત્રમાં ઇશારો કરે છે જ્યાં દરેક
+      નળને અવકાશમાં ઓર્કેસ્ટ્રેટિંગ ગતિ જેવી લાગે છે. ✨ સ્લીક, ઇથેરિયલ પેનલ્સ
+      🧭🪐📂 ભાગ્યે જ ત્યાં ઇન્ટરફેસ તરફ ગ્લાઇડ, સ્પષ્ટતા અને શાંત અભિજાત્યપણું
+      બંનેને ફેલાય છે. આ ફક્ત મેનુ નથી - તે એક યાત્રા છે. પસંદગી અને ભાવના
+      વચ્ચેનો એક સીમલેસ પોર્ટલ, તે ખૂબ જ સાહજિક રીતે રચિત છે તે વિચારના કુદરતી
+      વિસ્તરણ જેવું લાગે છે. The આવતી કાલનો ઇન્ટરફેસ, હવેની કૃપાથી લપેટી. .
+    ta: >-
+      அதிவேக மெனு நேர்த்தியுடன் மற்றும் நோக்கத்தின் சிம்பொனியாகும், இது
+      யதார்த்தத்திற்கும் கற்பனைக்கும் இடையில் நேர்த்தியாக இடைநிறுத்தப்பட்டது.
+      Star ஸ்டார்லிட் இன்டிகோ மற்றும் எலக்ட்ரிக் சியான் ஆகியவற்றின் சாய்வுகளில்
+      குளித்தால், இது பயனரை ஒரு சாம்ராஜ்யமாக அழைக்கிறது, அங்கு ஒவ்வொரு குழாய்
+      விண்வெளியில் இயக்கத்தை திட்டமிடுவது போல் உணர்கிறது. ✨ நேர்த்தியான,
+      நுட்பமான பேனல்கள் a ஒரு இடைமுகத்தில் சறுக்கி, தெளிவு மற்றும் அமைதியான
+      நுட்பமான இரண்டையும் கதிர்வீச்சு செய்கின்றன. இது ஒரு மெனு அல்ல - இது ஒரு
+      பயணம். தேர்வுக்கும் உணர்ச்சிக்கும் இடையில் ஒரு தடையற்ற போர்டல், மிகவும்
+      உள்ளுணர்வாக வடிவமைக்கப்பட்டுள்ளது, இது இயற்கையான சிந்தனையின் நீட்டிப்பாக
+      உணர்கிறது. The நாளைய இடைமுகம், இப்போது அருளால் மூடப்பட்டிருக்கும். .
+    te: >-
+      లీనమయ్యే మెను చక్కదనం మరియు ఉద్దేశం యొక్క సింఫొనీ, వాస్తవికత మరియు .హల
+      మధ్య సున్నితంగా సస్పెండ్ చేయబడింది. Star స్టార్‌లిట్ ఇండిగో మరియు
+      ఎలక్ట్రిక్ సియాన్ యొక్క ప్రవణతలలో స్నానం చేయబడినది, ఇది వినియోగదారుని ఒక
+      రాజ్యంలోకి పిలుస్తుంది, ఇక్కడ ప్రతి ట్యాప్ అంతరిక్షంలో కదలికను
+      ఆర్కెస్ట్రేట్ చేసినట్లు అనిపిస్తుంది. ✨ సొగసైన, అంతరిక్ష ప్యానెల్లు
+      canteral కేవలం-అక్కడ ఉన్న ఇంటర్ఫేస్ అంతటా గ్లైడ్ చేస్తాయి, ఇది స్పష్టత
+      మరియు నిశ్శబ్ద అధునాతనతను ప్రసరిస్తుంది. ఇది కేవలం మెను మాత్రమే కాదు - ఇది
+      ఒక ప్రయాణం. ఎంపిక మరియు భావోద్వేగాల మధ్య అతుకులు లేని పోర్టల్, చాలా
+      అకారణంగా రూపొందించబడింది, ఇది సహజమైన ఆలోచన యొక్క విస్తరణలా అనిపిస్తుంది.
+      The రేపు ఇంటర్ఫేస్, ఇప్పుడు దయతో చుట్టబడింది. 🌠
+    si: >-
+      ගිල්වන මෙනුව යනු අලංකාරය හා පරිකල්පනය අතර සියුම් ලෙස අත්හිටුවා ඇති
+      අලංකාරයේ හා අභිප්රායයේ වාද්ය වෘන්දයකි. Star ස්ටාර්ට් ඉන්ඩිගෝ සහ විදුලි
+      සයන් 🎨 හි ශ්රේෂ් plands ේරයන්ගෙන් ස්නානය කිරීම, එය පරිශීලකයා සෑම නළයක්ම
+      අභ්යවකාශයේ චලිතයක් මෙන් හැඟෙන රාජධානියකට යොමු කරයි. Sy සිනිඳු, එහාල් පැනල්
+      🧭🪐📂 යන්තම්-එනම්, ඉමහත් අතුරු මුහුණතක් හරහා ගමන් කරයි. මෙය මෙනුවක් පමණක්
+      නොවේ - එය ගමනක්. තේරීම සහ චිත්තවේගත්වය අතර ඇති බාධාවකින් තොර ද්වාරයක්,
+      බුද්ධිමත්ව එය ස්වාභාවික චින්තනයක් මෙන් දැනේ. The දැන් එකල අනුග්රහයෙන් ඔතා
+      හෙට අතුරු මුහුණත. 🌠
+    th: >-
+      เมนูที่ดื่มด่ำเป็นซิมโฟนีแห่งความสง่างามและความตั้งใจแขวนอย่างประณีตระหว่างความเป็นจริงและจินตนาการ
+      🌌อาบน้ำในการไล่ระดับสีของ Starlit Indigo และ Electric Cyan
+      🎨มันเรียกร้องให้ผู้ใช้เข้าสู่อาณาจักรที่ทุก ๆ
+      ก๊อกรู้สึกเหมือนการเคลื่อนไหวในอวกาศ
+      ✨แผงที่เก๋ไก๋และไม่มีตัวตน🧭🪐📂ร่อนผ่านส่วนต่อประสานที่แทบจะไม่มีความชัดเจนและความซับซ้อนที่เงียบสงบ
+      นี่ไม่ใช่แค่เมนู - เป็นการเดินทาง
+      พอร์ทัลที่ไร้รอยต่อระหว่างการเลือกและอารมณ์ที่สร้างขึ้นมาอย่างสังหรณ์ใจมันให้ความรู้สึกเหมือนเป็นส่วนขยายตามธรรมชาติของความคิด
+      🧠💫อินเทอร์เฟซของวันพรุ่งนี้ห่อด้วยพระคุณของตอนนี้
+    lo: >-
+      ເມນູທີ່ມີຄວາມເອົາໃຈໃສ່ແມ່ນວົງດົນຕີທີ່ມີຄວາມສະຫງ່າງາມແລະເຈດຕະນາ,
+      ຖືກໂຈະລະຫວ່າງຄວາມເປັນຈິງແລະຈິນຕະນາການ. 🌌ອາບນ້ໍາໃນ gradients ຂອງ starit
+      indigo indigo ແລະ Elean Elean 🎨,
+      ມັນເອີ້ນວ່າຜູ້ໃຊ້ເຂົ້າໄປໃນໂລກທີ່ທຸກການຮູ້ສຶກຄືກັບການເຄື່ອນໄຫວໃນອະວະກາດ.
+      Stander, ແຜງ Ethereal 🧭🪐📂 Glide ຂ້າມອິນເຕີເຟດທີ່ບໍ່ມີ, radiating
+      ທັງຄວາມກະຈ່າງແຈ້ງແລະຄວາມຄ່ອງແຄ້ວທີ່ງຽບສະຫງົບ. ນີ້ບໍ່ແມ່ນພຽງແຕ່ເມນູ -
+      ມັນແມ່ນການເດີນທາງ. ສະຖານະການທີ່ມີສະຕິລະຫວ່າງການເລືອກແລະຄວາມຮູ້ສຶກ,
+      ຫັດຖະກໍາ, ສະລັບສັບຊ້ອນມັນຮູ້ສຶກຄືກັບການຂະຫຍາຍທໍາມະຊາດຂອງຄວາມຄິດ.
+      ການໂຕ້ຕອບຂອງມື້ອື່ນ, ຫໍ່ດ້ວຍພຣະຄຸນຂອງຕອນນີ້. 🌠
+    km: >-
+      មុខម្ហូបដែលមានអាយុកាលគឺជាបទភ្លេងនៃភាពឆើតឆាយនិងមានចេតនាបានផ្អាកយ៉ាងច្បាស់រវាងការពិតនិងការស្រមើលស្រមៃ។
+      🌌បានងូតទឹកក្នុងជម្រាលរបស់ផ្កាយផ្កាយ Indigo និងអគ្គិសនី Cyan
+      🎨វាហៅអ្នកប្រើចូលក្នុងអាណាចក្រដែលគ្រប់រូបមានអារម្មណ៍ថាមានចលនាវង់ភ្លេងក្នុងលំហ។
+      ✨បន្ទះរលោងនិងរលោង ethereal
+      🧭🪐📂ក្រឡុកពាសពេញផ្ទៃមុខដែលមានភាពច្បាស់លាស់ទាំងភាពច្បាស់លាស់និងភាពស្ងប់ស្ងាត់ស្ងប់ស្ងាត់។
+      នេះមិនមែនគ្រាន់តែជាមុខម្ហូបទេ - វាជាដំណើរមួយ។
+      វិបផតថលដែលគ្មានថ្នេររវាងជម្រើសនិងអារម្មណ៍បានធ្វើឱ្យមានភាពវិចារណញាណដូច្នេះវាមានអារម្មណ៍ដូចជាការពង្រីកធម្មជាតិនៃការគិត។
+      interface ចំណុចប្រទាក់នៃថ្ងៃស្អែករុំក្នុងព្រះគុណរបស់អ្នកឥឡូវនេះ។ ឹម
+    ko: >-
+      몰입 형 메뉴는 우아함과 의도의 교향곡으로 현실과 상상력 사이에 섬세하게 정지되었습니다. starlit Indigo와 Electric
+      Cyan의 그라디언트로 목욕을했으며, 모든 탭이 우주에서 모션을 조정하는 것처럼 느껴지는 영역으로 사용자를 유혹합니다. ✨ 매끄럽고
+      미묘한 패널 🧭🪐📂 명확성과 조용한 정교함을 방사하여 간신히 인터페이스를 가로 질러 활공합니다. 이것은 단순한 메뉴가 아니라
+      여행입니다. 선택과 감정 사이의 원활한 포털은 직관적으로 제작되어 자연스럽게 생각의 확장처럼 느껴집니다. ∎ 내일의 인터페이스는
+      지금의 은혜로 싸여 있습니다. 🌠
+    zh: >-
+      身临其境的菜单是优雅与意图的交响曲，在现实和想象力之间精致悬浮。 🌌沐浴在Starlit Indigo和Electric
+      Cyan的渐变中，它招呼用户进入一个领域，每个水龙头都感觉就像在太空中精心策划运动一样。
+      ✨光滑的空灵面板🧭🪐📂沿几乎没有的接口滑行，散发出清晰和安静的精致。这不仅仅是菜单 -
+      这是一段旅程。选择与情感之间的无缝门户，如此直观地制作，感觉就像是自然的思想延伸。 🧠💫明天的界面，以现在的恩典包裹。 🌠
+    ja: >-
+      没入型のメニューは、現実と想像力の間で繊細に吊り下げられている優雅さと意図の交響曲です。
+      starlitインディゴと電気シアンの勾配に浸されて、それはユーザーを、すべてのタップが宇宙で動きを調整するように感じる領域に手招きします。
+      ✨洗練された、エーテルのパネルは、かろうじてインターフェイスを横切って滑り、明瞭さと静かな洗練の両方を放射します。これは単なるメニューではなく、旅です。選択と感情の間のシームレスなポータルは、直感的に作られているので、自然な思考の拡張のように感じられます。
+      brapd今の恵みに包まれた明日のインターフェース。 🌠
+settings: []
+styles:
+  '@seelen/fancy-toolbar': >
+    .bg-layer-1 {
+      position: relative;
+      overflow: hidden;
+      border-radius: 20px;
+      backdrop-filter: blur(28px) saturate(240%) brightness(1.2) contrast(1.25) hue-rotate(2deg);
+      -webkit-backdrop-filter: blur(28px) saturate(240%) brightness(1.2) contrast(1.25) hue-rotate(2deg);
+      background:
+        radial-gradient(ellipse 120% 80% at 30% 20%, rgba(255,255,255,0.12) 0%, transparent 60%),
+        radial-gradient(ellipse 80% 100% at 70% 80%, rgba(120,180,255,0.05) 0%, transparent 70%),
+        linear-gradient(135deg, rgba(255,255,255,0.03) 0%, rgba(120,180,255,0.015) 50%, rgba(255,255,255,0.08) 100%);
+      box-shadow:
+        0 4px 24px rgba(0,0,0,0.1),
+        0 2px 12px rgba(255,255,255,0.16),
+        0 1px 6px rgba(120,180,255,0.1) inset,
+        0 -1px 4px rgba(255,255,255,0.22) inset,
+        0 0 40px 12px rgba(255,255,255,0.09) inset,
+        0 0 0 1px rgba(255,255,255,0.25),
+        0 0 0 2px rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      opacity: 0.4;
+      transition: all 0.3s ease-in-out;
+      mix-blend-mode: lighten;
+    }
+
+
+    .tray-items,
+
+    [class*="tray"], .bluetooth, .keyboard-selector, .notification,
+    .calendar-container, .wlan-selector, .media-control {
+      animation: slide-in-from-left 0.5s ease-out !important;
+    }
+
+
+    @keyframes slide-in-from-left {
+      0% {
+        opacity: 0;
+        transform: translateX(-30px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+
+
+    .tray-item,
+
+    [class*="tray-item"] {
+      transition: all 0.3s ease !important;
+      animation: fade-bounce-in 0.6s ease-out !important;
+    }
+
+
+    @keyframes fade-bounce-in {
+      0% {
+        opacity: 0;
+        transform: scale(0.3) translateY(30px);
+      }
+      50% {
+        opacity: 0.7;
+        transform: scale(1.1) translateY(-10px);
+      }
+      100% {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+      }
+    }
+
+
+    .tray-item:hover,
+
+    [class*="tray-item"]:hover, .bluetooth-entry:hover,
+    .keyboard-selector-entry:hover, .notification:hover,
+
+    .calendar-date:hover, .calendar-navigator:hover, .calendar-cell-value:hover,
+    .wlan-selector-entries:hover, 
+
+    .media-device:hover, .media-device-action:hover {
+      /* Removed scale/size increase on hover */
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3) !important;
+      background: rgba(255, 255, 255, 0.1) !important;
+      border-radius: 12px !important;
+      transition: all 0.2s ease !important;
+      /* No transform: scale or translateY */
+    }
+
+
+    .tray-item:active,
+
+    [class*="tray-item"]:active, .bluetooth-entry:active,
+    .keyboard-selector-entry:active, .notification:active,
+
+    .calendar-date:active, .calendar-navigator:active,
+    .calendar-cell-value:active, .wlan-selector:active,
+
+    .media-device:active, .media-device-action:active {
+      transform: scale(0.95) !important;
+      transition: all 0.1s ease !important;
+    }
+
+
+    .tray-item {
+      display: flex;
+      align-items: center;
+      justify-content: left;
+      height: 28px;
+      min-width: 28px;
+      padding: 0 8px;
+      border-radius: 8px;
+      background: rgba(255,255,255,0);
+      cursor: pointer;
+      position: relative;
+      color: inherit;
+      overflow: hidden;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+      animation: item-entrance 0.8s ease-out !important;
+    }
+
+
+    .notification {
+      border-radius: 8px;
+      background: rgba(255,255,255,0.1);
+      cursor: pointer;
+      position: relative;
+      color: inherit;
+      overflow: hidden;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+      animation: item-entrance 0.8s ease-out !important;
+    }
+
+
+    .calendar-date, .calendar-navigator, .calendar-cell-value {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 28px;
+      min-width: 28px;
+      padding: 0 8px;
+      height: 38px;
+      border-radius: 8px;
+      background: rgba(255,255,255,0);
+      cursor: pointer;
+      position: relative;
+      color: inherit;
+      overflow: hidden;
+      animation: item-entrance 0.8s ease-out !important;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    }
+
+
+    .bluetooth-entry {
+      display: flex;
+      align-items: left;
+      justify-content: left;
+      min-width: 28px;
+      padding: 0 8px;
+      border-radius: 8px;
+      background: rgba(255,255,255,0);
+      cursor: pointer;
+      position: relative;
+      color: inherit;
+      overflow: hidden;
+      animation: item-entrance 0.8s ease-out !important;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    }
+
+
+    .keyboard-selector-entry {
+      display: flex;
+      align-items: center;
+      justify-content: left;
+      height: 28px;
+      min-width: 28px;
+      padding: 0 8px;
+      height: 38px;
+      border-radius: 8px;
+      background: rgba(255,255,255,0);
+      cursor: pointer;
+      position: relative;
+      color: inherit;
+      overflow: hidden;
+      animation: item-entrance 0.8s ease-out !important;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    }
+
+
+    .wlan-selector-entries {
+      display: flex;
+      align-items: center;
+      justify-content: left;
+      border-radius: 8px;
+      background: rgba(255,255,255,0);
+      cursor: pointer;
+      position: relative;
+      color: inherit;
+      overflow: hidden;
+      animation: item-entrance 0.8s ease-out !important;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    }
+
+
+    .media-device {
+      align-items: left;
+      min-height: 38px;
+      min-width: 28px;
+      justify-content: left;
+      border-radius: 8px;
+      background: rgba(255,255,255,0);
+      cursor: pointer;
+      color: inherit;
+      overflow: hidden;
+      position: relative;
+      animation: item-entrance 0.8s ease-out !important;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    }
+
+
+    @keyframes item-entrance {
+      0% {
+        opacity: 0;
+        transform: translateY(20px) scale(0.8);
+        filter: blur(4px);
+      }
+      60% {
+        opacity: 0.8;
+        transform: translateY(-5px) scale(1.05);
+        filter: blur(0px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+        filter: blur(0px);
+      }
+    }
+
+
+    /* Dramatic hover, but no scale/size increase */
+
+    .tray-item:hover, .bluetooth-entry:hover, .keyboard-selector-entry:hover,
+    .notification:hover, 
+
+    .calendar-date:hover, .calendar-navigator:hover, .calendar-cell-value:hover,
+    .wlan-selector-entries:hover,
+
+    .media-device:hover, .media-device-action:hover {
+      background: rgba(0, 0, 0, 0.3);
+      box-shadow: 
+        0 4px 12px rgba(0, 0, 0, 0.3),
+        0 2px 6px rgba(255, 255, 255, 0.1);
+      /* Removed transform: scale/translateY/rotate */
+      border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+
+    .tray-item:active, .bluetooth-entry:active, .keyboard-selector-entry:active,
+    .notification:active,
+
+    .calendar-date:active, .calendar-navigator:active,
+    .calendar-cell-value:active, .wlan-selector-entries:active,
+
+    .media-device:active, .media-device-action:active {
+      background: rgba(0, 0, 0, 0.5);
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+      transform: translateY(1px) scale(0.95);
+      transition: all 0.1s ease;
+    }
+
+
+    .tray-item::after, .bluetooth-entry::after, .keyboard-selector-entry::after,
+    .notification::after,
+
+    .calendar-date::after, .calendar-navigator::after,
+    .calendar-cell-value::after, .wlan-selector-entries::after,
+
+    .media-device::after, .media-device-action::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(
+        110deg,
+        transparent 20%,
+        rgba(255, 255, 255, 0.4) 50%,
+        transparent 80%
+      );
+      transition: left 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+      opacity: 0;
+    }
+
+
+    .tray-item:hover::after, .bluetooth-entry:hover::after,
+    .keyboard-selector-entry:hover::after, .notification:hover::after, 
+
+    .calendar-date:hover::after, .calendar-navigator:hover::after,
+    .calendar-cell-value:hover::after, 
+
+    .wlan-selector-entries:hover::after, .media-device:hover::after,
+    .media-device-action:hover::after {
+      left: 100%;
+      opacity: 1;
+    }
+
+
+    .tray-item.active, .bluetooth-entry.active, .keyboard-selector-entry.active,
+    .notification.active,
+
+    .calendar-date.active, .calendar-navigator.active,
+    .calendar-cell-value.active, .wlan-selector-entries.active,
+
+    .media-device.active, .media-device-action.active {
+      animation: tray-pulse 2s ease-in-out infinite alternate;
+    }
+
+
+    @keyframes tray-pulse {
+      0% {
+        box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.4);
+      }
+      100% {
+        box-shadow: 0 0 0 8px rgba(255, 255, 255, 0);
+      }
+    }
+
+
+    * [class*="tray"], .bluetooth, .keyboard-selector, .media-control {
+      animation: global-slide-in 0.6s ease !important;
+    }
+
+
+    @keyframes global-slide-in {
+      from {
+        opacity: 0;
+        transform: translateX(-20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+
+
+    .tray-item,
+
+    .tray-items > *,
+
+    [data-testid*="tray"], .bluetooth-entry, .keyboard-selector-entry,
+    .notification,
+
+    .calendar-date, .calendar-navigator, .calendar-cell-value,
+    .wlan-selector-entries, .media-device, 
+
+    .media-device-action {
+      animation: simple-fade 1s ease-in-out !important;
+    }
+
+
+    @keyframes simple-fade {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+sharedStyles: ''
